@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "8741051",
-    "movie_id": "89209",
-    "author": "eotk****",
-    "review": "아아 일품작품이다 물론 안봤지만.",
-    "rating": "10",
-    "date": "14.05.17"
-  },
-  {
-    "review_id": "8693853",
-    "movie_id": "89209",
-    "author": "gust****",
-    "review": "샬라샬라 나오다즁자쥬아",
-    "rating": "1",
-    "date": "14.05.02"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f537fc8f01e8ef0ab34e8ca5f6efddecd877bd52e99bc2ef55d879867dafc6d
+size 396

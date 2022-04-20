@@ -1,26 +1,3 @@
-[
-  {
-    "review": "음....;;굳",
-    "date": "09.07.02",
-    "rating": "10",
-    "author": "kqkd****",
-    "review_id": "3605859",
-    "movie_id": "21484"
-  },
-  {
-    "review": "음..",
-    "date": "09.06.11",
-    "rating": "6",
-    "author": "airc****",
-    "review_id": "3558715",
-    "movie_id": "21484"
-  },
-  {
-    "review": "굿 최고의 명작",
-    "date": "06.01.27",
-    "rating": "10",
-    "author": "escu****",
-    "review_id": "626811",
-    "movie_id": "21484"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:4efb3d84516597dc6e9cf504ad49ffcc15e3afc0a7aa0e3991d4de55d6656edd
+size 509

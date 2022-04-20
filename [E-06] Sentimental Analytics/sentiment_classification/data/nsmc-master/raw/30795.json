@@ -1,18 +1,3 @@
-[
-  {
-    "review": "축에도 못 끼는 어중간한 집착!!",
-    "date": "10.09.24",
-    "rating": "3",
-    "author": "yaky****",
-    "review_id": "4865578",
-    "movie_id": "30795"
-  },
-  {
-    "review": "이거 완전 액션씬도 아니고 범죄씬 아닐까???어쨌든 재밌다!!!",
-    "date": "08.02.08",
-    "rating": "10",
-    "author": "rrar****",
-    "review_id": "2422549",
-    "movie_id": "30795"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7fd81522f09f2a850e9e4417425f2ad306fb6526f3217eecf33ae3ef92bedbb
+size 439

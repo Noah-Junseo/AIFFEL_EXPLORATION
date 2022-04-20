@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "10277706",
-    "movie_id": "113621",
-    "author": "youy****",
-    "review": "20년이 지나도 어떤것도 넘볼수없는 최고의드라마",
-    "rating": "10",
-    "date": "15.08.27"
-  },
-  {
-    "review_id": "7893654",
-    "movie_id": "113621",
-    "author": "ktx4****",
-    "review": "최.고",
-    "rating": "10",
-    "date": "13.08.17"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d14760f57a56ea6acf41a20cb238f12dd8f28a400a65c9e0b72b0ae772231f73
+size 393

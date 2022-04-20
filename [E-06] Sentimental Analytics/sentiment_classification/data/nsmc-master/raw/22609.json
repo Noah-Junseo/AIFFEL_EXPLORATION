@@ -1,18 +1,3 @@
-[
-  {
-    "review": "굳",
-    "date": "12.10.02",
-    "rating": "1",
-    "author": "kwk2****",
-    "review_id": "6753923",
-    "movie_id": "22609"
-  },
-  {
-    "review": "굳",
-    "date": "09.01.19",
-    "rating": "10",
-    "author": "ehdg****",
-    "review_id": "3232085",
-    "movie_id": "22609"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf07e7bd1685ea1edb546aaa3930c261af2f87e0d4e330d9afbd4df25928cba2
+size 322

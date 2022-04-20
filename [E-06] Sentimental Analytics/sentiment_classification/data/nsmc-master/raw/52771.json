@@ -1,26 +1,3 @@
-[
-  {
-    "review": "아쉬웠다",
-    "date": "06.08.04",
-    "rating": "7",
-    "author": "zeed****",
-    "review_id": "967982",
-    "movie_id": "52771"
-  },
-  {
-    "review": "이런 스토리가 다있는지 당황스럽다..",
-    "date": "05.12.25",
-    "rating": "5",
-    "author": "jcr3****",
-    "review_id": "527071",
-    "movie_id": "52771"
-  },
-  {
-    "review": "TV판 친절한 금자씨다",
-    "date": "05.12.20",
-    "rating": "10",
-    "author": "blue****",
-    "review_id": "517118",
-    "movie_id": "52771"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1390f00986cc017f797774bac84e5fd187a621f2e4964dea727c74821c4d6c2
+size 559

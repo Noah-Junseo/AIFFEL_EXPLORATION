@@ -1,26 +1,3 @@
-[
-  {
-    "review": "대한민국역사박물관갔다와서 찾아본사람 공감",
-    "date": "13.08.20",
-    "rating": "10",
-    "author": "jkp3****",
-    "review_id": "7906135",
-    "movie_id": "21581"
-  },
-  {
-    "review": "별로",
-    "date": "12.01.29",
-    "rating": "1",
-    "author": "skag****",
-    "review_id": "6034087",
-    "movie_id": "21581"
-  },
-  {
-    "review": "6.25 전쟁 일어나기전이군",
-    "date": "11.08.24",
-    "rating": "10",
-    "author": "guda****",
-    "review_id": "5683479",
-    "movie_id": "21581"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:0aae16306db1b50efca0af71b901092f6cd734c0bb957ba3f0bf06cb6750c471
+size 574

@@ -1,26 +1,3 @@
-[
-  {
-    "review": "쫄딱망한애니중하나...",
-    "date": "07.01.24",
-    "rating": "10",
-    "author": "i971****",
-    "review_id": "1411061",
-    "movie_id": "18351"
-  },
-  {
-    "review": "대다수 성의없는 애니메이션중의 하나.",
-    "date": "05.05.17",
-    "rating": "4",
-    "author": "jcr3****",
-    "review_id": "279594",
-    "movie_id": "18351"
-  },
-  {
-    "review": "게임이 100배는 더 히트쳣어 ㅋㅋㅋ",
-    "date": "04.12.18",
-    "rating": "10",
-    "author": "rnlt****",
-    "review_id": "164647",
-    "movie_id": "18351"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:34fb5b349a3b1dc54af10b0074670d09c7040fc601c31675e8365e81e507d8d8
+size 599

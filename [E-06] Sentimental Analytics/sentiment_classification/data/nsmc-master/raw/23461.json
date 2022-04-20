@@ -1,18 +1,3 @@
-[
-  {
-    "review": "평점 밸런스를 위하여!",
-    "date": "15.08.02",
-    "rating": "1",
-    "author": "veen****",
-    "review_id": "10177926",
-    "movie_id": "23461"
-  },
-  {
-    "review": "재밌음",
-    "date": "09.02.23",
-    "rating": "10",
-    "author": "kng1****",
-    "review_id": "3328017",
-    "movie_id": "23461"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d76b15f2f55c907de881e63a969c004fcadc5a0c186beccd47d3334ddc12765
+size 356

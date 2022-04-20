@@ -1,18 +1,3 @@
-[
-  {
-    "review": "정말 잊혀지지 않는  명화",
-    "date": "15.07.15",
-    "rating": "10",
-    "author": "wpdu****",
-    "review_id": "10106889",
-    "movie_id": "10915"
-  },
-  {
-    "review": "명작은 잊혀지지 않는다",
-    "date": "15.05.10",
-    "rating": "10",
-    "author": "kimd****",
-    "review_id": "9907911",
-    "movie_id": "10915"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8af5efc790de0117c4ff2f90a7927e10c0073f3eba9cb3815f0853e977b712a
+size 384

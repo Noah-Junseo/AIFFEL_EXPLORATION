@@ -1,26 +1,3 @@
-[
-  {
-    "review": "뭔지도 모르고 본 영화 지금 보면 참 그렇겠지만 그때의 추억으로 남기겠다",
-    "date": "09.07.21",
-    "rating": "7",
-    "author": "deff****",
-    "review_id": "3654860",
-    "movie_id": "20857"
-  },
-  {
-    "review": "Legend of martial art movie!!!!",
-    "date": "09.07.14",
-    "rating": "10",
-    "author": "mig0****",
-    "review_id": "3631625",
-    "movie_id": "20857"
-  },
-  {
-    "review": "옛날에 재밌게 봤던 기억...",
-    "date": "04.07.11",
-    "rating": "8",
-    "author": "spdl****",
-    "review_id": "68617",
-    "movie_id": "20857"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:492149e4ff895bb5ab275608f613434bede1f11c22abc078c66416b785fd5763
+size 637

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "재미잇어요",
-    "date": "13.07.17",
-    "rating": "10",
-    "author": "donm****",
-    "review_id": "7753153",
-    "movie_id": "31349"
-  },
-  {
-    "review": "원작을 바꾸는데는 성공 재미는 실패",
-    "date": "05.08.02",
-    "rating": "2",
-    "author": "okjo****",
-    "review_id": "348423",
-    "movie_id": "31349"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:89544a748d2077b18171b67d9f3c042e35ae4dcbe0b0d642b89099b0d8e68c36
+size 379

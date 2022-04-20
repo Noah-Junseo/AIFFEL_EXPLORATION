@@ -1,10 +1,3 @@
-[
-  {
-    "review": "저 예산으로 이런 영화를 만들 수 있다는 것에 박수를 보냅니다.",
-    "date": "15.04.01",
-    "rating": "9",
-    "author": "10ki****",
-    "review_id": "9820091",
-    "movie_id": "12564"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a71b4aa110fbfa9936145de37e1b5faac8c52c9b963049880c22bb17367cd49
+size 244

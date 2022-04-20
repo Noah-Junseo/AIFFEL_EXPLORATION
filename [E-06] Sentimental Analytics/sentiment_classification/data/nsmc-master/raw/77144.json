@@ -1,26 +1,3 @@
-[
-  {
-    "review_id": "6036333",
-    "movie_id": "77144",
-    "author": "odjs****",
-    "review": "정말 재밌는 드라마.",
-    "rating": "10",
-    "date": "12.01.30"
-  },
-  {
-    "review_id": "5470192",
-    "movie_id": "77144",
-    "author": "jsk2****",
-    "review": "재미있게 잘 봤습니다.",
-    "rating": "8",
-    "date": "11.06.07"
-  },
-  {
-    "review_id": "4942881",
-    "movie_id": "77144",
-    "author": "baks****",
-    "review": "짜증과 실소(헛웃음)의 싱크로율이 400%나 되는,캐스팅이 아까운,당대의 망작.",
-    "rating": "1",
-    "date": "10.11.07"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d76eeb0f278f383c7cfb17ec800f2b897de9c882f47fa23854567b7599d9f4f1
+size 631

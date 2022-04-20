@@ -1,18 +1,3 @@
-[
-  {
-    "review": "ㅋㅋ 10점 꺠기",
-    "date": "13.02.11",
-    "rating": "1",
-    "author": "vmdb****",
-    "review_id": "7252238",
-    "movie_id": "11468"
-  },
-  {
-    "review": "천호진 화이팅",
-    "date": "09.11.14",
-    "rating": "10",
-    "author": "sotk****",
-    "review_id": "3960657",
-    "movie_id": "11468"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb78cf94b6d50e3d7190509eda9b03b531639db7ea9d14dcc69214282a5447b5
+size 354

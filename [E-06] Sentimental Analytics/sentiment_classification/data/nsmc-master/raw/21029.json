@@ -1,10 +1,3 @@
-[
-  {
-    "review": "12345678910",
-    "date": "14.05.28",
-    "rating": "10",
-    "author": "wnst****",
-    "review_id": "8772232",
-    "movie_id": "21029"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:dedd8a2e22e5ba240b2c45ecce8ab03d64ebaa06891b4c37561a604078c8204e
+size 171

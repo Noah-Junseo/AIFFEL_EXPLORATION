@@ -1,18 +1,3 @@
-[
-  {
-    "review": "박지영 너무 이뻐",
-    "date": "12.06.18",
-    "rating": "10",
-    "author": "odjs****",
-    "review_id": "6400214",
-    "movie_id": "38826"
-  },
-  {
-    "review": "박지영씨 좋아",
-    "date": "06.08.02",
-    "rating": "8",
-    "author": "zeed****",
-    "review_id": "956140",
-    "movie_id": "38826"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:17d25867b726e3d59f72b1cd778c5414c0955f79c52988ccbc8dbd079876d202
+size 357

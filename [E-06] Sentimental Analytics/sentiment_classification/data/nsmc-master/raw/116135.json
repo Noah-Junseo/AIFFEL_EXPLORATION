@@ -1,26 +1,3 @@
-[
-  {
-    "review_id": "8363714",
-    "movie_id": "116135",
-    "author": "ulyk****",
-    "review": "완전 졸잼이예여~~~~!!!!",
-    "rating": "10",
-    "date": "14.01.09"
-  },
-  {
-    "review_id": "8347176",
-    "movie_id": "116135",
-    "author": "sunt****",
-    "review": "별점 테러 ^오^ 10점 유지 되는거 보기 싫음 ㅇㅇ",
-    "rating": "1",
-    "date": "14.01.04"
-  },
-  {
-    "review_id": "8335109",
-    "movie_id": "116135",
-    "author": "whtp****",
-    "review": "진심재미있네요ㅎㅎㅎ",
-    "rating": "10",
-    "date": "14.01.01"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d503d2c4737be015dcfdafdbf0df32e274329901f09c8c0fd363399f2cfe175
+size 599

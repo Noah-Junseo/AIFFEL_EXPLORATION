@@ -1,18 +1,3 @@
-[
-  {
-    "review": "평점이 어떻게 원주율아래냐?불쌍해서,4점준다...(웃음)",
-    "date": "12.07.17",
-    "rating": "4",
-    "author": "baks****",
-    "review_id": "6487172",
-    "movie_id": "14456"
-  },
-  {
-    "review": "이 시리즈는 언제나 끝나려는지",
-    "date": "07.07.17",
-    "rating": "4",
-    "author": "deff****",
-    "review_id": "1783930",
-    "movie_id": "14456"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:47daafa5d5379507bc4a46c1328dd0b9d2f74d1d351dbe5b6649195d03e50678
+size 430

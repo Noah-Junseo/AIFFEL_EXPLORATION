@@ -1,18 +1,3 @@
-[
-  {
-    "review": "이런 풍자영화가 없는 한국이 참 안타깝다.",
-    "date": "11.07.23",
-    "rating": "8",
-    "author": "evil****",
-    "review_id": "5563073",
-    "movie_id": "22812"
-  },
-  {
-    "review": "재밌음!!!!!!!!!!",
-    "date": "10.01.14",
-    "rating": "10",
-    "author": "gdsa****",
-    "review_id": "4170712",
-    "movie_id": "22812"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:eefd940cbad075554897f7988c11d3148450ffc467abb7c8357565381debde41
+size 392

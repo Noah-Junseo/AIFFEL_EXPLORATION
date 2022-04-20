@@ -1,18 +1,3 @@
-[
-  {
-    "review": "온몸에 힘이 제대로 들어간 수사극. 대단하다.",
-    "date": "08.05.08",
-    "rating": "10",
-    "author": "skyt****",
-    "review_id": "2624657",
-    "movie_id": "29734"
-  },
-  {
-    "review": "어깨에 힘이 잔뜩 들어간 수사극. 지루하다.",
-    "date": "05.03.16",
-    "rating": "4",
-    "author": "godc****",
-    "review_id": "241915",
-    "movie_id": "29734"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e1d938c6928cb9986aa6998d526e7ce31101101e8903d38b3c5e53721e81878
+size 434

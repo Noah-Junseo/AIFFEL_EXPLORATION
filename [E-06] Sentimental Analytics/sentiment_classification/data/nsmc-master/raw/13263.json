@@ -1,18 +1,3 @@
-[
-  {
-    "review": "나름 볼만한 영화. 선우일란 나오는 것만으로 5점은..ㅎㅎㅎ",
-    "date": "14.11.10",
-    "rating": "8",
-    "author": "sola****",
-    "review_id": "9365892",
-    "movie_id": "13263"
-  },
-  {
-    "review": "약간 쇼킹한 종교영화...",
-    "date": "09.02.24",
-    "rating": "2",
-    "author": "wood****",
-    "review_id": "3330309",
-    "movie_id": "13263"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:527c2c3ad77d3212d21e023e37c8b84f9117772001e59a6a03e45ed31f611ad5
+size 426

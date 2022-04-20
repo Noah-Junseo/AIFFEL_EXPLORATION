@@ -1,18 +1,3 @@
-[
-  {
-    "review": "ㅎ 옛다 10점 걍 궁금함.. ㄱㅋㅋ",
-    "date": "14.07.26",
-    "rating": "10",
-    "author": "debb****",
-    "review_id": "8964878",
-    "movie_id": "39588"
-  },
-  {
-    "review": "아침드라마는 그내용이 그내용...",
-    "date": "07.03.15",
-    "rating": "8",
-    "author": "zeed****",
-    "review_id": "1534900",
-    "movie_id": "39588"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:540a1bc416060f0d9b4ec3c2f6a8929041f634a1b2a6e5f80ad3eb6afe1e07a5
+size 402

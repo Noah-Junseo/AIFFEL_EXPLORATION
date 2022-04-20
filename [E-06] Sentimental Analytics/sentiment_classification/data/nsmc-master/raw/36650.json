@@ -1,18 +1,3 @@
-[
-  {
-    "review": "정말 97년도에 만든영화인지 엤날같이 잘만들었다.",
-    "date": "05.05.28",
-    "rating": "8",
-    "author": "guzi****",
-    "review_id": "288652",
-    "movie_id": "36650"
-  },
-  {
-    "review": "97년도 영환데 막상보면 70년대 같다 ~0~",
-    "date": "05.01.24",
-    "rating": "5",
-    "author": "godp****",
-    "review_id": "194506",
-    "movie_id": "36650"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcf9828f648c5e03ee5d65db66ba2cf1b0474771b2e4f7bc6a64760a8f96d9dd
+size 431

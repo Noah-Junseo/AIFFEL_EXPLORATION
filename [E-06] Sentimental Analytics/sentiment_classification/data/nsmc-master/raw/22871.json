@@ -1,18 +1,3 @@
-[
-  {
-    "review": "너무 인기가 없는거 같아서 10점드림",
-    "date": "14.07.11",
-    "rating": "10",
-    "author": "asd9****",
-    "review_id": "8905408",
-    "movie_id": "22871"
-  },
-  {
-    "review": "이게..이게 영화인가요?",
-    "date": "10.02.23",
-    "rating": "1",
-    "author": "hwa9****",
-    "review_id": "4312162",
-    "movie_id": "22871"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:80811373d56cb657cd985d79b468002e8da629fad9b4218a578474595c1f8bfa
+size 395

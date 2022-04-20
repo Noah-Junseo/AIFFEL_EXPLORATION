@@ -1,18 +1,3 @@
-[
-  {
-    "review": "어릴때 나홀로집에 비슷한건줄알고 빌렷는데 노잼",
-    "date": "14.08.10",
-    "rating": "1",
-    "author": "dltk****",
-    "review_id": "9062488",
-    "movie_id": "17515"
-  },
-  {
-    "review": "나홀로집에5보다더 재미없었다는, 보다가 지루해서 잘뻔한 영화",
-    "date": "05.08.21",
-    "rating": "3",
-    "author": "duwo****",
-    "review_id": "377928",
-    "movie_id": "17515"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d6499422c090583cccf357ed08011a007c8301074cbc04ae3b9e6ccae3c68ef
+size 466

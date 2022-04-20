@@ -1,18 +1,3 @@
-[
-  {
-    "review": "무의미평점 밸런스조절",
-    "date": "14.02.19",
-    "rating": "10",
-    "author": "lock****",
-    "review_id": "8520181",
-    "movie_id": "15356"
-  },
-  {
-    "review": "뭔 영화인지 알아보려고 왔고만, 아무도 평점하지 않는 영화는 난생 처음이네...",
-    "date": "14.01.12",
-    "rating": "1",
-    "author": "inyo****",
-    "review_id": "8375510",
-    "movie_id": "15356"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:4770be696605506b4618db6e05163216f932b8c79678bd9818c6a4678f68c74b
+size 453

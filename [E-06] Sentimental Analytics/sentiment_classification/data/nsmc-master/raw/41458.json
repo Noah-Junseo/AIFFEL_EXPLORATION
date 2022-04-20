@@ -1,26 +1,3 @@
-[
-  {
-    "review": "오대규 진짜 멋있다.연기 정말 잘해.",
-    "date": "13.03.27",
-    "rating": "10",
-    "author": "odjs****",
-    "review_id": "7414248",
-    "movie_id": "41458"
-  },
-  {
-    "review": "박소현 누나 이때 진짜 이뻤는데, 다시 볼수 잇는 방법이,,",
-    "date": "08.10.27",
-    "rating": "10",
-    "author": "kata****",
-    "review_id": "3023260",
-    "movie_id": "41458"
-  },
-  {
-    "review": "또 보고 싶네요. ^^",
-    "date": "05.06.21",
-    "rating": "8",
-    "author": "yjy6****",
-    "review_id": "303472",
-    "movie_id": "41458"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6475a21eeb7f9a8f26d7c565f3056106dd60786c521570f8dc348f7f4a3aa1c
+size 621

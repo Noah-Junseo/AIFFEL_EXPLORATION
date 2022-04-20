@@ -1,26 +1,3 @@
-[
-  {
-    "review": "우연히 봤다. 이것도 괴작이네.",
-    "date": "14.12.09",
-    "rating": "1",
-    "author": "csmo****",
-    "review_id": "9460044",
-    "movie_id": "13190"
-  },
-  {
-    "review": "새벽에 보다가 빵터졌음..난데없이 뮤지컬ㅋ나한일씨가 섹소폰을 부시구..ㅋㅋ 그치만 내용은 재밌음!",
-    "date": "14.08.06",
-    "rating": "9",
-    "author": "soso****",
-    "review_id": "9035065",
-    "movie_id": "13190"
-  },
-  {
-    "review": "너무 재미잇음 뭘또 10자를 등록해",
-    "date": "14.05.15",
-    "rating": "10",
-    "author": "igoo****",
-    "review_id": "8731643",
-    "movie_id": "13190"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fca2ecba40052b6b2029b63b9cee2ae5c81aa4ff26114ad0ab588b0bac37eeb
+size 694

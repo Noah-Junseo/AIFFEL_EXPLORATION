@@ -1,18 +1,3 @@
-[
-  {
-    "review": "평점떨구기 핳핳하",
-    "date": "13.07.14",
-    "rating": "1",
-    "author": "chip****",
-    "review_id": "7739371",
-    "movie_id": "62447"
-  },
-  {
-    "review": "굿",
-    "date": "09.02.20",
-    "rating": "10",
-    "author": "jsho****",
-    "review_id": "3319603",
-    "movie_id": "62447"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef0567b7db843d50c817589648cbe95f9d6ddb999993dc07d54d976625aeaab4
+size 344

@@ -1,10 +1,3 @@
-[
-  {
-    "review": "내가 평점을 올렸다",
-    "date": "13.05.22",
-    "rating": "10",
-    "author": "dpr3****",
-    "review_id": "7548070",
-    "movie_id": "23144"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:60c8ea7a194d9deb6001a436b2c5440eb7ab4109585efcd6f428a86745983e6c
+size 186

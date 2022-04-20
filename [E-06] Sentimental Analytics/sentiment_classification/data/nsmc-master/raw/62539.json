@@ -1,18 +1,3 @@
-[
-  {
-    "review": "이거 잼는데 다시볼수이쓰면조켓다",
-    "date": "13.01.02",
-    "rating": "10",
-    "author": "dlaw****",
-    "review_id": "7074956",
-    "movie_id": "62539"
-  },
-  {
-    "review": "음.. 재밌었어.. 학교 졸업 기념으로본 영화였지..",
-    "date": "08.03.15",
-    "rating": "8",
-    "author": "pola****",
-    "review_id": "2522134",
-    "movie_id": "62539"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:2df1c2c948e46acd965c056c63836a3a8136f5285b7bec96d2140fb2b7dd3f26
+size 428

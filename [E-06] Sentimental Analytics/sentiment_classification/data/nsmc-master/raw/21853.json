@@ -1,18 +1,3 @@
-[
-  {
-    "review": "노잼..절대 보지 마세요.",
-    "date": "15.02.18",
-    "rating": "1",
-    "author": "rapu****",
-    "review_id": "9710879",
-    "movie_id": "21853"
-  },
-  {
-    "review": "짱임!!",
-    "date": "10.08.24",
-    "rating": "10",
-    "author": "yy21****",
-    "review_id": "4788760",
-    "movie_id": "21853"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:823b7445e5cb2d7e04295098fcf1e4e381622344167e21a4ffea77761d9664bb
+size 356

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "전후 자유당시절 최고의 역작",
-    "date": "15.01.12",
-    "rating": "10",
-    "author": "came****",
-    "review_id": "9588618",
-    "movie_id": "19903"
-  },
-  {
-    "review": "6.25 후 4년이 지난 시대. 사료의 가치가 있다.",
-    "date": "11.10.03",
-    "rating": "4",
-    "author": "pria****",
-    "review_id": "5769212",
-    "movie_id": "19903"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:aba1f51898ca05e85031519d8b24051ee24a9731e53786a094b199c6dd9bc3f0
+size 414

@@ -1,34 +1,3 @@
-[
-  {
-    "review_id": "8078274",
-    "movie_id": "86118",
-    "author": "yu88****",
-    "review": "재미있어요!! 무섭지만 ㅜㅜ",
-    "rating": "9",
-    "date": "13.10.21"
-  },
-  {
-    "review_id": "6044074",
-    "movie_id": "86118",
-    "author": "yang****",
-    "review": "짱꼴라 영화는 몇편빼고 다 재미가없다..이영화도 재미없고..",
-    "rating": "1",
-    "date": "12.02.02"
-  },
-  {
-    "review_id": "5706499",
-    "movie_id": "86118",
-    "author": "gall****",
-    "review": "생소한 영화다 싶으면 수입사를 확인하라. 십중팔구 삼류작을 수입하는 영세수입사들",
-    "rating": "1",
-    "date": "11.09.03"
-  },
-  {
-    "review_id": "5635765",
-    "movie_id": "86118",
-    "author": "suse****",
-    "review": "왠 천녀유혼 짝퉁이냐",
-    "rating": "5",
-    "date": "11.08.11"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a3a8946eeb5b19320193a6b4cab97cd100c9f337c1bd0d48547c1254c7f2830
+size 888

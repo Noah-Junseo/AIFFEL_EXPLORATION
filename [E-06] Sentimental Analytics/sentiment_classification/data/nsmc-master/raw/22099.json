@@ -1,18 +1,3 @@
-[
-  {
-    "review": "이거  몇세이상일까 궁금해 정말",
-    "date": "14.03.20",
-    "rating": "10",
-    "author": "sy01****",
-    "review_id": "8591103",
-    "movie_id": "22099"
-  },
-  {
-    "review": "ㅋ재밌음 뭐 그냥 볼만한감?",
-    "date": "14.03.20",
-    "rating": "10",
-    "author": "paul****",
-    "review_id": "8590774",
-    "movie_id": "22099"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:0532b0d8e05bb32a687b266391dc6c0734e81f7628165d978e4f98dbfbc9b8a8
+size 397

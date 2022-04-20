@@ -1,34 +1,3 @@
-[
-  {
-    "review": "음 ....",
-    "date": "10.08.06",
-    "rating": "10",
-    "author": "we70****",
-    "review_id": "4713449",
-    "movie_id": "45257"
-  },
-  {
-    "review": "소년의 천진난만하고 악에 쉽게 물들지 않는 모습이 와닿는다.",
-    "date": "09.08.29",
-    "rating": "9",
-    "author": "skss****",
-    "review_id": "3795709",
-    "movie_id": "45257"
-  },
-  {
-    "review": "연출이 좋다 . 우연히 보게되었는데 정말 괜찮은 영화다.",
-    "date": "09.03.29",
-    "rating": "10",
-    "author": "o0wl****",
-    "review_id": "3394193",
-    "movie_id": "45257"
-  },
-  {
-    "review": "아프리카의 현실을 이해하기 좋은 영화",
-    "date": "08.07.22",
-    "rating": "7",
-    "author": "hany****",
-    "review_id": "2793463",
-    "movie_id": "45257"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e03140d7ff2ae26e4f3ecf26b45667f99ffc3a29825b6a64f944ab7f5b7b93c
+size 847

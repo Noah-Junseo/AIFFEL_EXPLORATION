@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "8454047",
-    "movie_id": "117253",
-    "author": "retu****",
-    "review": "중국을 또다른 눈으로 바라보게 됬네요",
-    "rating": "10",
-    "date": "14.01.31"
-  },
-  {
-    "review_id": "8358806",
-    "movie_id": "117253",
-    "author": "ckdo****",
-    "review": "별점테러 별점테러 별점테러",
-    "rating": "1",
-    "date": "14.01.07"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:859c0e1e832973f8e98c7af25e4e129ea574aa79d4bdc5ba610d9f2683842cea
+size 408

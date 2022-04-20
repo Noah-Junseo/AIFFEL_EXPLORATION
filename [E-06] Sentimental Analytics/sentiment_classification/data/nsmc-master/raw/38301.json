@@ -1,26 +1,3 @@
-[
-  {
-    "review": "조금 이해안가는것만 빼면 괜찮았습니다.",
-    "date": "06.08.20",
-    "rating": "8",
-    "author": "hwan****",
-    "review_id": "1063147",
-    "movie_id": "38301"
-  },
-  {
-    "review": "어린 저에게는 이해하기가 힘들었습니다.",
-    "date": "06.08.20",
-    "rating": "5",
-    "author": "80sl****",
-    "review_id": "1060580",
-    "movie_id": "38301"
-  },
-  {
-    "review": "처음에는 별로 였는데 갈수록 재밌어지고 즐거웠습니다.",
-    "date": "06.08.19",
-    "rating": "10",
-    "author": "kong****",
-    "review_id": "1057675",
-    "movie_id": "38301"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a88c67daac58a8009143e48af85d16d4cac2555fda510aea4ee127aa45bc8b4
+size 657

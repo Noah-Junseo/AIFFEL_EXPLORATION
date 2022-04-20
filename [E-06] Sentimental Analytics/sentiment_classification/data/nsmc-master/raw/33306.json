@@ -1,18 +1,3 @@
-[
-  {
-    "review": "만화 영화와 함께.. 가면을 벗길수 있었던 플라스틱 장난감의 기억도 새롭다.",
-    "date": "09.01.18",
-    "rating": "6",
-    "author": "acin****",
-    "review_id": "3228382",
-    "movie_id": "33306"
-  },
-  {
-    "review": "이거 비디오로 꼬박꼬박 빌려 봤었는데..당시 레슬링 열풍도 있었고..",
-    "date": "07.07.28",
-    "rating": "10",
-    "author": "skat****",
-    "review_id": "1818330",
-    "movie_id": "33306"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea8977e3d177dfcffceeaf9cf0b471d719614835573e895459e54d56eea8b539
+size 510

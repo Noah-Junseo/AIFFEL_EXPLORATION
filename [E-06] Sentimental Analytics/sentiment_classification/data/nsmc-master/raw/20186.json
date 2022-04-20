@@ -1,18 +1,3 @@
-[
-  {
-    "review": "한국 고전 영화 이죠  보는 내내  마음이 편안했음니다이영화 볼만함",
-    "date": "08.10.26",
-    "rating": "10",
-    "author": "akrr****",
-    "review_id": "3021600",
-    "movie_id": "20186"
-  },
-  {
-    "review": "그냥 옛날기분에 보는거... 그럭저럭 기대않하고 볼만함...",
-    "date": "08.10.20",
-    "rating": "8",
-    "author": "llti****",
-    "review_id": "3010161",
-    "movie_id": "20186"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:056eabe907d999d616526f91b1994830e496b24e2d3e41c9b8b107655f42425c
+size 484

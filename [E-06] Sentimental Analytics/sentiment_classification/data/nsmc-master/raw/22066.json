@@ -1,18 +1,3 @@
-[
-  {
-    "review": "예ㅛ날영화를조ㅎ아해서봣는데 영",
-    "date": "15.02.27",
-    "rating": "1",
-    "author": "medo****",
-    "review_id": "9743147",
-    "movie_id": "22066"
-  },
-  {
-    "review": "좋아요!  최고의 영화!",
-    "date": "14.11.09",
-    "rating": "10",
-    "author": "jung****",
-    "review_id": "9360786",
-    "movie_id": "22066"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1641dc718c38a52bc34ccea7242adfe449b4d0f2e22233833de39073305adc6
+size 391

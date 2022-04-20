@@ -1,18 +1,3 @@
-[
-  {
-    "review": "2빠 왜 거짓말했어 처녀라고",
-    "date": "13.01.27",
-    "rating": "7",
-    "author": "jck8****",
-    "review_id": "7181336",
-    "movie_id": "21177"
-  },
-  {
-    "review": "이 영화에 대한 이야기가 왜 이렇게 없냐",
-    "date": "09.08.10",
-    "rating": "9",
-    "author": "sr82****",
-    "review_id": "3731672",
-    "movie_id": "21177"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:bebf9c8e3c3e6a4c13f5abf15a6c6f2a016f1b30d3b445040d187c05c4d32a10
+size 406

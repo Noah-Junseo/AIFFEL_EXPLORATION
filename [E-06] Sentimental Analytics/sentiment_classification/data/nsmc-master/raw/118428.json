@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "8795384",
-    "movie_id": "118428",
-    "author": "ludy****",
-    "review": "이기광오빠 너무 멋있어요...",
-    "rating": "10",
-    "date": "14.06.04"
-  },
-  {
-    "review_id": "8428794",
-    "movie_id": "118428",
-    "author": "nimo****",
-    "review": "대놓고 '순수함'을 표현한드라마배우들도 풋풋하고 영상미도 순수하다일본 10대영화같은?느낌을주었다",
-    "rating": "10",
-    "date": "14.01.26"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f71a9ce6e1c74e58f74e92e31c4515df67cb642609a307f3da17dc7145377c8
+size 494

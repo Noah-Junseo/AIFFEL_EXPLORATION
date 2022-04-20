@@ -1,18 +1,3 @@
-[
-  {
-    "review": "염정아가 이렇게 예뻤구나 ㄷㄷ.. 하면서도 세월앞에서는 장사없다는 허무함",
-    "date": "15.04.27",
-    "rating": "9",
-    "author": "rlat****",
-    "review_id": "9872769",
-    "movie_id": "13218"
-  },
-  {
-    "review": "짜고 치는 고스톱",
-    "date": "09.10.07",
-    "rating": "2",
-    "author": "evil****",
-    "review_id": "3879636",
-    "movie_id": "13218"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:1106020df9d75117763da952fca7bf87380b94153e4738b806372c2cbac948de
+size 440

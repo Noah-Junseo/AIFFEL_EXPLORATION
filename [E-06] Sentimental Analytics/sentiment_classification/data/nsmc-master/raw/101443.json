@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "7443466",
-    "movie_id": "101443",
-    "author": "bume****",
-    "review": "그럭저럭 볼만한 킬링타임용 작품인데 평가가 왜이리 좋은거죠 ㄷㄷ..",
-    "rating": "6",
-    "date": "13.04.08"
-  },
-  {
-    "review_id": "6957788",
-    "movie_id": "101443",
-    "author": "7014****",
-    "review": "걍 5명다 내 여동생하면안되염?",
-    "rating": "10",
-    "date": "12.12.02"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:15df4b0eff420455f2cdcccbbee0474871cab2c4465d08a60c660ae661ed7b96
+size 452

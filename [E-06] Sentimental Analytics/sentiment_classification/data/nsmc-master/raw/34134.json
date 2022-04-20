@@ -1,18 +1,3 @@
-[
-  {
-    "review": "이걸 1,2부로 나눴다는 것도 의문이고, 1부와 2부가 연속성이 없다는 것도 의문이다",
-    "date": "10.07.24",
-    "rating": "1",
-    "author": "mygr****",
-    "review_id": "4665309",
-    "movie_id": "34134"
-  },
-  {
-    "review": "내용도 형편없지만, 1년만의 속편인데 주연 4인중 3인이 교체되다니, 참 나.",
-    "date": "09.03.16",
-    "rating": "2",
-    "author": "acin****",
-    "review_id": "3369042",
-    "movie_id": "34134"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:85975813e69aeafa15ae3487d626f4c7155dddc969dc1e94ec0f5e53e5569ca5
+size 523

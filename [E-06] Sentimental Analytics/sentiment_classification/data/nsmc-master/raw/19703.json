@@ -1,26 +1,3 @@
-[
-  {
-    "review": "오래된 영화라 어설프지만 볼만함",
-    "date": "12.04.17",
-    "rating": "10",
-    "author": "vnfa****",
-    "review_id": "6229067",
-    "movie_id": "19703"
-  },
-  {
-    "review": "약간은 ㅠ아쉬운..영화",
-    "date": "10.04.05",
-    "rating": "10",
-    "author": "hmk1****",
-    "review_id": "4413765",
-    "movie_id": "19703"
-  },
-  {
-    "review": "김춘삼은 1928년 강원 출생.",
-    "date": "04.02.18",
-    "rating": "10",
-    "author": "koja****",
-    "review_id": "21483",
-    "movie_id": "19703"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cc8ca6638f213ed01b7364c084ed94bc5d5bc85f4fb196b2df9d398e4098cb8
+size 582

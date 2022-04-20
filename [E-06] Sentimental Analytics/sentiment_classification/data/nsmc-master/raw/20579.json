@@ -1,18 +1,3 @@
-[
-  {
-    "review": "6.25후 이루지 못할 애절한 사랑을 이야기하고, 유장하게 풀고, 기록의 가치가 있고.",
-    "date": "13.12.10",
-    "rating": "8",
-    "author": "clie****",
-    "review_id": "8204966",
-    "movie_id": "20579"
-  },
-  {
-    "review": "오래된 작품이지만 고전의 맛이 있습니다",
-    "date": "13.09.17",
-    "rating": "10",
-    "author": "ibg3****",
-    "review_id": "7989362",
-    "movie_id": "20579"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d961793a5317b4785f920fc45c82930fbf329a99a4789306d3696d80a65c8c5f
+size 481

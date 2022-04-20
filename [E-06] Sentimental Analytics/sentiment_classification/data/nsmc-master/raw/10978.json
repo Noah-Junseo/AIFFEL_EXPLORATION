@@ -1,18 +1,3 @@
-[
-  {
-    "review": "재밌는ㅋㅋ",
-    "date": "10.12.13",
-    "rating": "8",
-    "author": "gogo****",
-    "review_id": "5051809",
-    "movie_id": "10978"
-  },
-  {
-    "review": "밤에 잠안와서 보게된 영화",
-    "date": "08.01.17",
-    "rating": "10",
-    "author": "guse****",
-    "review_id": "2339041",
-    "movie_id": "10978"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9e985643f93ee219cb4318778454c00b24e0e218bcd859cea773163834edaa1
+size 367

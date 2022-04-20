@@ -1,34 +1,3 @@
-[
-  {
-    "review": "평점이 왜 3점인지 ㅋㅋ..좋은데",
-    "date": "14.10.07",
-    "rating": "10",
-    "author": "shee****",
-    "review_id": "9272090",
-    "movie_id": "51120"
-  },
-  {
-    "review": "요즘 40대분들도 듣보잡 쓰나보네;;",
-    "date": "12.10.14",
-    "rating": "1",
-    "author": "daiw****",
-    "review_id": "6800184",
-    "movie_id": "51120"
-  },
-  {
-    "review": "듣보잡이요",
-    "date": "10.08.07",
-    "rating": "1",
-    "author": "la96****",
-    "review_id": "4719437",
-    "movie_id": "51120"
-  },
-  {
-    "review": "뭔가요",
-    "date": "10.01.13",
-    "rating": "7",
-    "author": "tota****",
-    "review_id": "4166691",
-    "movie_id": "51120"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:093fbd96b57f9f9eb417687be35a02c3eedb5a77f96d501ec076bf0470ea4ddb
+size 740

@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "7156510",
-    "movie_id": "95643",
-    "author": "tjrl****",
-    "review": "마자잼씀ㅋㅋ",
-    "rating": "9",
-    "date": "13.01.23"
-  },
-  {
-    "review_id": "6339618",
-    "movie_id": "95643",
-    "author": "ghld****",
-    "review": "쇼킹 재밋는데??ㅋㅋ 그런데 각시탈 끝나고 바로 볼수잇것구만.ㅎㅎ,",
-    "rating": "10",
-    "date": "12.05.27"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5addb6d2877face3eca1bc74cd98950269eb8406b5575ca54c308d3a4200266
+size 425

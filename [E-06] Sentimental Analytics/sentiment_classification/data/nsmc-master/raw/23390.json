@@ -1,18 +1,3 @@
-[
-  {
-    "review": "강북 수유리 샴푸나이트 웨이터 천사^^",
-    "date": "09.06.04",
-    "rating": "10",
-    "author": "star****",
-    "review_id": "3543401",
-    "movie_id": "23390"
-  },
-  {
-    "review": "김부선..이때 섹시했지..",
-    "date": "07.02.25",
-    "rating": "7",
-    "author": "hide****",
-    "review_id": "1500186",
-    "movie_id": "23390"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:00102aca3a25595fdc6f2e166df52018ee99e317e588b8128f6325fb32b06919
+size 399

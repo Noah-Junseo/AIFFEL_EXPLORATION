@@ -1,18 +1,3 @@
-[
-  {
-    "review": "지루함을 참고 마지막의 마지막을 기다린 이들에게 느낌표를 주는...",
-    "date": "07.05.22",
-    "rating": "9",
-    "author": "cath****",
-    "review_id": "1651612",
-    "movie_id": "48366"
-  },
-  {
-    "review": "역설적인 제목..",
-    "date": "07.05.12",
-    "rating": "7",
-    "author": "rega****",
-    "review_id": "1634454",
-    "movie_id": "48366"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a2e748b2eedca84b7c0593a638f687b181e92ae2a8ae0aef2835dc46ffb8a4b
+size 427

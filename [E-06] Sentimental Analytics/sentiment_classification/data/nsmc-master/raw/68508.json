@@ -1,18 +1,3 @@
-[
-  {
-    "review": "그 당시에 나온 애니메이션이라는거",
-    "date": "13.11.03",
-    "rating": "1",
-    "author": "lock****",
-    "review_id": "8112253",
-    "movie_id": "68508"
-  },
-  {
-    "review": "그 당시에 나온 애니메이션이라는거",
-    "date": "13.10.27",
-    "rating": "10",
-    "author": "olg6****",
-    "review_id": "8092881",
-    "movie_id": "68508"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:843669e63834def3316d504e033ceb8a95341016dbbdc6f50a71b6836ab500a1
+size 412

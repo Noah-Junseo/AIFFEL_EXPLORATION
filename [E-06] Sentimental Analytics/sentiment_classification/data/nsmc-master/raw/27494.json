@@ -1,18 +1,3 @@
-[
-  {
-    "review": "볼만함",
-    "date": "08.02.23",
-    "rating": "6",
-    "author": "sant****",
-    "review_id": "2474379",
-    "movie_id": "27494"
-  },
-  {
-    "review": "평점이없네.-_-; 난 최고의 멜로 중에 하나였는데...",
-    "date": "05.10.01",
-    "rating": "10",
-    "author": "smbo****",
-    "review_id": "429617",
-    "movie_id": "27494"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:2296c34cd74d8377aa4703db7533a9f0c31d33a5769c88822fd48ecae67d4660
+size 391

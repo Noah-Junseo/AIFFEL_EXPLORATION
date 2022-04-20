@@ -1,26 +1,3 @@
-[
-  {
-    "review": "유덕화의 젊은 모습을 볼수있어서 좋았다.",
-    "date": "15.08.15",
-    "rating": "6",
-    "author": "adiv****",
-    "review_id": "10237581",
-    "movie_id": "30773"
-  },
-  {
-    "review": "이거 91년도에 비디오로 재밌게 봤던 기억이 나네..",
-    "date": "08.08.03",
-    "rating": "8",
-    "author": "gall****",
-    "review_id": "2832376",
-    "movie_id": "30773"
-  },
-  {
-    "review": "이런 영화가 있었다는 것이 참 즐거웠던 한때가 있었다 서바이벌이 기억에 남는다",
-    "date": "08.05.18",
-    "rating": "8",
-    "author": "daro****",
-    "review_id": "2648357",
-    "movie_id": "30773"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:41a25b5306ce6b89b97eb2906b4168e4f8375e27772bd7d4ea532a8449b9ce70
+size 704

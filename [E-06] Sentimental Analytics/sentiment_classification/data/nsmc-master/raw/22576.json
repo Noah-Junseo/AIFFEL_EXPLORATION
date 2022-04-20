@@ -1,18 +1,3 @@
-[
-  {
-    "review": "누가 재미있다고 해서 봤는데 진짜 재미없네 자장가 대용",
-    "date": "15.02.15",
-    "rating": "1",
-    "author": "jeon****",
-    "review_id": "9697387",
-    "movie_id": "22576"
-  },
-  {
-    "review": "감동!!!",
-    "date": "10.10.23",
-    "rating": "10",
-    "author": "sun0****",
-    "review_id": "4917325",
-    "movie_id": "22576"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec6d236297ece9e6299afd0d845fe212ad1003f85076db2df14b0ab5e0ca7630
+size 401

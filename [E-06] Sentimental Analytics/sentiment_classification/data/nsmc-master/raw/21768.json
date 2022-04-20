@@ -1,18 +1,3 @@
-[
-  {
-    "review": "지금 세대가 보아도 충분히 공감할수있는 영화다!!",
-    "date": "15.04.19",
-    "rating": "10",
-    "author": "ske4****",
-    "review_id": "9852604",
-    "movie_id": "21768"
-  },
-  {
-    "review": "싸나이 가슴에 불을 지르는 광채나는 조용원님~",
-    "date": "12.03.22",
-    "rating": "8",
-    "author": "cine****",
-    "review_id": "6159586",
-    "movie_id": "21768"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb10a80f071ab3d9d7821f6e873155658864a4d11dc97e2c6d3c31298890cd95
+size 446

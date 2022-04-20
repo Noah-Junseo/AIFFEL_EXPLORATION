@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "8380884",
-    "movie_id": "90533",
-    "author": "qnfw****",
-    "review": "ㅅㄱㅇ평점태러군단등장",
-    "rating": "1",
-    "date": "14.01.14"
-  },
-  {
-    "review_id": "7141626",
-    "movie_id": "90533",
-    "author": "syr0****",
-    "review": "ㅋㅋㅋㅋㅋㅋ",
-    "rating": "10",
-    "date": "13.01.21"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7f5c60bc5e47a44d301007b7458cb0755638196efe587298d1ab32915a8dc26
+size 367

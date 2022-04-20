@@ -1,18 +1,3 @@
-[
-  {
-    "review": "스릴러처럼 재미있어서 계속 봤는데 끝이 좀 뜻뜨미지근... 그래도 볼만함..",
-    "date": "09.11.18",
-    "rating": "3",
-    "author": "sidv****",
-    "review_id": "3972984",
-    "movie_id": "25136"
-  },
-  {
-    "review": "시간때우기용 으로도 한참 못미치는 ..",
-    "date": "09.08.08",
-    "rating": "1",
-    "author": "evil****",
-    "review_id": "3725226",
-    "movie_id": "25136"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:30ff53a9fb9884e9086ae9b2b15183d9c2b268f086d23853b897e88bf43e90cf
+size 466

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "재미있게 잘 봤습니당 ㅎㅎ",
-    "date": "11.09.09",
-    "rating": "1",
-    "author": "cksd****",
-    "review_id": "5717626",
-    "movie_id": "57707"
-  },
-  {
-    "review": "하희라씨 연기 좋았어요",
-    "date": "06.08.02",
-    "rating": "10",
-    "author": "zeed****",
-    "review_id": "956413",
-    "movie_id": "57707"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:5de69b59a0f2b5c77e5177345d5a7ad90b48948dd6377772fec0f20d2a68f091
+size 383

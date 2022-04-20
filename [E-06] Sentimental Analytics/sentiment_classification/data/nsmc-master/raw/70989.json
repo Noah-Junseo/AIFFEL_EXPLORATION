@@ -1,18 +1,3 @@
-[
-  {
-    "review": "헐",
-    "date": "12.12.29",
-    "rating": "1",
-    "author": "tjrl****",
-    "review_id": "7060788",
-    "movie_id": "70989"
-  },
-  {
-    "review": "불륜그리고맛있는섹스곰플레이해주세요.....",
-    "date": "11.08.29",
-    "rating": "10",
-    "author": "j234****",
-    "review_id": "5695483",
-    "movie_id": "70989"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c186d453725fbc6c6d3e9d40350c569484d6675664fa37086d459546f2f96eb
+size 378

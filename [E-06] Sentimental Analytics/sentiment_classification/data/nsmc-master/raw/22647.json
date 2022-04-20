@@ -1,18 +1,3 @@
-[
-  {
-    "review": "재밋다 ㅋㅋ",
-    "date": "12.02.02",
-    "rating": "10",
-    "author": "jjun****",
-    "review_id": "6045450",
-    "movie_id": "22647"
-  },
-  {
-    "review": "미칠정도로 재미있는 서세원 영화",
-    "date": "06.01.06",
-    "rating": "1",
-    "author": "jjan****",
-    "review_id": "565769",
-    "movie_id": "22647"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:364d65475128e87ac630d16a3e22026213cbf3fff7d0866ee0f1f4ebd3592e7c
+size 376

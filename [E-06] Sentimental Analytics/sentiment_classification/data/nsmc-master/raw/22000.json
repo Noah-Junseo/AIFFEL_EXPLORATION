@@ -1,18 +1,3 @@
-[
-  {
-    "review": "보기는 했소? kame 양반",
-    "date": "13.12.08",
-    "rating": "10",
-    "author": "sksm****",
-    "review_id": "8198159",
-    "movie_id": "22000"
-  },
-  {
-    "review": "드럽게재미없네",
-    "date": "11.09.29",
-    "rating": "1",
-    "author": "kame****",
-    "review_id": "5759543",
-    "movie_id": "22000"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac4518aeff87690fe2ad7670c91776db91c1690d94ef387afaaf6b012d0ea5c7
+size 366

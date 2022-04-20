@@ -1,26 +1,3 @@
-[
-  {
-    "review": "우하하",
-    "date": "10.07.09",
-    "rating": "1",
-    "author": "sunn****",
-    "review_id": "4624627",
-    "movie_id": "23740"
-  },
-  {
-    "review": "우하하",
-    "date": "10.07.09",
-    "rating": "1",
-    "author": "dnjs****",
-    "review_id": "4624624",
-    "movie_id": "23740"
-  },
-  {
-    "review": "황진이",
-    "date": "10.07.09",
-    "rating": "7",
-    "author": "bkm1****",
-    "review_id": "4624569",
-    "movie_id": "23740"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:25d75b6877d8ab190958bb335e62ebabbfe29ab628171fa4994f8d71edd8045b
+size 498

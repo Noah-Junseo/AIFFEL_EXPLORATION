@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "6225959",
-    "movie_id": "91156",
-    "author": "fon9****",
-    "review": "시즌2 까지는 좋았는데 OOO가 되었네 :(",
-    "rating": "6",
-    "date": "12.04.16"
-  },
-  {
-    "review_id": "6028417",
-    "movie_id": "91156",
-    "author": "roh8****",
-    "review": "재미지다",
-    "rating": "10",
-    "date": "12.01.27"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:00a1e8741ce7de808a70ced82a853e14e729998f145876b19fb04c081c933676
+size 378

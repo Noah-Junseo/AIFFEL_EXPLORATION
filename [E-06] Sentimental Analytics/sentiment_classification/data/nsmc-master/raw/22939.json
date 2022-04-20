@@ -1,18 +1,3 @@
-[
-  {
-    "review": "추천하는 영화!",
-    "date": "09.07.25",
-    "rating": "10",
-    "author": "frie****",
-    "review_id": "3665734",
-    "movie_id": "22939"
-  },
-  {
-    "review": "만점",
-    "date": "09.04.07",
-    "rating": "10",
-    "author": "myhs****",
-    "review_id": "3409977",
-    "movie_id": "22939"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8be5b8387e8a56f584e5d597c8c28572541e7e7494bfc2c2a9d467d42138356
+size 343

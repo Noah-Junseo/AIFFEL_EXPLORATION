@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "10086945",
-    "movie_id": "130206",
-    "author": "ske4****",
-    "review": "과감한 폐지에 박수를 보낸다!!",
-    "rating": "1",
-    "date": "15.07.10"
-  },
-  {
-    "review_id": "9798896",
-    "movie_id": "130206",
-    "author": "neoz****",
-    "review": "가능성이 있어 보여서 몰입이 잘되네요! 남남북녀 화이팅!!!",
-    "rating": "10",
-    "date": "15.03.22"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:40ebf5dde657c064742765feb6e2bde3122122c4b6b1251da1de8d138cce21f8
+size 439

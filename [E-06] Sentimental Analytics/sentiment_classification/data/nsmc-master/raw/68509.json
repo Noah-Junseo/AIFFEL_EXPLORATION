@@ -1,18 +1,3 @@
-[
-  {
-    "review": "얼라리? 10점이네? 1점 까먹어야지",
-    "date": "12.08.02",
-    "rating": "9",
-    "author": "vnfm****",
-    "review_id": "6566363",
-    "movie_id": "68509"
-  },
-  {
-    "review": "감명깊었기에...10점.",
-    "date": "10.07.16",
-    "rating": "10",
-    "author": "hjjo****",
-    "review_id": "4644082",
-    "movie_id": "68509"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:26cd7c873667239ed3b7de37b849602f6e5208f3d0ad5a0a7007e2fe76090c20
+size 387

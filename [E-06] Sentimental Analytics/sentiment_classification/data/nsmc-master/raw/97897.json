@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "8429300",
-    "movie_id": "97897",
-    "author": "dhkd****",
-    "review": "솔직히별로엿ㄴㅅ음;;",
-    "rating": "1",
-    "date": "14.01.26"
-  },
-  {
-    "review_id": "8172132",
-    "movie_id": "97897",
-    "author": "doow****",
-    "review": "ㅋㅋ 좋았어여 재미있었네여",
-    "rating": "10",
-    "date": "13.11.27"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6eef3c77c495c0cff972ea98c7f0bf0fff8f0c512349125949b50ae6199e923
+size 383

@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9638088",
-    "movie_id": "75908",
-    "author": "wooo****",
-    "review": "평점 1점은 너무 박하다.",
-    "rating": "5",
-    "date": "15.01.26"
-  },
-  {
-    "review_id": "6466448",
-    "movie_id": "75908",
-    "author": "yang****",
-    "review": "죽다 살아난 주인공이 죽어가는 사람을 살리는 능력이 생기게되고 그능력을 쓸수록 가족의 건강이 악화되고 어쩌고 하는 내용.. 줄거리에 비해 영상은 지루하다..",
-    "rating": "1",
-    "date": "12.07.10"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9e54ab207422d86e2fe17989c5cba69bb47ea652e836d76a4b3b82c2ecbd447
+size 562

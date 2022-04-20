@@ -1,18 +1,3 @@
-[
-  {
-    "review": "신혜수가 나와서 기대했지만...... 대략 개난감",
-    "date": "08.03.10",
-    "rating": "3",
-    "author": "evil****",
-    "review_id": "2513179",
-    "movie_id": "12034"
-  },
-  {
-    "review": "60년대 한국영화를 보고있는듯하다 대략난감",
-    "date": "07.02.04",
-    "rating": "1",
-    "author": "nala****",
-    "review_id": "1441652",
-    "movie_id": "12034"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:07f58f6a75b3e5b6a2e1efd41d85c7cab04249c429168d5f31f8f2e9cadcc83b
+size 435

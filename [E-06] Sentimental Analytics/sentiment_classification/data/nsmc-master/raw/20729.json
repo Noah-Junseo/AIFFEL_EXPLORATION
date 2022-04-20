@@ -1,18 +1,3 @@
-[
-  {
-    "review": "누가 강부자누님 얼굴에 먹칠하노",
-    "date": "14.12.21",
-    "rating": "10",
-    "author": "poke****",
-    "review_id": "9495204",
-    "movie_id": "20729"
-  },
-  {
-    "review": "어딜만져 어딜만지냐고",
-    "date": "14.12.07",
-    "rating": "1",
-    "author": "sere****",
-    "review_id": "9454725",
-    "movie_id": "20729"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f0da3aa768cd297d1b94f326580882d064830df5c953db1b9b636605ef39e83
+size 392

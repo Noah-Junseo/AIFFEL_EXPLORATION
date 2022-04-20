@@ -1,18 +1,3 @@
-[
-  {
-    "review": "5.5점만든다ㅎㅎㅎ",
-    "date": "14.12.08",
-    "rating": "1",
-    "author": "let6****",
-    "review_id": "9459052",
-    "movie_id": "19873"
-  },
-  {
-    "review": "10점만든다",
-    "date": "10.06.06",
-    "rating": "10",
-    "author": "enog****",
-    "review_id": "4549613",
-    "movie_id": "19873"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:6390d9927a08cdfa2d27ae6d78d49ef86a3e0c064e202ca15f5865e8bb3cd9ed
+size 354

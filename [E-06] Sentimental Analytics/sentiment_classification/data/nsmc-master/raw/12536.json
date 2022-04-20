@@ -1,34 +1,3 @@
-[
-  {
-    "review": "정말 온몸에 소름이 돋는구나!!!",
-    "date": "14.08.25",
-    "rating": "10",
-    "author": "ske4****",
-    "review_id": "9132013",
-    "movie_id": "12536"
-  },
-  {
-    "review": "초강추 요즘 코미디영화 반성해라~",
-    "date": "09.07.25",
-    "rating": "10",
-    "author": "addy****",
-    "review_id": "3665381",
-    "movie_id": "12536"
-  },
-  {
-    "review": "비디오에서 차게해서봤는데..........................",
-    "date": "06.07.31",
-    "rating": "10",
-    "author": "hell****",
-    "review_id": "948381",
-    "movie_id": "12536"
-  },
-  {
-    "review": "대단한 명작입니다 감동ㅎㅎ",
-    "date": "06.01.24",
-    "rating": "10",
-    "author": "rlar****",
-    "review_id": "617666",
-    "movie_id": "12536"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8f8c3ae41279932013b025a2cf48979706c89ce4ef00058ea2de1e698c7476b
+size 818

@@ -1,34 +1,3 @@
-[
-  {
-    "review_id": "7413599",
-    "movie_id": "93007",
-    "author": "cyc3****",
-    "review": "조타",
-    "rating": "10",
-    "date": "13.03.26"
-  },
-  {
-    "review_id": "7413598",
-    "movie_id": "93007",
-    "author": "jmy6****",
-    "review": "ㅋ",
-    "rating": "10",
-    "date": "13.03.26"
-  },
-  {
-    "review_id": "7413597",
-    "movie_id": "93007",
-    "author": "chlw****",
-    "review": "good",
-    "rating": "10",
-    "date": "13.03.26"
-  },
-  {
-    "review_id": "6226838",
-    "movie_id": "93007",
-    "author": "mygr****",
-    "review": "군더더기 없이 깔끔하게 웃겨주는 노철기 시리즈",
-    "rating": "8",
-    "date": "12.04.16"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a5f0b06d3557b54d7cb3a8d02f01655606a7c36c7051b7c85b4c66677442c90
+size 708

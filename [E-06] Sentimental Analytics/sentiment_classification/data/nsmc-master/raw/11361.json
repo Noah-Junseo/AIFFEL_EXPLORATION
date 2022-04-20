@@ -1,18 +1,3 @@
-[
-  {
-    "review": "누구에게나의 이루어질 수 없는 첫사랑..",
-    "date": "10.07.18",
-    "rating": "10",
-    "author": "zard****",
-    "review_id": "4650532",
-    "movie_id": "11361"
-  },
-  {
-    "review": "사춘기시절...사랑이란 어떤것인가를 보여준 최고의 영화.",
-    "date": "05.10.11",
-    "rating": "9",
-    "author": "sisi****",
-    "review_id": "440149",
-    "movie_id": "11361"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc64658a7b1109f4f58d36b90572d99d7dd39771ddf6e411cc8af36cd9f2d596
+size 446

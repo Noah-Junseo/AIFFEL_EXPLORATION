@@ -1,18 +1,3 @@
-[
-  {
-    "review": "한글자막 어디서 구해요..........?@!?!?!?",
-    "date": "10.04.05",
-    "rating": "10",
-    "author": "s1s2****",
-    "review_id": "4413712",
-    "movie_id": "19490"
-  },
-  {
-    "review": "재밌게 본 영화",
-    "date": "08.08.21",
-    "rating": "8",
-    "author": "nemi****",
-    "review_id": "2890862",
-    "movie_id": "19490"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f3b7b398fc8ff1701f1608caa7731e23e721560e30305a9413df5918941364a
+size 386

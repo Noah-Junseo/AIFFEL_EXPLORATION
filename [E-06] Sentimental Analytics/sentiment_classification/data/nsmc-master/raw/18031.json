@@ -1,18 +1,3 @@
-[
-  {
-    "review": "유승준영화재미있다보고싶어요",
-    "date": "15.08.23",
-    "rating": "10",
-    "author": "abcd****",
-    "review_id": "10269189",
-    "movie_id": "18031"
-  },
-  {
-    "review": "굿",
-    "date": "13.07.10",
-    "rating": "10",
-    "author": "sin3****",
-    "review_id": "7723058",
-    "movie_id": "18031"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c30691f4e6395106a06ead8c77a85456126b973c9dd2170eca9236b433111a7
+size 363

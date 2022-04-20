@@ -1,18 +1,3 @@
-[
-  {
-    "review": "재밌어요^^ 내인생최고",
-    "date": "15.08.16",
-    "rating": "1",
-    "author": "jms3****",
-    "review_id": "10239798",
-    "movie_id": "20414"
-  },
-  {
-    "review": "내인생최고의영화...",
-    "date": "14.05.10",
-    "rating": "10",
-    "author": "strb****",
-    "review_id": "8720418",
-    "movie_id": "20414"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:265fe1ac33886507e2120075e05242e10b3a60e856d184eb6402dfd90c131d2b
+size 374

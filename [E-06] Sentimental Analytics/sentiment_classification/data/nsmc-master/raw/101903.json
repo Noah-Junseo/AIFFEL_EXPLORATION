@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "7797037",
-    "movie_id": "101903",
-    "author": "wish****",
-    "review": "유치~",
-    "rating": "5",
-    "date": "13.07.29"
-  },
-  {
-    "review_id": "7352686",
-    "movie_id": "101903",
-    "author": "baks****",
-    "review": "말이 필요없어.사토 케이이치는, 카라스-프로버시&리벌레이션의 감독이다...",
-    "rating": "10",
-    "date": "13.03.16"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bde171be949d2dd423dad07d779bee7a277f2b4ad8aef425c4c47ee29db6c7c
+size 426

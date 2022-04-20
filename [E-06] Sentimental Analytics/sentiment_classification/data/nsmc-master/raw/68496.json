@@ -1,34 +1,3 @@
-[
-  {
-    "review": "태권브이랑은 차원이다른듯",
-    "date": "15.08.18",
-    "rating": "10",
-    "author": "akdl****",
-    "review_id": "10248088",
-    "movie_id": "68496"
-  },
-  {
-    "review": "국민학교 다닐때 극장에서 본 영화..주제가 카세트 테입까지 구입",
-    "date": "15.08.03",
-    "rating": "5",
-    "author": "tlsg****",
-    "review_id": "10179347",
-    "movie_id": "68496"
-  },
-  {
-    "review": "그닥볼가치없는3류만화인듯",
-    "date": "15.08.02",
-    "rating": "1",
-    "author": "gnm0****",
-    "review_id": "10175829",
-    "movie_id": "68496"
-  },
-  {
-    "review": "외국에까지골드윙으로수출까지한작품..",
-    "date": "15.05.25",
-    "rating": "10",
-    "author": "tjtk****",
-    "review_id": "9947343",
-    "movie_id": "68496"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:17f02ad4509a0ac831e565ccb04ebcb1b9268795f5e6ab2a6edc0d769e7cd51d
+size 846

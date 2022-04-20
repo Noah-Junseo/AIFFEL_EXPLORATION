@@ -1,18 +1,3 @@
-[
-  {
-    "review": "난 데일리보러 들어왔다 -인아오빠",
-    "date": "15.02.01",
-    "rating": "1",
-    "author": "mic1****",
-    "review_id": "9658329",
-    "movie_id": "20276"
-  },
-  {
-    "review": "오래전 봤던 영화.기억에 오래오래 남는다.인아오빠랑 같이봤던영화.남자배우에 이름이 기억나진 않지만...또 다시 보고싶다.",
-    "date": "15.01.21",
-    "rating": "10",
-    "author": "hgs4****",
-    "review_id": "9620583",
-    "movie_id": "20276"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:5800f63d0f18eb04019c199dce4c981c40a713a8a770cd3dc2288c67fb65ab03
+size 529

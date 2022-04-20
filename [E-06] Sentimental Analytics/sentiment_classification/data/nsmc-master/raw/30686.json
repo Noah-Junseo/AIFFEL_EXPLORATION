@@ -1,26 +1,3 @@
-[
-  {
-    "review": "역시 피터 그리너웨이다",
-    "date": "15.06.02",
-    "rating": "10",
-    "author": "chun****",
-    "review_id": "9969559",
-    "movie_id": "30686"
-  },
-  {
-    "review": "재미가 느껴지지 않고 이해도 되지 않지만 감독이 존경스럽게는 느껴진다. 배우들은 이해를 하고 연기를 한 건지 모르겠다.",
-    "date": "14.12.12",
-    "rating": "1",
-    "author": "hrns****",
-    "review_id": "9468493",
-    "movie_id": "30686"
-  },
-  {
-    "review": "글쎄..",
-    "date": "07.03.01",
-    "rating": "8",
-    "author": "zeed****",
-    "review_id": "1509481",
-    "movie_id": "30686"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca4c755fb43bdc8e63204c76620ba629d5f510e4fa4f67b6dd12ebe17e05d86a
+size 676

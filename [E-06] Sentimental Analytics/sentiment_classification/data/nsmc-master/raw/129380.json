@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9701277",
-    "movie_id": "129380",
-    "author": "aliv****",
-    "review": "케이블 드라마 중엔 모래시게네요",
-    "rating": "10",
-    "date": "15.02.16"
-  },
-  {
-    "review_id": "9661090",
-    "movie_id": "129380",
-    "author": "hyou****",
-    "review": "최고 연기파 배우.. 김동일님 출연작입니다..",
-    "rating": "10",
-    "date": "15.02.02"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:856326529b4eb7dbc07c40e2c9b28e2d72753c1a8ee90ac081b1606b1707a237
+size 423

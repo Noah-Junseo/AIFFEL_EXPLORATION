@@ -1,18 +1,3 @@
-[
-  {
-    "review": "엉성해",
-    "date": "11.08.07",
-    "rating": "5",
-    "author": "jin1****",
-    "review_id": "5613531",
-    "movie_id": "37377"
-  },
-  {
-    "review": "흠 역시 이 영화로 상받은건 주인공이 아닌 매니저 역할의 담요문이군",
-    "date": "11.01.29",
-    "rating": "3",
-    "author": "twis****",
-    "review_id": "5195481",
-    "movie_id": "37377"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b0a23dd868d6c2a92e0b523c9bf665195155853f5eb6b76e1f2c6e55f3fbc13
+size 417

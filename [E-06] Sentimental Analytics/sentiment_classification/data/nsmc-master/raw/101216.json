@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "7134095",
-    "movie_id": "101216",
-    "author": "wn66****",
-    "review": "ㄱㅋ",
-    "rating": "10",
-    "date": "13.01.19"
-  },
-  {
-    "review_id": "7104220",
-    "movie_id": "101216",
-    "author": "0129****",
-    "review": "이제는이런프로그램도 영화정보로뜨네내가처음이다ㅎㅎ",
-    "rating": "5",
-    "date": "13.01.12"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:485494396e041e7275f0433f47fe56627aaf2b4e8be18e006f04aa279e71f641
+size 400

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "옛날영화다",
-    "date": "09.07.10",
-    "rating": "10",
-    "author": "abcj****",
-    "review_id": "3621210",
-    "movie_id": "21791"
-  },
-  {
-    "review": "오 옛날영화",
-    "date": "09.06.16",
-    "rating": "10",
-    "author": "shk3****",
-    "review_id": "3570587",
-    "movie_id": "21791"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c647044333850bfff80ff6accfc34c452fcdb4f268bd3022d13759da24d7d74
+size 348

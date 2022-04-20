@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "8103322",
-    "movie_id": "84322",
-    "author": "lsjl****",
-    "review": "어머니, 당신의 자리큰이모, 당신의 자리",
-    "rating": "2",
-    "date": "13.10.31"
-  },
-  {
-    "review_id": "5863951",
-    "movie_id": "84322",
-    "author": "odjs****",
-    "review": "정말 재밌었다.",
-    "rating": "10",
-    "date": "11.11.21"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbd3647320781b74411ce2feb5be2967a40e47c766db68c74ff6feafd624815b
+size 390

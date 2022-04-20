@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9792308",
-    "movie_id": "113594",
-    "author": "yjw4****",
-    "review": "사람의 욕심은 끝이 없고, 같은 실수를 반복한다.",
-    "rating": "1",
-    "date": "15.03.19"
-  },
-  {
-    "review_id": "9259884",
-    "movie_id": "113594",
-    "author": "kjw9****",
-    "review": "제목ㅋㅋ 김현중=서세원",
-    "rating": "10",
-    "date": "14.10.03"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:103c946257caa093df49c757bcee3b72da72074863702bc5e4759a3b6f5c9570
+size 415

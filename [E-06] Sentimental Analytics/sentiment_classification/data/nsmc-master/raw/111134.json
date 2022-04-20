@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "8151423",
-    "movie_id": "111134",
-    "author": "capa****",
-    "review": "이거시간뻐기느라힘듬",
-    "rating": "1",
-    "date": "13.11.18"
-  },
-  {
-    "review_id": "8102135",
-    "movie_id": "111134",
-    "author": "tjal****",
-    "review": "경남하동군하동읍둑곡리율동 밤골길 126번지",
-    "rating": "10",
-    "date": "13.10.30"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:45c109dd9b0b00f79bf345e5f786838d7305b7dd1c213d6fe2f1f13d4a48da82
+size 407

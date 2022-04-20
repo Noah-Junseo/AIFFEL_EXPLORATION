@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9472115",
-    "movie_id": "127708",
-    "author": "ty45****",
-    "review": "마지막에엠버짱귀여움",
-    "rating": "10",
-    "date": "14.12.14"
-  },
-  {
-    "review_id": "9462131",
-    "movie_id": "127708",
-    "author": "soju****",
-    "review": "강인이 주축으로 엠버,육성재가 잘조합이 되서 방송 재밌게 잘 이끌어나가는거같아 재밌다.",
-    "rating": "10",
-    "date": "14.12.10"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce966354f28df7c8d0d66f59458977e6e35b624db91fe596039aedafaa64e843
+size 471

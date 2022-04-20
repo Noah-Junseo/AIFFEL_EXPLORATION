@@ -1,18 +1,3 @@
-[
-  {
-    "review": "..",
-    "date": "04.12.30",
-    "rating": "10",
-    "author": "mn45****",
-    "review_id": "173102",
-    "movie_id": "37434"
-  },
-  {
-    "review": "정말 좋네여",
-    "date": "04.10.26",
-    "rating": "9",
-    "author": "song****",
-    "review_id": "133467",
-    "movie_id": "37434"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:507b23ff2e017a0b4ad337a8ead34b82575fd54757b16820d41c24cf89315047
+size 332

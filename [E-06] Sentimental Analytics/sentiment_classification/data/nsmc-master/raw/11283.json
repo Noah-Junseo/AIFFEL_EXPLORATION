@@ -1,18 +1,3 @@
-[
-  {
-    "review": "박노식,이대근이후 끊겼던,다시 시작되는 쌈마이영화의전설.일본야쿠자영화와 비슷함.",
-    "date": "11.05.18",
-    "rating": "6",
-    "author": "baks****",
-    "review_id": "5434294",
-    "movie_id": "11283"
-  },
-  {
-    "review": "액션죽인다",
-    "date": "08.03.26",
-    "rating": "10",
-    "author": "konu****",
-    "review_id": "2542289",
-    "movie_id": "11283"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cb33f833eb2024da0c22b1c5e7b0d6d0561e299d9a2677d0bec057addd4e53b
+size 447

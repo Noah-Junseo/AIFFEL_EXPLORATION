@@ -1,18 +1,3 @@
-[
-  {
-    "review": "ㄹ나나우니우ㅇㅇ지나티",
-    "date": "14.05.05",
-    "rating": "10",
-    "author": "1219****",
-    "review_id": "8706820",
-    "movie_id": "17675"
-  },
-  {
-    "review": "청나라의 동치제에 관한 슬픈 이야기...",
-    "date": "11.06.26",
-    "rating": "1",
-    "author": "evil****",
-    "review_id": "5501972",
-    "movie_id": "17675"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e021ef957f4d7b4ea75dc1625cd6cea6b009e6816d70e2bf85fee44515ee865
+size 401

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "진심성이란 건 기대하지 말라, 시각적인 황홀경이나 즐겨라!",
-    "date": "06.03.23",
-    "rating": "4",
-    "author": "godc****",
-    "review_id": "730088",
-    "movie_id": "19387"
-  },
-  {
-    "review": "색깔도 좋고, 조용히 이끄는 것도 좋고",
-    "date": "06.01.26",
-    "rating": "10",
-    "author": "benn****",
-    "review_id": "622883",
-    "movie_id": "19387"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f614a30b2850ca8b2aa9593041ef8988498d58c5eeb877433750f72d84eecbb
+size 445

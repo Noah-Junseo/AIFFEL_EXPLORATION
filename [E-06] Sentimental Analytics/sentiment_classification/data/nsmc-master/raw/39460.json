@@ -1,18 +1,3 @@
-[
-  {
-    "review": "으.. 보고실망했어요",
-    "date": "15.01.19",
-    "rating": "1",
-    "author": "jang****",
-    "review_id": "9612103",
-    "movie_id": "39460"
-  },
-  {
-    "review": "첫평점이네. 10점.",
-    "date": "14.12.23",
-    "rating": "10",
-    "author": "jms5****",
-    "review_id": "9504442",
-    "movie_id": "39460"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ade8acda421af8b10896b7ae766bc8eecc4361c348b7d6d4e6e0b678c80ea3b
+size 366

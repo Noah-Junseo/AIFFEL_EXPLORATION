@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "6136967",
-    "movie_id": "85719",
-    "author": "shsh****",
-    "review": "영화 대 영화만 웃기다",
-    "rating": "1",
-    "date": "12.03.11"
-  },
-  {
-    "review_id": "6136908",
-    "movie_id": "85719",
-    "author": "iiii****",
-    "review": "영화 스포일러(???)",
-    "rating": "1",
-    "date": "12.03.11"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:4154b8b92c059a0a27aa72210425fc2119e17a5cdaee16bf4020f78613e93bf9
+size 369

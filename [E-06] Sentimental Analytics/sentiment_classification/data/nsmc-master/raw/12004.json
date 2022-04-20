@@ -1,26 +1,3 @@
-[
-  {
-    "review": "goodㅋㅋ",
-    "date": "05.09.15",
-    "rating": "10",
-    "author": "hotk****",
-    "review_id": "406429",
-    "movie_id": "12004"
-  },
-  {
-    "review": "good",
-    "date": "05.09.13",
-    "rating": "10",
-    "author": "nada****",
-    "review_id": "404315",
-    "movie_id": "12004"
-  },
-  {
-    "review": "쌈마이 액션이라 해도 시도 자체는 참 참신하다.",
-    "date": "04.10.16",
-    "rating": "5",
-    "author": "domi****",
-    "review_id": "126748",
-    "movie_id": "12004"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:906714f01e809f231a6e46ecd49592ebb2c92bf73d41f857a09e73f81bb9a35e
+size 548

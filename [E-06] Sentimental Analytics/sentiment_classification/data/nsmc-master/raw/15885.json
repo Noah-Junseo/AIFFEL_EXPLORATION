@@ -1,18 +1,3 @@
-[
-  {
-    "review": "물귀신 역 맛은 사람들은 연극 잘했다",
-    "date": "13.06.27",
-    "rating": "8",
-    "author": "1235****",
-    "review_id": "7683808",
-    "movie_id": "15885"
-  },
-  {
-    "review": "귀타귀도 그랬지만 연출,각본까지 도맡은 홍금보의 다재다능함을 엿볼수있던 고전수작",
-    "date": "11.07.17",
-    "rating": "8",
-    "author": "gall****",
-    "review_id": "5549191",
-    "movie_id": "15885"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d605be01b2b45b895681d4fc15c57133986ec4775ac559930d0d65fe73c6141
+size 481

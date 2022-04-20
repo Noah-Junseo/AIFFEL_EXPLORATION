@@ -1,18 +1,3 @@
-[
-  {
-    "review": "어릴때 봤던 기억이 있다 ... 정말 감동적~~~~~~~최고",
-    "date": "08.04.21",
-    "rating": "10",
-    "author": "doho****",
-    "review_id": "2591558",
-    "movie_id": "13079"
-  },
-  {
-    "review": "이 영화는 꼭 봐야하는데...  정말 감동적임..",
-    "date": "07.03.10",
-    "rating": "10",
-    "author": "btmo****",
-    "review_id": "1528105",
-    "movie_id": "13079"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:1448acef32944db2b853d47d92bcf2994ecc14281e285ee6537de47200c7b617
+size 443

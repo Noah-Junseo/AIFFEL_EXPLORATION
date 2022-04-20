@@ -1,18 +1,3 @@
-[
-  {
-    "review": "비디오 출시명 <마지막 임무> .. 그냥 저냥 홈비디오용",
-    "date": "10.07.10",
-    "rating": "5",
-    "author": "gall****",
-    "review_id": "4627973",
-    "movie_id": "13822"
-  },
-  {
-    "review": "마지막 임무는 ... 그냥 생각없이 볼수있는 영화로구나",
-    "date": "08.10.17",
-    "rating": "3",
-    "author": "deff****",
-    "review_id": "3004218",
-    "movie_id": "13822"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e7d055ea848ae6273df3f03b47284abe90307b6f341359670c37b6a5c5be0a6
+size 458

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "초반 몸싸움이 재밌었다",
-    "date": "13.07.21",
-    "rating": "9",
-    "author": "garn****",
-    "review_id": "7771963",
-    "movie_id": "20304"
-  },
-  {
-    "review": "본적있는데넘재미있음",
-    "date": "13.01.19",
-    "rating": "10",
-    "author": "k535****",
-    "review_id": "7131074",
-    "movie_id": "20304"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b46f12f6fe0280b7f4f1eb4a93513e71132fa7051ff83fad4022769667df5dc
+size 378

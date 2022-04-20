@@ -1,26 +1,3 @@
-[
-  {
-    "review": "구로사와치고는 평작이었음",
-    "date": "14.04.06",
-    "rating": "6",
-    "author": "zlda****",
-    "review_id": "8633024",
-    "movie_id": "27217"
-  },
-  {
-    "review": "숨막히게 아름다운 마지막 장면은 눈물을 막을수 없게 만든다.",
-    "date": "13.07.02",
-    "rating": "10",
-    "author": "lee_****",
-    "review_id": "7697301",
-    "movie_id": "27217"
-  },
-  {
-    "review": "새로운 선생의 삶",
-    "date": "12.03.19",
-    "rating": "10",
-    "author": "thun****",
-    "review_id": "6154046",
-    "movie_id": "27217"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d61ac7653fa40bf8d4728f56a13c18ea2ea059e7b49214d173d49457ac61a68
+size 616

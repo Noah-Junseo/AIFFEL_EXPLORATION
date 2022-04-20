@@ -1,18 +1,3 @@
-[
-  {
-    "review": "그냥  안봣눈데 튜표할래욧!!ㅎ",
-    "date": "13.05.17",
-    "rating": "1",
-    "author": "dlzm****",
-    "review_id": "7534041",
-    "movie_id": "21446"
-  },
-  {
-    "review": "확실한 재미를 선사하는 고전 범죄 오락 영화",
-    "date": "10.05.04",
-    "rating": "10",
-    "author": "qorr****",
-    "review_id": "4477443",
-    "movie_id": "21446"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:02ae53a379b6a01a5530db39b49cb4ce7229a39ad2f64a48d4b89a7b9208a7e4
+size 417

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "옛날에는 사기드라마 많이 봤지만 지금은 유치하다",
-    "date": "15.06.20",
-    "rating": "1",
-    "author": "tlaw****",
-    "review_id": "10014890",
-    "movie_id": "24826"
-  },
-  {
-    "review": "죽지못해 사는꼴이 어떤지 정말 보고싶어",
-    "date": "14.09.11",
-    "rating": "10",
-    "author": "kort****",
-    "review_id": "9203709",
-    "movie_id": "24826"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6647d7d5efd0cef3c40db6f8987e127eec2d88e59bfd034caf377bf1b9c53da
+size 440

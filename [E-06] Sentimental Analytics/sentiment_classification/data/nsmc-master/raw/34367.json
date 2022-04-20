@@ -1,26 +1,3 @@
-[
-  {
-    "review": "알랑 들롱의 슬픈 푸른 눈동자, 끌로드 볼링의 애잔한  주제곡...음악 듣다가...",
-    "date": "15.01.12",
-    "rating": "9",
-    "author": "yamu****",
-    "review_id": "9587488",
-    "movie_id": "34367"
-  },
-  {
-    "review": "추억의 영화, 추억의 애가, 추억의 배우",
-    "date": "08.08.10",
-    "rating": "10",
-    "author": "soph****",
-    "review_id": "2860328",
-    "movie_id": "34367"
-  },
-  {
-    "review": "호세 조반니와 알랑 들롱의 영화라는 걸 감안하면 참 그저 그렇다.",
-    "date": "07.07.18",
-    "rating": "5",
-    "author": "comb****",
-    "review_id": "1789553",
-    "movie_id": "34367"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:954aa0914832ff0d68a498e3acb7522771c7ff1911071d16c34d761e50e7bdb4
+size 716

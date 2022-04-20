@@ -1,18 +1,3 @@
-[
-  {
-    "review": "..",
-    "date": "13.03.16",
-    "rating": "1",
-    "author": "irig****",
-    "review_id": "7350916",
-    "movie_id": "19814"
-  },
-  {
-    "review": "이 영화을보고싶습니다",
-    "date": "04.04.08",
-    "rating": "10",
-    "author": "sss3****",
-    "review_id": "35052",
-    "movie_id": "19814"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb792d817a10e058dc889ae52b4e56f3812d62227baed4fac06d2217c1ec475f
+size 347

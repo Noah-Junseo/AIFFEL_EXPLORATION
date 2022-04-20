@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "8761107",
-    "movie_id": "122143",
-    "author": "sua2****",
-    "review": "기대되요!!매번 본반사수할게요!!",
-    "rating": "10",
-    "date": "14.05.24"
-  },
-  {
-    "review_id": "8719068",
-    "movie_id": "122143",
-    "author": "hihs****",
-    "review": "도법 멤버들 모두 기대됨",
-    "rating": "10",
-    "date": "14.05.10"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:5027fd8b58246e0722b2138f9606983d4946f97295861a69bb4a479a254b85d3
+size 396

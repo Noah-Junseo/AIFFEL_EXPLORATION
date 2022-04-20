@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "7289979",
-    "movie_id": "89743",
-    "author": "worb****",
-    "review": "ㅇ",
-    "rating": "10",
-    "date": "13.02.22"
-  },
-  {
-    "review_id": "6470591",
-    "movie_id": "89743",
-    "author": "kidd****",
-    "review": "안재모씨가 연기가 좋았어요",
-    "rating": "8",
-    "date": "12.07.11"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:16bed4c8fdca7c4070b2c14b9b8115edf3d1e2f411681b1f71d2b3912a1a8a9a
+size 357

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "안봤는데평점100이길래 1줌ㅋㄷㅋㄷ",
-    "date": "15.04.21",
-    "rating": "1",
-    "author": "tkdf****",
-    "review_id": "9855435",
-    "movie_id": "12916"
-  },
-  {
-    "review": "두말하면 입 아픈 명작중의 명작",
-    "date": "15.03.03",
-    "rating": "10",
-    "author": "jdw1****",
-    "review_id": "9754076",
-    "movie_id": "12916"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfba837bfa626d96c2843a9313770039645a582a93cc0fe478f008937314cc4a
+size 406

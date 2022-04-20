@@ -1,10 +1,3 @@
-[
-  {
-    "review_id": "10021825",
-    "movie_id": "137406",
-    "author": "ssys****",
-    "review": "로봇나오는 애니는 별로 좋아하지 않는데, 이 영화는 나름 괜찮았다.",
-    "rating": "5",
-    "date": "15.06.22"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:5405120a1b13b266b8fc9315b7cebc63efd495ecabf435d26ee2cb4d98038d37
+size 252

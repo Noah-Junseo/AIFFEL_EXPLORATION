@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "10089899",
-    "movie_id": "93615",
-    "author": "adiv****",
-    "review": "그당시에 어머니가 제일 좋아했었던 드라마",
-    "rating": "10",
-    "date": "15.07.11"
-  },
-  {
-    "review_id": "8752043",
-    "movie_id": "93615",
-    "author": "baks****",
-    "review": "말이 필요없음...짱임",
-    "rating": "10",
-    "date": "14.05.21"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:9162eb4e13488541cb33b823b8b0cb2c102b255ed5ab4a6433050485761fc63d
+size 404

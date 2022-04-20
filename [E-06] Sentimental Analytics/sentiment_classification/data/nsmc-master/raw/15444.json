@@ -1,18 +1,3 @@
-[
-  {
-    "review": "비리교도관 귀 깨물던 윤발옹이 기억남.",
-    "date": "15.06.26",
-    "rating": "8",
-    "author": "rbag****",
-    "review_id": "10036958",
-    "movie_id": "15444"
-  },
-  {
-    "review": "오렌지에 담배 꼽고 절하는 장면이 생각난다.",
-    "date": "15.06.21",
-    "rating": "7",
-    "author": "adiv****",
-    "review_id": "10017765",
-    "movie_id": "15444"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:a881ed90daca69091fd315738a51c8286dae8ccb25dfa8f66e8edb2d119d5d85
+size 430

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "재미없지도 그렇다고 재밌지도 그저 평이하다",
-    "date": "10.02.19",
-    "rating": "7",
-    "author": "ichk****",
-    "review_id": "4301944",
-    "movie_id": "19407"
-  },
-  {
-    "review": "이 정도면 그래도 재미있게 보았다고 할 수 있지",
-    "date": "10.02.16",
-    "rating": "7",
-    "author": "deff****",
-    "review_id": "4290073",
-    "movie_id": "19407"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8347f59519d40290628830dd5b2fd0eb8813b7ca156707d26a0ed6c93bab224
+size 440

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "이건오바인듯",
-    "date": "12.01.05",
-    "rating": "1",
-    "author": "sinp****",
-    "review_id": "5962807",
-    "movie_id": "22337"
-  },
-  {
-    "review": "감동스런 영화다",
-    "date": "08.08.30",
-    "rating": "10",
-    "author": "wjcx****",
-    "review_id": "2910515",
-    "movie_id": "22337"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:79267ff7489c0deee61f952e4606a9b6fb0e7c18be712f532e5e518d1274d1c0
+size 356

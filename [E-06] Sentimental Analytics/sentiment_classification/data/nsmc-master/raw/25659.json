@@ -1,18 +1,3 @@
-[
-  {
-    "review": "감동??ㅋ",
-    "date": "10.09.10",
-    "rating": "10",
-    "author": "pj98****",
-    "review_id": "4827667",
-    "movie_id": "25659"
-  },
-  {
-    "review": "ㅋㅋ",
-    "date": "06.02.23",
-    "rating": "10",
-    "author": "drin****",
-    "review_id": "687168",
-    "movie_id": "25659"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:f27363122ba2466a7c58076f697436298f4d76f46c9332d30f7f4b7380d0d570
+size 333

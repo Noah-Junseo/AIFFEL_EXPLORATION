@@ -1,18 +1,3 @@
-[
-  {
-    "review": "뭐냐!!!~이거!!!~~~",
-    "date": "10.06.22",
-    "rating": "1",
-    "author": "seal****",
-    "review_id": "4584570",
-    "movie_id": "20944"
-  },
-  {
-    "review": "ㅎㅎㅎ평균 1점!!!!!!",
-    "date": "06.01.06",
-    "rating": "1",
-    "author": "jjan****",
-    "review_id": "565772",
-    "movie_id": "20944"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d94b7b9d1face71025311ca61aef6c4ec299ff55d749cc326bbd8715a8fa3352
+size 362

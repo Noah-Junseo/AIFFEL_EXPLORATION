@@ -1,26 +1,3 @@
-[
-  {
-    "review_id": "7930851",
-    "movie_id": "85544",
-    "author": "fjtm****",
-    "review": "싸힐런트힐팬으로써10점",
-    "rating": "10",
-    "date": "13.08.29"
-  },
-  {
-    "review_id": "7930670",
-    "movie_id": "85544",
-    "author": "qodn****",
-    "review": "ㅋㅋ2",
-    "rating": "9",
-    "date": "13.08.29"
-  },
-  {
-    "review_id": "7930632",
-    "movie_id": "85544",
-    "author": "b077****",
-    "review": "엉? 이게 이제야 개봉?? 허허 참",
-    "rating": "10",
-    "date": "13.08.29"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e0ff79ea06a1566cc2016cdceacf6a2219e6d5fa8bf37618b0ec6a5e01b3b1a
+size 553

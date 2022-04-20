@@ -1,34 +1,3 @@
-[
-  {
-    "review": "'내가 당신을 돕겠소'",
-    "date": "14.12.02",
-    "rating": "9",
-    "author": "kem1****",
-    "review_id": "9440399",
-    "movie_id": "25428"
-  },
-  {
-    "review": "별로 재미없다",
-    "date": "09.01.01",
-    "rating": "7",
-    "author": "seun****",
-    "review_id": "3174889",
-    "movie_id": "25428"
-  },
-  {
-    "review": "거기! 아래 \"Be Quiet\" !",
-    "date": "08.05.03",
-    "rating": "10",
-    "author": "rock****",
-    "review_id": "2612518",
-    "movie_id": "25428"
-  },
-  {
-    "review": "전개방식이 지루하고 별다른 흥미를 유발하지 못한다",
-    "date": "07.10.19",
-    "rating": "2",
-    "author": "deff****",
-    "review_id": "2097450",
-    "movie_id": "25428"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:33a642feeafc498bb72dfd7bd37044044acd1a5deb4a0145ea238f8af5a65878
+size 775

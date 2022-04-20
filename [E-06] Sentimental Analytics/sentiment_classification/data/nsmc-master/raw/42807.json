@@ -1,18 +1,3 @@
-[
-  {
-    "review": "추억의 드라마.",
-    "date": "13.05.17",
-    "rating": "10",
-    "author": "odjs****",
-    "review_id": "7533420",
-    "movie_id": "42807"
-  },
-  {
-    "review": "좋은 드라마",
-    "date": "07.01.27",
-    "rating": "8",
-    "author": "zeed****",
-    "review_id": "1417715",
-    "movie_id": "42807"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:30fc830d004dba9ad2b85df72990285e8366ca8d52e0077a2ab65030576d7801
+size 352

@@ -1,34 +1,3 @@
-[
-  {
-    "review_id": "10227310",
-    "movie_id": "133168",
-    "author": "hoy5****",
-    "review": "술로 외계해충 박멸ㅋㅋㅋㅋ 웃김",
-    "rating": "1",
-    "date": "15.08.14"
-  },
-  {
-    "review_id": "10104272",
-    "movie_id": "133168",
-    "author": "ksm1****",
-    "review": "늬미 이건 도대체 무슨영화냐",
-    "rating": "1",
-    "date": "15.07.14"
-  },
-  {
-    "review_id": "10096704",
-    "movie_id": "133168",
-    "author": "qkrw****",
-    "review": "ㅅㅂ이게 영화냐.. 아오",
-    "rating": "1",
-    "date": "15.07.12"
-  },
-  {
-    "review_id": "9939065",
-    "movie_id": "133168",
-    "author": "gusg****",
-    "review": "극장 개봉 없음 , 한글 자막 없음 , 해석의 엉성함 , 배우들의 연기 어색 , 당시의 인기 없음",
-    "rating": "1",
-    "date": "15.05.22"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:e40bcf616fa502e79a1a5fc68361d78e72262c332ef0e24e744c217a4dfaf20e
+size 869

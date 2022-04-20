@@ -1,18 +1,3 @@
-[
-  {
-    "review": "진짜 재미없어요...............................................",
-    "date": "09.05.27",
-    "rating": "2",
-    "author": "max8****",
-    "review_id": "3525763",
-    "movie_id": "20295"
-  },
-  {
-    "review": "ㄴㅁㅇㄹㄹㄹㄹㄹㄹㄹㄹㄹㄹㄹㄹ",
-    "date": "06.09.13",
-    "rating": "10",
-    "author": "leel****",
-    "review_id": "1120377",
-    "movie_id": "20295"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6f53168050f3bf55918d63b787848659260ca9c659fcfedd8bc9b2696910602
+size 430

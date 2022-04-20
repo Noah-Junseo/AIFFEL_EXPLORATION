@@ -1,18 +1,3 @@
-[
-  {
-    "review": "가나라나나카가카카카카",
-    "date": "14.02.20",
-    "rating": "10",
-    "author": "ehsc****",
-    "review_id": "8522637",
-    "movie_id": "39118"
-  },
-  {
-    "review": "그저 오래된 옛날 영화일 뿐.",
-    "date": "08.09.03",
-    "rating": "1",
-    "author": "caca****",
-    "review_id": "2918895",
-    "movie_id": "39118"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e4322f5a3ed2e575e618097496ffc28a7d1e0844273240f5a6a8e38e08d6943
+size 387

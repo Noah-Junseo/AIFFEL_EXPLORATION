@@ -1,18 +1,3 @@
-[
-  {
-    "review": "나현희 정말 이쁘고 매력있다.",
-    "date": "12.08.18",
-    "rating": "10",
-    "author": "odjs****",
-    "review_id": "6621373",
-    "movie_id": "57926"
-  },
-  {
-    "review": "또보고싶으다",
-    "date": "11.07.24",
-    "rating": "9",
-    "author": "sue8****",
-    "review_id": "5565970",
-    "movie_id": "57926"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:94caa5ca75f850b2152a76b72ff09f645ee4aa5e2f6bc59434d409f97d46e583
+size 374

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "평점높히기 뭔지모름이영화",
-    "date": "10.08.13",
-    "rating": "10",
-    "author": "ghdx****",
-    "review_id": "4742268",
-    "movie_id": "42628"
-  },
-  {
-    "review": "내가이거줌",
-    "date": "10.07.24",
-    "rating": "1",
-    "author": "la96****",
-    "review_id": "4665761",
-    "movie_id": "42628"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:f222b613839cb43dfec5ec0cfcb93c630cca03e8db21211c9a4ef90eb2d69f85
+size 368

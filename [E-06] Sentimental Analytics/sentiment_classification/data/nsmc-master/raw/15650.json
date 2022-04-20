@@ -1,26 +1,3 @@
-[
-  {
-    "review": "명작",
-    "date": "12.03.11",
-    "rating": "9",
-    "author": "soku****",
-    "review_id": "6137446",
-    "movie_id": "15650"
-  },
-  {
-    "review": "저도이영화를 최고로선호하는사람으로서 속히DVD로 제작되기를 기대하면서----",
-    "date": "10.06.11",
-    "rating": "10",
-    "author": "kwon****",
-    "review_id": "4557756",
-    "movie_id": "15650"
-  },
-  {
-    "review": "이 영화 수입할 분 없나요 어릴적 감명깊게 봤는데....",
-    "date": "09.10.23",
-    "rating": "10",
-    "author": "jhus****",
-    "review_id": "3910911",
-    "movie_id": "15650"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:37e2f2466dfe9966c9b031b8e37312b1ac0bde799003d90ed9ed8e2b60a16d77
+size 654

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "뭔지몰라서 1개 드림 ㅋㅋ",
-    "date": "15.01.10",
-    "rating": "1",
-    "author": "euns****",
-    "review_id": "9580291",
-    "movie_id": "22472"
-  },
-  {
-    "review": "어린 시절에 본 영화 . 약간 짠했던 기억이...",
-    "date": "14.08.27",
-    "rating": "10",
-    "author": "ssio****",
-    "review_id": "9137668",
-    "movie_id": "22472"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a2bf0d088289732e8a39ee3bbf8095b6e7f8cb0cd45ab5a162d2df34ac46dce
+size 409

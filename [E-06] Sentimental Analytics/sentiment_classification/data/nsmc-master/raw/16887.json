@@ -1,34 +1,3 @@
-[
-  {
-    "review": "만화는 대박.",
-    "date": "12.03.17",
-    "rating": "2",
-    "author": "pria****",
-    "review_id": "6150605",
-    "movie_id": "16887"
-  },
-  {
-    "review": "강철수 감독(?) 의 첫 데뷔작이자 마지막 작품. 욕심만 지나치게 컸다.",
-    "date": "11.07.27",
-    "rating": "2",
-    "author": "evil****",
-    "review_id": "5575307",
-    "movie_id": "16887"
-  },
-  {
-    "review": "어렸을적 잼있게 봤던 영화인데..주희씨 참 이뻤음...한떄 나의 이상형",
-    "date": "11.05.18",
-    "rating": "6",
-    "author": "thra****",
-    "review_id": "5434440",
-    "movie_id": "16887"
-  },
-  {
-    "review": "케이블에서 잼나게 봄",
-    "date": "06.08.03",
-    "rating": "10",
-    "author": "zeed****",
-    "review_id": "959254",
-    "movie_id": "16887"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e759e7c6d579f644ca431d7578d72117368378167ffc9386a98b64cc3faa633
+size 858

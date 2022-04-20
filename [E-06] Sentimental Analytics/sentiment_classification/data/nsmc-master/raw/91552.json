@@ -1,26 +1,3 @@
-[
-  {
-    "review_id": "10273972",
-    "movie_id": "91552",
-    "author": "ahru****",
-    "review": "이거 보고 일본 애니에 대한 시각이 바꼈어요.. 슬퍼 ㅠㅠ",
-    "rating": "10",
-    "date": "15.08.25"
-  },
-  {
-    "review_id": "10009213",
-    "movie_id": "91552",
-    "author": "godi****",
-    "review": "고추냉이 수류탄급애니",
-    "rating": "10",
-    "date": "15.06.18"
-  },
-  {
-    "review_id": "9724893",
-    "movie_id": "91552",
-    "author": "ejrw****",
-    "review": "최루탄 애니다운 워 ㅋㅋ",
-    "rating": "10",
-    "date": "15.02.21"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea1ffc116d629c404b6f1c79201b1db31d1ce15085de4339872ec8e9942221b7
+size 616

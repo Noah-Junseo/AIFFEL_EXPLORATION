@@ -1,18 +1,3 @@
-[
-  {
-    "review": "제작자~투자자~하늘로~ㅠ",
-    "date": "12.12.04",
-    "rating": "10",
-    "author": "dlgk****",
-    "review_id": "6972655",
-    "movie_id": "13417"
-  },
-  {
-    "review": "조용히 내 기억속에 사라진 영화....",
-    "date": "10.03.05",
-    "rating": "1",
-    "author": "evil****",
-    "review_id": "4337472",
-    "movie_id": "13417"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7f0ef527aafeebccc14911728b28eae653c2f9ac48b92fe33ee77fb41869b0a
+size 396

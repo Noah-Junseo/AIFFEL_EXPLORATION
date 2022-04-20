@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "10277703",
-    "movie_id": "113623",
-    "author": "youy****",
-    "review": "20년이지나도 나한테는 아직까지 최고의 드라마",
-    "rating": "10",
-    "date": "15.08.27"
-  },
-  {
-    "review_id": "9906681",
-    "movie_id": "113623",
-    "author": "thec****",
-    "review": "최고의 시트콤!!!!",
-    "rating": "10",
-    "date": "15.05.09"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:57009546c83f6a41d1cd02e665428be7eee593245a295a7197ec087e5c62838a
+size 406

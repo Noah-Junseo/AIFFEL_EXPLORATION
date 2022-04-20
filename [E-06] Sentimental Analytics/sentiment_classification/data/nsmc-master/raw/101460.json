@@ -1,26 +1,3 @@
-[
-  {
-    "review_id": "9270358",
-    "movie_id": "101460",
-    "author": "vndn****",
-    "review": "최고의작품! 다좋지만 학생이라면 더더욱 좋을것같은 애니메이션입니다",
-    "rating": "10",
-    "date": "14.10.06"
-  },
-  {
-    "review_id": "8553046",
-    "movie_id": "101460",
-    "author": "dnfj****",
-    "review": "개그 잔잔함 아련함 감동 다들어있음",
-    "rating": "10",
-    "date": "14.03.03"
-  },
-  {
-    "review_id": "7570087",
-    "movie_id": "101460",
-    "author": "hall****",
-    "review": "♥",
-    "rating": "10",
-    "date": "13.06.01"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0ea9d0ededd2c35e3e951cb6b8e51160fd184721b996eae36e2f06aa3726733
+size 625

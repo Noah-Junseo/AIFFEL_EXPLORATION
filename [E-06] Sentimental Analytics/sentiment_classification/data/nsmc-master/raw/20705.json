@@ -1,18 +1,3 @@
-[
-  {
-    "review": "옛영화 오랜만에 봤지만 의미있고 잘 만든 영화 같다..여자로서 참 공감가는내용..",
-    "date": "10.05.31",
-    "rating": "10",
-    "author": "sol0****",
-    "review_id": "4533796",
-    "movie_id": "20705"
-  },
-  {
-    "review": "에로 스릴러적 요소를 법이라는 소재와 잘 융합시킨 영화.",
-    "date": "09.11.30",
-    "rating": "10",
-    "author": "smil****",
-    "review_id": "4004970",
-    "movie_id": "20705"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:757f0d078d69424ae1eee58a3ec4c0943e3d946f08b0658498bbce990e81800b
+size 503

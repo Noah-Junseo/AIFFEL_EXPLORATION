@@ -1,34 +1,3 @@
-[
-  {
-    "review_id": "6437650",
-    "movie_id": "94298",
-    "author": "yang****",
-    "review": "지루해..",
-    "rating": "1",
-    "date": "12.07.02"
-  },
-  {
-    "review_id": "6297236",
-    "movie_id": "94298",
-    "author": "clie****",
-    "review": "모든 면에서 너무 좋고, 특히 동양적이고",
-    "rating": "10",
-    "date": "12.05.13"
-  },
-  {
-    "review_id": "6290192",
-    "movie_id": "94298",
-    "author": "smj9****",
-    "review": "간디가 간디언젠디... ... ... 개봉했음?",
-    "rating": "1",
-    "date": "12.05.11"
-  },
-  {
-    "review_id": "6289769",
-    "movie_id": "94298",
-    "author": "slam****",
-    "review": "진정 간디작살 이구나..",
-    "rating": "10",
-    "date": "12.05.11"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:bda3df1f6f3e303d2b26a9852decd25abe306005a2276996e2f204de18c1b176
+size 775

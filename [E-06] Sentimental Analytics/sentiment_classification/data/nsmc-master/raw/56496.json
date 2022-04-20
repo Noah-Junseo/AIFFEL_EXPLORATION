@@ -1,18 +1,3 @@
-[
-  {
-    "review": "play time 130여분.. 그럭저럭 괜찮은 영화! 이런류의 영화가 항상 그렇듯 결말은 신선하지 않았던듯",
-    "date": "15.06.17",
-    "rating": "7",
-    "author": "jini****",
-    "review_id": "10006173",
-    "movie_id": "56496"
-  },
-  {
-    "review": "후속편이 나온다면 모르겠지만 이것만으로는 그냥저냥이다",
-    "date": "15.06.10",
-    "rating": "5",
-    "author": "seho****",
-    "review_id": "9987766",
-    "movie_id": "56496"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:76819001820632b1341c086362d0e5bffcfd49afa230b79e21445d91f7a98283
+size 523

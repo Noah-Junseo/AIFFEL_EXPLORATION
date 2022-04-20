@@ -1,26 +1,3 @@
-[
-  {
-    "review": "776667776777",
-    "date": "15.03.12",
-    "rating": "10",
-    "author": "sski****",
-    "review_id": "9773210",
-    "movie_id": "38016"
-  },
-  {
-    "review": "독고영재베드신이 허얼... 진짜 심하더라...ㅋㅋ",
-    "date": "09.08.07",
-    "rating": "10",
-    "author": "eles****",
-    "review_id": "3719053",
-    "movie_id": "38016"
-  },
-  {
-    "review": "솔직히 이건 아니였다.",
-    "date": "08.02.13",
-    "rating": "1",
-    "author": "evil****",
-    "review_id": "2440484",
-    "movie_id": "38016"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:89c5cdbd9c9f8bcde8ea34c9fc5ea192b13170c64e892fc86852564313d6cc43
+size 578

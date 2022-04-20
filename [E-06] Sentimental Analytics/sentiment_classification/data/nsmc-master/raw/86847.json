@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "10068178",
-    "movie_id": "86847",
-    "author": "juji****",
-    "review": "아무도 애에 대해 관심을 갖지 않음ㅋ",
-    "rating": "1",
-    "date": "15.07.04"
-  },
-  {
-    "review_id": "7866669",
-    "movie_id": "86847",
-    "author": "modd****",
-    "review": "ㅋㅋ",
-    "rating": "10",
-    "date": "13.08.10"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:6764b0716d5c3189a9a5797017e31feab331204225e5c2bc0372d8344db3ea42
+size 373

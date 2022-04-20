@@ -1,26 +1,3 @@
-[
-  {
-    "review": "장서희가 이럴줄이야",
-    "date": "06.08.04",
-    "rating": "7",
-    "author": "zeed****",
-    "review_id": "967405",
-    "movie_id": "41365"
-  },
-  {
-    "review": "장서희씨만 안 나왔음 쳐다도 안 봤다.",
-    "date": "05.10.26",
-    "rating": "7",
-    "author": "shfw****",
-    "review_id": "455832",
-    "movie_id": "41365"
-  },
-  {
-    "review": "짱이예요",
-    "date": "05.09.24",
-    "rating": "10",
-    "author": "punk****",
-    "review_id": "420629",
-    "movie_id": "41365"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:e36259eae49a78630c73723fb43a3db9f06a512a8b104560020e85f98e0a45bf
+size 560

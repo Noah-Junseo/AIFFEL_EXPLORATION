@@ -1,18 +1,3 @@
-[
-  {
-    "review": "대좌는 괴뢰군이었습니다 ㅜ_ㅜ",
-    "date": "08.08.05",
-    "rating": "1",
-    "author": "msha****",
-    "review_id": "2837652",
-    "movie_id": "20472"
-  },
-  {
-    "review": "대좌가 아들이 있다는점에서 충격을 받은 영화입니다",
-    "date": "08.08.05",
-    "rating": "10",
-    "author": "muh2****",
-    "review_id": "2837648",
-    "movie_id": "20472"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a9e1757f301a47b6e0ed5a7aee05c9f20d01f31fbe65ee35fa2f364d94bcf01
+size 429

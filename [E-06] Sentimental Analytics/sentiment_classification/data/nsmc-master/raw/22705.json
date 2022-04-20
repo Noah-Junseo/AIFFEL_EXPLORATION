@@ -1,18 +1,3 @@
-[
-  {
-    "review": "나중에 봐야짘",
-    "date": "13.04.07",
-    "rating": "10",
-    "author": "b_er****",
-    "review_id": "7440234",
-    "movie_id": "22705"
-  },
-  {
-    "review": "어린 주인공으로 출연한 애의 실명은 최한나가 아닌 채한나로 기억됩니다.",
-    "date": "09.11.01",
-    "rating": "8",
-    "author": "hans****",
-    "review_id": "3930894",
-    "movie_id": "22705"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:90f332c062dd570c47a19965c6d8a3887922cc1ea73d68c6f7dca8881ee60615
+size 434

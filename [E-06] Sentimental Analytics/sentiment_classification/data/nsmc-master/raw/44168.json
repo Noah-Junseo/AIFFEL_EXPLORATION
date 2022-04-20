@@ -1,18 +1,3 @@
-[
-  {
-    "review": "별 로다",
-    "date": "12.02.13",
-    "rating": "1",
-    "author": "gvhb****",
-    "review_id": "6072311",
-    "movie_id": "44168"
-  },
-  {
-    "review": "캬~쩔군!",
-    "date": "10.12.23",
-    "rating": "10",
-    "author": "jco8****",
-    "review_id": "5076926",
-    "movie_id": "44168"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:9da727a6979f15bfeb1db8e03e9d802f36244295984b0d746f6db37d1d56854b
+size 337

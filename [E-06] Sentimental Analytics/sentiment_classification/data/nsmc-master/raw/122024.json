@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "8728240",
-    "movie_id": "122024",
-    "author": "high****",
-    "review": "좋아요~^^, 봄에 어울리는 영화네요",
-    "rating": "9",
-    "date": "14.05.13"
-  },
-  {
-    "review_id": "8727853",
-    "movie_id": "122024",
-    "author": "sis8****",
-    "review": "좋아요.정말로 좋아요",
-    "rating": "10",
-    "date": "14.05.13"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd4f6f3c83c2cd06c608ec113138b8256416c0aefe7ff379bf53e76a50232162
+size 393

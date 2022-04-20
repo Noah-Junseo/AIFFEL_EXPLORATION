@@ -1,18 +1,3 @@
-[
-  {
-    "review": "봐도봐도 멋잇는 왕호의 멋찐발차기가 압권인영화!!",
-    "date": "10.08.22",
-    "rating": "10",
-    "author": "zmfp****",
-    "review_id": "4776878",
-    "movie_id": "23392"
-  },
-  {
-    "review": "한국배우 왕호의 대표작품~",
-    "date": "07.03.27",
-    "rating": "10",
-    "author": "thfl****",
-    "review_id": "1557760",
-    "movie_id": "23392"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:acd0a380b612f0cf92de04489286b5f70edd2cab786f118739e664e46b2c7361
+size 422

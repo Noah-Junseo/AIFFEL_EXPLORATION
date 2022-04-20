@@ -1,26 +1,3 @@
-[
-  {
-    "review_id": "9027358",
-    "movie_id": "122030",
-    "author": "kiyo****",
-    "review": "10101010101010",
-    "rating": "10",
-    "date": "14.08.04"
-  },
-  {
-    "review_id": "8928383",
-    "movie_id": "122030",
-    "author": "kcya****",
-    "review": "이런건 10점 줘야지 ㅎㅎ",
-    "rating": "10",
-    "date": "14.07.18"
-  },
-  {
-    "review_id": "8905256",
-    "movie_id": "122030",
-    "author": "djaa****",
-    "review": "크1빠 아니겟노!ㅋㅋㅋ",
-    "rating": "1",
-    "date": "14.07.11"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:b86f16decd1f156954c89519644ab9eacbc61fc160bc713fb8430148b625e121
+size 552

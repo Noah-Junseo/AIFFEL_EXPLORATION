@@ -1,18 +1,3 @@
-[
-  {
-    "review": "이럼어떻게되지?ㅋㅋ",
-    "date": "14.02.01",
-    "rating": "1",
-    "author": "dasy****",
-    "review_id": "8461588",
-    "movie_id": "12087"
-  },
-  {
-    "review": "내가 처음이넹ㅋㅋ최공!",
-    "date": "12.12.21",
-    "rating": "10",
-    "author": "wkdw****",
-    "review_id": "7027842",
-    "movie_id": "12087"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:5aecc8da458f3e0a75630c1a305dc72989cb30b5c3538c8f70eb4368abbdf4b2
+size 376

@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "7606286",
-    "movie_id": "82476",
-    "author": "bayd****",
-    "review": "아주 재밌게 봤음 ㅎㅎ",
-    "rating": "10",
-    "date": "13.06.07"
-  },
-  {
-    "review_id": "7145523",
-    "movie_id": "82476",
-    "author": "glam****",
-    "review": "시베리아 제민족의 순수하고 웅혼한 대자연적 삶을 다룬 수작이다!",
-    "rating": "9",
-    "date": "13.01.22"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3e16ac794eb3c347614a9c3936e4408ac40cdb504428cd27fc6abf471e1ead8
+size 435

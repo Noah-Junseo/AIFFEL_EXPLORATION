@@ -1,18 +1,3 @@
-[
-  {
-    "review": "상하이에 맞고 낭심에 울고",
-    "date": "14.01.13",
-    "rating": "10",
-    "author": "ille****",
-    "review_id": "8379829",
-    "movie_id": "21328"
-  },
-  {
-    "review": "내가 경찰이라니! 아핡핡...",
-    "date": "13.07.13",
-    "rating": "10",
-    "author": "carl****",
-    "review_id": "7736718",
-    "movie_id": "21328"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a5c98884a692d8631e4f9449b559a88688bbdc7d6d47be1b663cdc16779a31e
+size 389

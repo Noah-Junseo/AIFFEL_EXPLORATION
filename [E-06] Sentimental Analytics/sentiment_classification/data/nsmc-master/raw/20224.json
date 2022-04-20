@@ -1,18 +1,3 @@
-[
-  {
-    "review": "본 사람만이 이해하는 시대를 뛰어넘는 수작.",
-    "date": "12.10.05",
-    "rating": "10",
-    "author": "outf****",
-    "review_id": "6765396",
-    "movie_id": "20224"
-  },
-  {
-    "review": "에로영화 중 불후의 명작",
-    "date": "07.09.29",
-    "rating": "10",
-    "author": "nhs2****",
-    "review_id": "2058791",
-    "movie_id": "20224"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:4501e3011d1c37b84ec4864ff4eb65593b31977e9d799bb70a6ff074ec11d223
+size 410

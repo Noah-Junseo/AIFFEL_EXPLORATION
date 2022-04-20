@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9296210",
-    "movie_id": "120501",
-    "author": "rain****",
-    "review": "애니를 실사화 했다지만.... 그저 고 퀄리티 야동으로 밖에 보이지 않았다.",
-    "rating": "8",
-    "date": "14.10.16"
-  },
-  {
-    "review_id": "8381863",
-    "movie_id": "120501",
-    "author": "kims****",
-    "review": "KTH.... 너의 용기를 높게 산다",
-    "rating": "8",
-    "date": "14.01.14"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:061b1c574dec01919cedfc09f95a497d2cd4160be5c468d36c05e76d8da2d623
+size 453

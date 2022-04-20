@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9697913",
-    "movie_id": "112000",
-    "author": "tipe****",
-    "review": "임지규씨 마지막 엔딩에 군대씬은 좀 깨긴했다 아기 자기한 재미는 있는 그런 드라마",
-    "rating": "7",
-    "date": "15.02.15"
-  },
-  {
-    "review_id": "7996150",
-    "movie_id": "112000",
-    "author": "holy****",
-    "review": "이 드라마 진짜쵝오에요.^^",
-    "rating": "10",
-    "date": "13.09.19"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e7d1d5f407333e36855f51575311573a9b37c0834d69457e3d8776b3dd63da8
+size 466

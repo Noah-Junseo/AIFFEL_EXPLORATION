@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9238744",
-    "movie_id": "114197",
-    "author": "sam7****",
-    "review": "볼만하네 ㅋㅋㅋ 추천 ㅋㅋㅋ",
-    "rating": "7",
-    "date": "14.09.24"
-  },
-  {
-    "review_id": "8014258",
-    "movie_id": "114197",
-    "author": "kdab****",
-    "review": "헉스 영화로도 나오네요... 미드 하고 있는데... 미드 대박 날것 같음..",
-    "rating": "10",
-    "date": "13.09.24"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc9a0416a1a2e6a6e9a487b39870ae41a692134140919b61785ad2e446867026
+size 449

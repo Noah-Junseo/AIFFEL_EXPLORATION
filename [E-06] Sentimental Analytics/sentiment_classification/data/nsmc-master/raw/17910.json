@@ -1,26 +1,3 @@
-[
-  {
-    "review": "재밋어요~~~",
-    "date": "11.06.01",
-    "rating": "9",
-    "author": "jee7****",
-    "review_id": "5459423",
-    "movie_id": "17910"
-  },
-  {
-    "review": "오리지널작에 대한 진지한 고민이 없다보니 그저 똑같은 대사만 반복하는 앵무새 꼴~",
-    "date": "10.07.23",
-    "rating": "3",
-    "author": "mygr****",
-    "review_id": "4663157",
-    "movie_id": "17910"
-  },
-  {
-    "review": "12년전 작품의 리바이벌. 감성이 충분히 변할 시간임에도 그대로이니 쯧쯧..",
-    "date": "09.03.15",
-    "rating": "3",
-    "author": "acin****",
-    "review_id": "3368835",
-    "movie_id": "17910"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:e789e071cb20b32d013e829100a5c82ef7f747b4e973a825429f83003c4f5b1b
+size 699

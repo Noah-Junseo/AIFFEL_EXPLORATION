@@ -1,18 +1,3 @@
-[
-  {
-    "review": "왜봣지 ㅡㅡ",
-    "date": "13.06.04",
-    "rating": "1",
-    "author": "2001****",
-    "review_id": "7579444",
-    "movie_id": "32306"
-  },
-  {
-    "review": "용진형짱",
-    "date": "13.01.14",
-    "rating": "10",
-    "author": "wjdt****",
-    "review_id": "7115799",
-    "movie_id": "32306"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:95ba7a56a538d60d949f35e0281c3fdec9c3ee42ff223ef5b068b47d370c3950
+size 344

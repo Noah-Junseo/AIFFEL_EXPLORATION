@@ -1,26 +1,3 @@
-[
-  {
-    "review": "이게 왜 10점이냐 잔인하고 충격적인 게",
-    "date": "14.06.13",
-    "rating": "1",
-    "author": "wnsd****",
-    "review_id": "8826138",
-    "movie_id": "13397"
-  },
-  {
-    "review": "전 어렸을때 봤는데 이 영화 10점짜리",
-    "date": "09.12.01",
-    "rating": "10",
-    "author": "85go****",
-    "review_id": "4006345",
-    "movie_id": "13397"
-  },
-  {
-    "review": "특별히 10점 안봤지만.ㅇ ㅋㅋ",
-    "date": "05.11.12",
-    "rating": "10",
-    "author": "wygi****",
-    "review_id": "472137",
-    "movie_id": "13397"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e50fbb0a6b06371fa2a14fcfef53acf35d8940e889d6179e5e4332730fb9494
+size 612

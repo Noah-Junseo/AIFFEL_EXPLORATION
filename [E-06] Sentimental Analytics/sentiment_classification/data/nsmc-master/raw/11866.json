@@ -1,18 +1,3 @@
-[
-  {
-    "review": "완전 이름만 달고 나오는구나 애마로 나와도 이슈가 되지 않는...",
-    "date": "10.06.05",
-    "rating": "1",
-    "author": "deff****",
-    "review_id": "4546013",
-    "movie_id": "11866"
-  },
-  {
-    "review": "ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ",
-    "date": "04.03.20",
-    "rating": "10",
-    "author": "qkrr****",
-    "review_id": "30234",
-    "movie_id": "11866"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9d992c21cc836d05bdd684ea087324231f8358a85f5730e01d3cf4775b73071
+size 496

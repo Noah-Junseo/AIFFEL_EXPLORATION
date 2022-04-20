@@ -1,18 +1,3 @@
-[
-  {
-    "review": "졸작",
-    "date": "13.06.24",
-    "rating": "1",
-    "author": "bky7****",
-    "review_id": "7677088",
-    "movie_id": "66514"
-  },
-  {
-    "review": "에로 치곤 너무 야해",
-    "date": "08.07.25",
-    "rating": "10",
-    "author": "hack****",
-    "review_id": "2800556",
-    "movie_id": "66514"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d66fdad79573574f86a20bec9fa66f64d294110156cb15ff7e74400c407375e
+size 349

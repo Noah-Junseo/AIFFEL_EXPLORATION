@@ -1,26 +1,3 @@
-[
-  {
-    "review": "1937년생인 김영옥이 이 영화 주인공?  동명이인일거다. 좀 알고 올리자.",
-    "date": "14.05.06",
-    "rating": "3",
-    "author": "blue****",
-    "review_id": "8709974",
-    "movie_id": "21693"
-  },
-  {
-    "review": "나도 평점 존나올리기 ㄱㄱㄱ",
-    "date": "10.01.29",
-    "rating": "10",
-    "author": "07eo****",
-    "review_id": "4221688",
-    "movie_id": "21693"
-  },
-  {
-    "review": "평점 존나 올리기 ㄱㄱㄱ",
-    "date": "10.01.29",
-    "rating": "10",
-    "author": "blue****",
-    "review_id": "4219819",
-    "movie_id": "21693"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9b5a9577ca15a4e61260485b6c8e68721bf44332fda95a66344eb33f7596072
+size 639

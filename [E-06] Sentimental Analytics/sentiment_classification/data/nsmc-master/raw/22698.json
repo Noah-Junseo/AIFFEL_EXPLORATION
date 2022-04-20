@@ -1,18 +1,3 @@
-[
-  {
-    "review": "죄악의 덩어리에 종지부를 찍을 인간사표를 당신 스스로 쓰란 말이오!",
-    "date": "07.08.08",
-    "rating": "10",
-    "author": "bae1****",
-    "review_id": "1903090",
-    "movie_id": "22698"
-  },
-  {
-    "review": "남성영화..",
-    "date": "06.08.02",
-    "rating": "10",
-    "author": "zeed****",
-    "review_id": "955095",
-    "movie_id": "22698"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:b806cdc1a7f9007604dc9c3d00f2a458e25d169bb6c847138e86733976786100
+size 423

@@ -1,34 +1,3 @@
-[
-  {
-    "review": "good",
-    "date": "07.10.18",
-    "rating": "7",
-    "author": "cles****",
-    "review_id": "2096200",
-    "movie_id": "10523"
-  },
-  {
-    "review": "PRISON BREAK 보는 게 더 좋아요 -_- ㅅㅂ",
-    "date": "07.02.07",
-    "rating": "10",
-    "author": "dark****",
-    "review_id": "1450916",
-    "movie_id": "10523"
-  },
-  {
-    "review": "탈옥",
-    "date": "06.11.23",
-    "rating": "8",
-    "author": "ysuh****",
-    "review_id": "1247101",
-    "movie_id": "10523"
-  },
-  {
-    "review": "소품 범죄극이지만 아기자기한 재미가 가득하다.",
-    "date": "06.01.15",
-    "rating": "7",
-    "author": "movi****",
-    "review_id": "590776",
-    "movie_id": "10523"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:64b2458caefea95288c64eb9bb5d6d1c4047dc9325f97fa30ef72badfddd9689
+size 750

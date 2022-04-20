@@ -1,18 +1,3 @@
-[
-  {
-    "review": "이 영화를 보고 새로운 삶을 살게 되었습니다.",
-    "date": "15.07.23",
-    "rating": "10",
-    "author": "shin****",
-    "review_id": "10133926",
-    "movie_id": "28140"
-  },
-  {
-    "review": "이 영화를 보고 암이 나았습니다",
-    "date": "15.06.28",
-    "rating": "10",
-    "author": "lysd****",
-    "review_id": "10046350",
-    "movie_id": "28140"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ed6692db837eb7e45938871a7b73ad0c984d6df6ded31a801dbe019feeeb9a8
+size 423

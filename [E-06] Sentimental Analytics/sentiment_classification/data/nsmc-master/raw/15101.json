@@ -1,34 +1,3 @@
-[
-  {
-    "review": "허무한 엔딩이 영화를 망쳤다.",
-    "date": "09.02.16",
-    "rating": "6",
-    "author": "okyk****",
-    "review_id": "3309786",
-    "movie_id": "15101"
-  },
-  {
-    "review": "데보라 윙거의 개성을 죽인 형편없는 졸작",
-    "date": "08.08.20",
-    "rating": "5",
-    "author": "kjhf****",
-    "review_id": "2888076",
-    "movie_id": "15101"
-  },
-  {
-    "review": "저두 어려서 봐서인지 무척 긴장감있게 보았는데..",
-    "date": "07.02.19",
-    "rating": "7",
-    "author": "nala****",
-    "review_id": "1484412",
-    "movie_id": "15101"
-  },
-  {
-    "review": "어렸을 때 봤던 스릴러물인데 아직도 잊을 수가 없습니다.",
-    "date": "05.10.06",
-    "rating": "10",
-    "author": "maru****",
-    "review_id": "435046",
-    "movie_id": "15101"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:fae9b7eaab9744bb80b4bdfcad65b6d78d83da201907b3f02f362460ca20c569
+size 867

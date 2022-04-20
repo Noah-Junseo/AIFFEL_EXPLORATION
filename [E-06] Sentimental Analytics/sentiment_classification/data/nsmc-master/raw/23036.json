@@ -1,18 +1,3 @@
-[
-  {
-    "review": "최악이었다",
-    "date": "09.12.13",
-    "rating": "2",
-    "author": "c_ro****",
-    "review_id": "4039503",
-    "movie_id": "23036"
-  },
-  {
-    "review": "김진아의 도발!!!",
-    "date": "07.01.21",
-    "rating": "5",
-    "author": "1415****",
-    "review_id": "1403284",
-    "movie_id": "23036"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fc5eabef7b78cdbc8a8e2f80eba2afc3a3036fea98716897e6cf9d35d2574fd
+size 352

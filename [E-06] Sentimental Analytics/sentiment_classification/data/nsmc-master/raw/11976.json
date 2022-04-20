@@ -1,18 +1,3 @@
-[
-  {
-    "review": "전세영씨 보고싶네요",
-    "date": "06.08.03",
-    "rating": "8",
-    "author": "zeed****",
-    "review_id": "959347",
-    "movie_id": "11976"
-  },
-  {
-    "review": "전 여사님 지금 어디에 있나요 ...",
-    "date": "04.02.06",
-    "rating": "10",
-    "author": "chlr****",
-    "review_id": "16748",
-    "movie_id": "11976"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:054f951cc13411301a02be31337604adeab61de17ed6d77d53821e60b92e103e
+size 385

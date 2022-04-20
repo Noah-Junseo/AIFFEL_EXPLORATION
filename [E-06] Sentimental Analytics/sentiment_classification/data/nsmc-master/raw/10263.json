@@ -1,18 +1,3 @@
-[
-  {
-    "review": "마릴린 먼로 때문에 9점 살아있다면 5점",
-    "date": "15.05.29",
-    "rating": "9",
-    "author": "tlaw****",
-    "review_id": "9960129",
-    "movie_id": "10263"
-  },
-  {
-    "review": "긴머리 마릴린 먼로를 볼 수 있음. 노래도",
-    "date": "15.05.08",
-    "rating": "7",
-    "author": "dayd****",
-    "review_id": "9903222",
-    "movie_id": "10263"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:42ba375fba1292fbd30e39d065c73773fec0e992206bbc6b3ed224d7cfd9833f
+size 422

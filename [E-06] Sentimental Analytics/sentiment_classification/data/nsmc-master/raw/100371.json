@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9298013",
-    "movie_id": "100371",
-    "author": "skgu****",
-    "review": "굳.!.!.!.!.!",
-    "rating": "10",
-    "date": "14.10.17"
-  },
-  {
-    "review_id": "9143779",
-    "movie_id": "100371",
-    "author": "soul****",
-    "review": "개봉했음? 왓더?? 흠?",
-    "rating": "1",
-    "date": "14.08.29"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3d085e13a56d438fafa75581ad9b76cb0b894ae58e6bb864546f46e4721eec1
+size 358

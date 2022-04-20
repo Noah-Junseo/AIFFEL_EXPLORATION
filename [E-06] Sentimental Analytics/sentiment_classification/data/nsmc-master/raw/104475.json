@@ -1,26 +1,3 @@
-[
-  {
-    "review_id": "8022187",
-    "movie_id": "104475",
-    "author": "jeon****",
-    "review": "YB짱~~~!!!#",
-    "rating": "10",
-    "date": "13.09.29"
-  },
-  {
-    "review_id": "7353876",
-    "movie_id": "104475",
-    "author": "arir****",
-    "review": "재미있었어요~^^",
-    "rating": "10",
-    "date": "13.03.16"
-  },
-  {
-    "review_id": "7343543",
-    "movie_id": "104475",
-    "author": "bayd****",
-    "review": "1등!!",
-    "rating": "10",
-    "date": "13.03.12"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:11c1bbdde6fb47da098593f5451327eb6954fba46a202bcfbd5c2a85344f8165
+size 516

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "3점은 너무 심했네요, 이정도는 될거라고 생각되요 일단 재미있으니까",
-    "date": "12.04.01",
-    "rating": "6",
-    "author": "zemu****",
-    "review_id": "6184590",
-    "movie_id": "24561"
-  },
-  {
-    "review": "헐리우드 너무 베꼈어..",
-    "date": "07.07.11",
-    "rating": "3",
-    "author": "woot****",
-    "review_id": "1765525",
-    "movie_id": "24561"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:215cb7e4fade35f1f268196d788b4bdaf5eccb43e7804bbef75953622a3da670
+size 439

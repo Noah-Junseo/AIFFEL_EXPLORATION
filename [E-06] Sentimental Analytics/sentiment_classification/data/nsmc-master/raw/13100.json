@@ -1,18 +1,3 @@
-[
-  {
-    "review": "소개된 줄거리만 보면 재밌을거 같지만 막상 본편은 평범했던 걸로 기억됨",
-    "date": "10.07.23",
-    "rating": "5",
-    "author": "gall****",
-    "review_id": "4664941",
-    "movie_id": "13100"
-  },
-  {
-    "review": "단성사에서 개봉했던것같은데 영화내용이 가물가물~~",
-    "date": "07.02.04",
-    "rating": "5",
-    "author": "rg52****",
-    "review_id": "1444190",
-    "movie_id": "13100"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ac62765827100103100f37561f7be11c3b929fd7914c59a16485225dcd7c51d
+size 485

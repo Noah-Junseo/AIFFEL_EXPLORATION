@@ -1,34 +1,3 @@
-[
-  {
-    "review": "G-O-O-D^-^",
-    "date": "13.12.05",
-    "rating": "10",
-    "author": "sdy7****",
-    "review_id": "8192128",
-    "movie_id": "16303"
-  },
-  {
-    "review": "재미",
-    "date": "13.02.07",
-    "rating": "10",
-    "author": "hssh****",
-    "review_id": "7233965",
-    "movie_id": "16303"
-  },
-  {
-    "review": "재밌음",
-    "date": "12.06.10",
-    "rating": "10",
-    "author": "bbo0****",
-    "review_id": "6383412",
-    "movie_id": "16303"
-  },
-  {
-    "review": "뭐 이딴 영화가...",
-    "date": "10.10.25",
-    "rating": "1",
-    "author": "sjs9****",
-    "review_id": "4921550",
-    "movie_id": "16303"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d821f5eba0ea6f5232be2f82b5de3ae3e15547d3f5cbb7bb3c57383df7ece06
+size 678

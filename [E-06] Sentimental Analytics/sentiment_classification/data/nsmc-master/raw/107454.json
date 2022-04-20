@@ -1,34 +1,3 @@
-[
-  {
-    "review_id": "7680914",
-    "movie_id": "107454",
-    "author": "baks****",
-    "review": "마음만은,10점 줌",
-    "rating": "7",
-    "date": "13.06.26"
-  },
-  {
-    "review_id": "7671647",
-    "movie_id": "107454",
-    "author": "euna****",
-    "review": "만화 먼저 봐라",
-    "rating": "10",
-    "date": "13.06.23"
-  },
-  {
-    "review_id": "7663392",
-    "movie_id": "107454",
-    "author": "ysjn****",
-    "review": "그럼 소는?",
-    "rating": "1",
-    "date": "13.06.21"
-  },
-  {
-    "review_id": "7660452",
-    "movie_id": "107454",
-    "author": "maoz****",
-    "review": "말이 필요없다",
-    "rating": "10",
-    "date": "13.06.20"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:832b0fd422ede027836e96231d5aea642ab0281df312b0e678009ebebaf59154
+size 708

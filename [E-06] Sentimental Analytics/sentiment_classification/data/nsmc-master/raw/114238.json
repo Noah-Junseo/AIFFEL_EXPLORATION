@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "8351013",
-    "movie_id": "114238",
-    "author": "tmdt****",
-    "review": "여주인공이 상당히 이뻣음",
-    "rating": "10",
-    "date": "14.01.05"
-  },
-  {
-    "review_id": "8349348",
-    "movie_id": "114238",
-    "author": "kore****",
-    "review": "월욜날 요거 보러 영화관 감 보고나서 감상평 기대하시길",
-    "rating": "1",
-    "date": "14.01.04"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdace4b191022943899346e14b0f21b8cae8f7410766d1f8e900d63d4652ec6a
+size 429

@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9836249",
-    "movie_id": "85807",
-    "author": "cres****",
-    "review": "가이피어스 역시 명배우.... 여주도 나름 귀엽다",
-    "rating": "10",
-    "date": "15.04.09"
-  },
-  {
-    "review_id": "9666060",
-    "movie_id": "85807",
-    "author": "lobk****",
-    "review": "아쉬순 스토리라서 시간때우기용에 가까운",
-    "rating": "6",
-    "date": "15.02.04"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:02e430b7b9eb0230e194dd3c15074207f8333c2a19a229043ca43f74a0b29cfc
+size 436

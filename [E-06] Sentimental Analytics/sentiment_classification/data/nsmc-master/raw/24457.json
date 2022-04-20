@@ -1,26 +1,3 @@
-[
-  {
-    "review": "미친.. 저도 뭔가 싶어서 봤어요",
-    "date": "15.01.14",
-    "rating": "1",
-    "author": "yoon****",
-    "review_id": "9592165",
-    "movie_id": "24457"
-  },
-  {
-    "review": "아래님 때문에 저도 이영화 봤어요...",
-    "date": "11.08.24",
-    "rating": "1",
-    "author": "rati****",
-    "review_id": "5685302",
-    "movie_id": "24457"
-  },
-  {
-    "review": "이영화를 아는사람은 나뿐인가..완전 재미없게본영화라 더 기억에남는..",
-    "date": "09.02.21",
-    "rating": "1",
-    "author": "jkh0****",
-    "review_id": "3320301",
-    "movie_id": "24457"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:cde6f46b82ef0865df74ffb554a79221c9890273f0606fdba52797b4f0bfe29d
+size 658

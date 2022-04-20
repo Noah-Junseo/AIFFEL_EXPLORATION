@@ -1,18 +1,3 @@
-[
-  {
-    "review": "한명숙 우정출연  ㄷㄷㄷㄷ",
-    "date": "15.01.09",
-    "rating": "10",
-    "author": "unos****",
-    "review_id": "9577995",
-    "movie_id": "20242"
-  },
-  {
-    "review": "노오~란~",
-    "date": "13.06.28",
-    "rating": "10",
-    "author": "skat****",
-    "review_id": "7686895",
-    "movie_id": "20242"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1a8c25d660760dc460e492b745d32a29e8b85faa8d1b83b3420e856f325feb8
+size 364

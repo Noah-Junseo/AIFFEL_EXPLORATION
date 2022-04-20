@@ -1,18 +1,3 @@
-[
-  {
-    "review": "진짜 재미없었음",
-    "date": "11.04.07",
-    "rating": "2",
-    "author": "evil****",
-    "review_id": "5360458",
-    "movie_id": "22379"
-  },
-  {
-    "review": "보지 마세요.",
-    "date": "07.02.03",
-    "rating": "1",
-    "author": "cmh4****",
-    "review_id": "1440239",
-    "movie_id": "22379"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae896e35cdb76ed0e05f07058c8c7c8eda88fdb1fa572c093ff6790ed297581a
+size 354

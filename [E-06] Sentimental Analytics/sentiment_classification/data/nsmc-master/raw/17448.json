@@ -1,18 +1,3 @@
-[
-  {
-    "review": "프랑스판 멍청이들이 나와 웃기려고 엄청 노력한다 하지만 부족 부족",
-    "date": "09.01.17",
-    "rating": "3",
-    "author": "deff****",
-    "review_id": "3228082",
-    "movie_id": "17448"
-  },
-  {
-    "review": "레옹보고 감동받아서 빌려봤는데..약간 찌그리했뜸",
-    "date": "06.01.28",
-    "rating": "8",
-    "author": "daer****",
-    "review_id": "628121",
-    "movie_id": "17448"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:f595dc3f6ea4ad69e9c6ff48d0970581996bc26d7e2c8a2800edf0b94c5ebd6f
+size 474

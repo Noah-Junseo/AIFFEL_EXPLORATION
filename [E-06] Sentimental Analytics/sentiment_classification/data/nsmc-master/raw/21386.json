@@ -1,18 +1,3 @@
-[
-  {
-    "review": "잠깐만",
-    "date": "13.07.09",
-    "rating": "10",
-    "author": "chsk****",
-    "review_id": "7720281",
-    "movie_id": "21386"
-  },
-  {
-    "review": "전덕...",
-    "date": "13.07.09",
-    "rating": "10",
-    "author": "rorl****",
-    "review_id": "7720263",
-    "movie_id": "21386"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d08a552248c0e7234e303dfb2f28888a3d4c8ac37e764e283b2946315b0709d7
+size 335

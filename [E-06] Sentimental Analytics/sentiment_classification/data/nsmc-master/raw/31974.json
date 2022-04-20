@@ -1,26 +1,3 @@
-[
-  {
-    "review": "실베스타 스탈론의 록키6와는 관계없는 9분짜리 단편영화네요.",
-    "date": "15.03.05",
-    "rating": "10",
-    "author": "stem****",
-    "review_id": "9757904",
-    "movie_id": "31974"
-  },
-  {
-    "review": "어릴땐 록키시리즈에 열광했지만 지금 보면 확실히 영웅주의",
-    "date": "07.04.10",
-    "rating": "10",
-    "author": "blue****",
-    "review_id": "1581565",
-    "movie_id": "31974"
-  },
-  {
-    "review": "록키 6라... -_-;;",
-    "date": "04.10.18",
-    "rating": "1",
-    "author": "kpcc****",
-    "review_id": "128058",
-    "movie_id": "31974"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:0057968da5ff15dac5c0fb7c1f9b7c41abf505f7f68c9c7e4a9add1b468932ea
+size 656

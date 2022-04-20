@@ -1,18 +1,3 @@
-[
-  {
-    "review": "재미없서용보지말라귱ㅇ",
-    "date": "14.02.02",
-    "rating": "1",
-    "author": "nobl****",
-    "review_id": "8465147",
-    "movie_id": "47566"
-  },
-  {
-    "review": "조문탁♡",
-    "date": "13.02.15",
-    "rating": "10",
-    "author": "coco****",
-    "review_id": "7266213",
-    "movie_id": "47566"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f9b5a3e367bfb772de047f72d5518f63dc356341c80fb1370fba1307cd49ad7
+size 361

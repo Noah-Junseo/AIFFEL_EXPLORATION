@@ -1,18 +1,3 @@
-[
-  {
-    "review": "EBS 보셨군요... 코메디언 故서영춘 선생님의 연기 또한 일품인 작품...",
-    "date": "08.03.17",
-    "rating": "10",
-    "author": "merc****",
-    "review_id": "2525984",
-    "movie_id": "20903"
-  },
-  {
-    "review": "애잔한 느낌??",
-    "date": "08.03.16",
-    "rating": "10",
-    "author": "ziki****",
-    "review_id": "2524617",
-    "movie_id": "20903"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e469b939b457ca5d42cb7277a47dbefa51e0c42bbe1246f09fbcb8492c4cca6
+size 427

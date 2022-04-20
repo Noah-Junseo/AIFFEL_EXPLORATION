@@ -1,18 +1,3 @@
-[
-  {
-    "review": "십수년이 지난 지금도 떠오르는 아련한 귀여움, 위트",
-    "date": "13.03.18",
-    "rating": "9",
-    "author": "sang****",
-    "review_id": "7359473",
-    "movie_id": "25181"
-  },
-  {
-    "review": "발랄한 영화",
-    "date": "06.05.27",
-    "rating": "10",
-    "author": "eddr****",
-    "review_id": "817583",
-    "movie_id": "25181"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fab7f4303a022d6df75dde21cf45be0ef3b62c7dd929d04a9058f5c8da39969
+size 401

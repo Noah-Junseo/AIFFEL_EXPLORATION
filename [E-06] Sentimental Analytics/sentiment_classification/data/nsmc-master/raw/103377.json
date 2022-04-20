@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9320817",
-    "movie_id": "103377",
-    "author": "hana****",
-    "review": "코미디 명작 애니메이션",
-    "rating": "8",
-    "date": "14.10.26"
-  },
-  {
-    "review_id": "7273220",
-    "movie_id": "103377",
-    "author": "rorn****",
-    "review": "재미있던데",
-    "rating": "9",
-    "date": "13.02.16"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:151fc416af8e1f104b4ae4902606970e53c5c47cb1c10ec4149f3683df7eee3a
+size 364

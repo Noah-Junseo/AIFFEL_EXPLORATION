@@ -1,18 +1,3 @@
-[
-  {
-    "review": "완벽한ㅇ작품",
-    "date": "13.04.28",
-    "rating": "10",
-    "author": "jun5****",
-    "review_id": "7492096",
-    "movie_id": "20837"
-  },
-  {
-    "review": "공중촬영씬에서 헬기가 찍혀버렸다",
-    "date": "09.06.10",
-    "rating": "1",
-    "author": "wood****",
-    "review_id": "3557200",
-    "movie_id": "20837"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:7aaa670ed37960cb11f379b150449668838c2cf51182ea7277520149dd7d2b69
+size 381

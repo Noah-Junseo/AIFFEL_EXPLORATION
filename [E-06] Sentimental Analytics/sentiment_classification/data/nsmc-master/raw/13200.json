@@ -1,18 +1,3 @@
-[
-  {
-    "review": "리메이크는 오리지날 발가락의 때만큼도 안됨 (웃음)",
-    "date": "15.07.15",
-    "rating": "9",
-    "author": "baks****",
-    "review_id": "10105349",
-    "movie_id": "13200"
-  },
-  {
-    "review": "현재 상영중인 영화와 비교가 되는 작품(과거의 것이 훨 났다)",
-    "date": "15.03.01",
-    "rating": "9",
-    "author": "shk1****",
-    "review_id": "9751177",
-    "movie_id": "13200"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:deb317f3b0320ea844ca2a46665463537ba2f43929e957f7275be414fa1a34dc
+size 468

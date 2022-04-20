@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9461931",
-    "movie_id": "131611",
-    "author": "limd****",
-    "review": "역시  오리지널은 뭔가 다르네요",
-    "rating": "10",
-    "date": "14.12.10"
-  },
-  {
-    "review_id": "9445575",
-    "movie_id": "131611",
-    "author": "ting****",
-    "review": "오오 대박임!! ㅋㅋㅋ",
-    "rating": "10",
-    "date": "14.12.04"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:467617698da0e4016b12cb5fb7dfc15fdee685e6ffe8f1e984685c9467774281
+size 390

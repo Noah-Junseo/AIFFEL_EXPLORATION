@@ -1,18 +1,3 @@
-[
-  {
-    "review": "공간이 한정적이지만 네명친구들의 생각이 잘표현되어서 좋았다, 약갼 지루함이 흠.",
-    "date": "11.07.27",
-    "rating": "9",
-    "author": "hugj****",
-    "review_id": "5574816",
-    "movie_id": "28998"
-  },
-  {
-    "review": "아무도 평가가 없네. 진짜 묻히기 아까운 영화.",
-    "date": "07.07.25",
-    "rating": "10",
-    "author": "xing****",
-    "review_id": "1808167",
-    "movie_id": "28998"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:53e26f999d3cb6b20b986921bea42a9c8ec8335511b40f8d12ff2ca8d90281a3
+size 490

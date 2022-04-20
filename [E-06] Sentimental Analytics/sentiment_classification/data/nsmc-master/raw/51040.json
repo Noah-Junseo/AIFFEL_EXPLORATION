@@ -1,18 +1,3 @@
-[
-  {
-    "review": "레전드",
-    "date": "13.03.31",
-    "rating": "10",
-    "author": "sws6****",
-    "review_id": "7427471",
-    "movie_id": "51040"
-  },
-  {
-    "review": "오래된영화치구는 넘재밌게 봤써여 10쩜~!",
-    "date": "09.03.01",
-    "rating": "10",
-    "author": "feel****",
-    "review_id": "3342145",
-    "movie_id": "51040"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:774004222f8014e72823e7423bef3ace36d2c88ba3d775256402c0f3e3bf9fe2
+size 381

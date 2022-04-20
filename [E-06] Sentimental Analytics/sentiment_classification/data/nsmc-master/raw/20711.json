@@ -1,18 +1,3 @@
-[
-  {
-    "review": "먼훗날 언젠가는 기억될 내해에",
-    "date": "15.07.02",
-    "rating": "1",
-    "author": "wnsg****",
-    "review_id": "10062039",
-    "movie_id": "20711"
-  },
-  {
-    "review": "다시~~보고픈 영화예요~^**",
-    "date": "14.04.24",
-    "rating": "10",
-    "author": "joys****",
-    "review_id": "8669650",
-    "movie_id": "20711"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ea525348b96a50a33996d0be24c4dbf6222b58937646eab4e418b0a1c1cc4a9
+size 393

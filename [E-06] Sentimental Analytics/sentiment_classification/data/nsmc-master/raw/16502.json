@@ -1,18 +1,3 @@
-[
-  {
-    "review": "케서방 연기 좋아요 으리!",
-    "date": "14.11.28",
-    "rating": "10",
-    "author": "dlgk****",
-    "review_id": "9429895",
-    "movie_id": "16502"
-  },
-  {
-    "review": "최고임... 말이필요없어요...",
-    "date": "12.08.16",
-    "rating": "10",
-    "author": "dhc1****",
-    "review_id": "6614949",
-    "movie_id": "16502"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a5f65c9f18e135c737aab4b546dee09d8cc40f46022e4123e1786b1fc73731a
+size 388

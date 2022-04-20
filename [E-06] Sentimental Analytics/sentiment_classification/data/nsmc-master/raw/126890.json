@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "10118459",
-    "movie_id": "126890",
-    "author": "baks****",
-    "review": "나두다...(웃음)",
-    "rating": "10",
-    "date": "15.07.19"
-  },
-  {
-    "review_id": "9285271",
-    "movie_id": "126890",
-    "author": "bang****",
-    "review": "재밌다.김병만나무타는거또보고싶다.",
-    "rating": "10",
-    "date": "14.10.11"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:3554f1478fa5d5aceed37ed2d37295ab74db4986531b12c56abf4aa08bc1bffb
+size 390

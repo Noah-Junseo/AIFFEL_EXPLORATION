@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "7801006",
-    "movie_id": "81062",
-    "author": "euji****",
-    "review": "평점 1점이길래 안타까워서",
-    "rating": "10",
-    "date": "13.07.30"
-  },
-  {
-    "review_id": "7425748",
-    "movie_id": "81062",
-    "author": "hk25****",
-    "review": "ㅇㅇ",
-    "rating": "1",
-    "date": "13.03.31"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4cd0cc03da87c1bc71ccbcc13b2388a9a836a76283cf45825cd30990253778c
+size 358

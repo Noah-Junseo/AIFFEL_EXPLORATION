@@ -1,18 +1,3 @@
-[
-  {
-    "review": "별로..",
-    "date": "13.06.05",
-    "rating": "2",
-    "author": "dbgu****",
-    "review_id": "7582307",
-    "movie_id": "17452"
-  },
-  {
-    "review": "평범한 액션물 감독 코만도 참 재미 있었는데 이후 평범해졌다",
-    "date": "09.04.29",
-    "rating": "5",
-    "author": "deff****",
-    "review_id": "3447756",
-    "movie_id": "17452"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:702cfa3da53b3c5580dacba5119f5cdee99fc654c606c4806b9d82d1ad07bb26
+size 406

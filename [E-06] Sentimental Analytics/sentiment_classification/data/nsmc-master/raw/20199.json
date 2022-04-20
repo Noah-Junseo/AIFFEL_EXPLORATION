@@ -1,18 +1,3 @@
-[
-  {
-    "review": "바보선언과 더불어 한국의 수작영화 이런 걸작은 또 없다",
-    "date": "09.10.09",
-    "rating": "10",
-    "author": "rogu****",
-    "review_id": "3882913",
-    "movie_id": "20199"
-  },
-  {
-    "review": "10점 만점에 10점",
-    "date": "08.09.26",
-    "rating": "10",
-    "author": "onep****",
-    "review_id": "2970326",
-    "movie_id": "20199"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e73394c96da5059bb5fb4c35c593d7dc7846cb475ca5b6a249d2e4708e2a4cd
+size 414

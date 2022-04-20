@@ -1,18 +1,3 @@
-[
-  {
-    "review": "최민식 영화에 1점이 있어선 안돼지 ㅠ",
-    "date": "15.02.22",
-    "rating": "10",
-    "author": "peac****",
-    "review_id": "9729628",
-    "movie_id": "12260"
-  },
-  {
-    "review": "이렇게 최민식이 사라질줄 알았는데...  최민식씨 감사하며 사세요",
-    "date": "04.12.30",
-    "rating": "1",
-    "author": "rlaq****",
-    "review_id": "173128",
-    "movie_id": "12260"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:0788ba586a49cccd25c60bf98e6a5e1c9bdfab913d60bc36d431feae3c37bca2
+size 454

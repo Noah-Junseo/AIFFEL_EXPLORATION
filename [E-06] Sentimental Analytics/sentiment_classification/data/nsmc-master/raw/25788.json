@@ -1,18 +1,3 @@
-[
-  {
-    "review": "잔잔한 한 가족 이야기.",
-    "date": "10.10.08",
-    "rating": "3",
-    "author": "evil****",
-    "review_id": "4892130",
-    "movie_id": "25788"
-  },
-  {
-    "review": "잔잔한 가족애와 일상의 소중함을 일깨워주는...",
-    "date": "06.08.25",
-    "rating": "6",
-    "author": "hadl****",
-    "review_id": "1075863",
-    "movie_id": "25788"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d024d7fab82537bc920da22dcd6ad2083bf5244da4b7c8701528b64c52258112
+size 410

@@ -1,26 +1,3 @@
-[
-  {
-    "review": "별로;;",
-    "date": "12.01.17",
-    "rating": "1",
-    "author": "love****",
-    "review_id": "5993693",
-    "movie_id": "66546"
-  },
-  {
-    "review": "김서형 너무 멋져.",
-    "date": "12.01.06",
-    "rating": "10",
-    "author": "odjs****",
-    "review_id": "5964487",
-    "movie_id": "66546"
-  },
-  {
-    "review": "1빠",
-    "date": "10.04.09",
-    "rating": "10",
-    "author": "tkdd****",
-    "review_id": "4421800",
-    "movie_id": "66546"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:3325b4ebd23269ebe19c0445f42da9762c404467fa227679c808112aa4310fe2
+size 509

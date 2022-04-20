@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "8907989",
-    "movie_id": "126329",
-    "author": "kore****",
-    "review": "개썁노잼톤이닫ㄷㄷㄷㄷ",
-    "rating": "1",
-    "date": "14.07.12"
-  },
-  {
-    "review_id": "8897965",
-    "movie_id": "126329",
-    "author": "cmj3****",
-    "review": "남주 훈남!~ 배우들연기 보고싶당",
-    "rating": "10",
-    "date": "14.07.09"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:881c0bc29a507e63875da017b38dbe33bc1566ed555c4d96025174b657d0f407
+size 395

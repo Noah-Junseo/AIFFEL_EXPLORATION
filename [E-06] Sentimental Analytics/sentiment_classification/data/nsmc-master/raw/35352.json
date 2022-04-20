@@ -1,26 +1,3 @@
-[
-  {
-    "review": "첫작은 다 이런법 이죠. 파이팅.",
-    "date": "15.03.24",
-    "rating": "10",
-    "author": "yuyu****",
-    "review_id": "9802866",
-    "movie_id": "35352"
-  },
-  {
-    "review": "그저아무생각없이나는늑대소년기덧기덕",
-    "date": "13.11.24",
-    "rating": "1",
-    "author": "youn****",
-    "review_id": "8163902",
-    "movie_id": "35352"
-  },
-  {
-    "review": "선동렬 방어율을 향해!.",
-    "date": "07.08.31",
-    "rating": "1",
-    "author": "star****",
-    "review_id": "1991134",
-    "movie_id": "35352"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:f198928d6aec8cf90421b76fed461b07d935aca3584a3fb5672982f8397cb254
+size 599

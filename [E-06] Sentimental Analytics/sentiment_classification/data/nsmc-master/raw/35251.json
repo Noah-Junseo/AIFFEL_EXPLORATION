@@ -1,18 +1,3 @@
-[
-  {
-    "review": "감독님....ㅠ첫번째 좋아요 표시 하트 1 ^^",
-    "date": "14.04.11",
-    "rating": "10",
-    "author": "cine****",
-    "review_id": "8643007",
-    "movie_id": "35251"
-  },
-  {
-    "review": "한마디 말보다도 따뜻한.",
-    "date": "08.05.03",
-    "rating": "8",
-    "author": "dela****",
-    "review_id": "2614137",
-    "movie_id": "35251"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4c112ea6e70d15e60ed72afc4d3a272e6cd9003c7a00b2272a1e8acaf3df0ed
+size 403

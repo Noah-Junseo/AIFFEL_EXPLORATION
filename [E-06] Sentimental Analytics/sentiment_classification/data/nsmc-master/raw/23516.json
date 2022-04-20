@@ -1,10 +1,3 @@
-[
-  {
-    "review": "전설의 시작이라 부르는 영화",
-    "date": "15.08.15",
-    "rating": "10",
-    "author": "knol****",
-    "review_id": "10232919",
-    "movie_id": "23516"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:50f403e6538d06a7ab9767847e78f86b3c9d50fcbd23639bb0248dec64be88f4
+size 200

@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9750831",
-    "movie_id": "125040",
-    "author": "mool****",
-    "review": "자연은 아름답다. 삶은 아름답다.",
-    "rating": "10",
-    "date": "15.03.01"
-  },
-  {
-    "review_id": "9677620",
-    "movie_id": "125040",
-    "author": "heav****",
-    "review": "왜평점이하나도없지..자잘한재미가있는데",
-    "rating": "10",
-    "date": "15.02.08"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b093808665888a196fdb58b07bd71f0fb9161cae1ec180539b37e240a65cca6
+size 419

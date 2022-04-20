@@ -1,18 +1,3 @@
-[
-  {
-    "review": "어렸을 때 정말 재밌게 봤던 드라마였는데,, 요즘도 보고싶고 가끔 생각이 나는 그런 드라마네요",
-    "date": "14.08.14",
-    "rating": "10",
-    "author": "baky****",
-    "review_id": "9083983",
-    "movie_id": "42522"
-  },
-  {
-    "review": "명작드라마입니다",
-    "date": "06.08.03",
-    "rating": "10",
-    "author": "zeed****",
-    "review_id": "959243",
-    "movie_id": "42522"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:b80fb5596c24f922b55aecab31b49d56ccb3685f011e6747727e7f9de6e7de89
+size 468

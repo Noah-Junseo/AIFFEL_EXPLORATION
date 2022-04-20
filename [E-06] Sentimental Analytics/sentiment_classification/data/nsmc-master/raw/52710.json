@@ -1,18 +1,3 @@
-[
-  {
-    "review": "추억의 명화 , 항상 다시 보고픈 영화...",
-    "date": "14.05.19",
-    "rating": "10",
-    "author": "kht0****",
-    "review_id": "8748151",
-    "movie_id": "52710"
-  },
-  {
-    "review": "정말 오래된 영화지만 마리솔의 노래를 잊을수가 없는, 꼭 다시 보고싶은 영화",
-    "date": "10.07.09",
-    "rating": "10",
-    "author": "0691****",
-    "review_id": "4625203",
-    "movie_id": "52710"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdbd2e1e8a04af3bb13cd5d10975ad1e96de5b2d248754fe1ba7ff449dd61dbf
+size 473

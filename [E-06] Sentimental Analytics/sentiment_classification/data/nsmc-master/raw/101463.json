@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "10131189",
-    "movie_id": "101463",
-    "author": "luna****",
-    "review": "그 세계를 그린단게 대단하지",
-    "rating": "10",
-    "date": "15.07.22"
-  },
-  {
-    "review_id": "7694178",
-    "movie_id": "101463",
-    "author": "90yo****",
-    "review": "와 뭐라 설명 못하겠음",
-    "rating": "10",
-    "date": "13.07.01"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d2cdbecadd1736ee844a2259be3b9b09e2690ddcee32dc4f932308209c60287
+size 389

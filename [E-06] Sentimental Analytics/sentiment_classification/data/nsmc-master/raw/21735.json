@@ -1,18 +1,3 @@
-[
-  {
-    "review": "배우로서 출연작은 단 두편뿐이지만 진도 세월호 침몰현장에 구조활동 가신 한국구조연합회장 정동남씨 항상 살신성인하시는 모습이 아름답습니다",
-    "date": "14.04.17",
-    "rating": "10",
-    "author": "good****",
-    "review_id": "8655883",
-    "movie_id": "21735"
-  },
-  {
-    "review": "정동남 화이팅",
-    "date": "10.03.29",
-    "rating": "10",
-    "author": "nice****",
-    "review_id": "4396057",
-    "movie_id": "21735"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:3691bc2871981ca2ab0752e4aaf6cd96e98325075f284fe35b070b979d8ba341
+size 533

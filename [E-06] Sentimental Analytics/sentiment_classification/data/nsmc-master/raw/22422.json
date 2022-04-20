@@ -1,18 +1,3 @@
-[
-  {
-    "review": "ㅋㅋㅋ",
-    "date": "13.04.24",
-    "rating": "10",
-    "author": "6021****",
-    "review_id": "7478769",
-    "movie_id": "22422"
-  },
-  {
-    "review": "대사 전달이 조금..",
-    "date": "06.02.27",
-    "rating": "5",
-    "author": "scal****",
-    "review_id": "695077",
-    "movie_id": "22422"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcc33a44185a8807699e9b681d0fdb27644c0af50acea98557bba59821afd0ab
+size 349

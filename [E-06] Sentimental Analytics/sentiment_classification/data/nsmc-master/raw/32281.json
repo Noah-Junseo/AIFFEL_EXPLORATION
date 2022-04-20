@@ -1,18 +1,3 @@
-[
-  {
-    "review": "아놔 이사람들이 마약먹고 찍었나 이게 당연히 흥행할 리가 없지",
-    "date": "11.06.30",
-    "rating": "1",
-    "author": "jhpr****",
-    "review_id": "5510921",
-    "movie_id": "32281"
-  },
-  {
-    "review": "새로운 시도는 좋지만, 훌륭하진 않다",
-    "date": "11.06.16",
-    "rating": "3",
-    "author": "evil****",
-    "review_id": "5484504",
-    "movie_id": "32281"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:e238bc40fdb4fee0321a1657fea6c5c4601c59d43d767dbd5ec357c40a97741d
+size 451

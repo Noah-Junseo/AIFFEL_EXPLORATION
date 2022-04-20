@@ -1,10 +1,3 @@
-[
-  {
-    "review": "등록된 관람후 평점이 없습니다. 이 영화의 첫번째 네티즌 평점을 등록해 주세요.",
-    "date": "11.12.10",
-    "rating": "10",
-    "author": "hr90****",
-    "review_id": "5898284",
-    "movie_id": "23559"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bc0de9b0833f350748f749b4d5ad065004e0459f7ccb98bb50f2bf2db00168a
+size 268

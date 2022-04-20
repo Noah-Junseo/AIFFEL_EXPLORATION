@@ -1,18 +1,3 @@
-[
-  {
-    "review": "이원승씨는 분장이 따로 필요 없네요. ㅋ",
-    "date": "10.04.15",
-    "rating": "9",
-    "author": "pste****",
-    "review_id": "4434323",
-    "movie_id": "20539"
-  },
-  {
-    "review": "죵시 젬있네.ㅎㅎㅎ",
-    "date": "04.10.18",
-    "rating": "10",
-    "author": "kzza****",
-    "review_id": "128273",
-    "movie_id": "20539"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:fabcdac0919be0976e98d7a3634fbdc698ee480a9a632844cb66dd6c148a1170
+size 395

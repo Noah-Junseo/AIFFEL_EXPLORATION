@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9936913",
-    "movie_id": "107378",
-    "author": "kste****",
-    "review": "개노잼임 진짜 진짜 진짜 진짜",
-    "rating": "1",
-    "date": "15.05.21"
-  },
-  {
-    "review_id": "9936590",
-    "movie_id": "107378",
-    "author": "asqz****",
-    "review": "예고편 보면 그레이의 50가지 그림자가 생각난다",
-    "rating": "10",
-    "date": "15.05.21"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:35a1200b8f7dfebb0b6bcb2f0cf349a8ae828ce1937a1947173a29ff98e9abdc
+size 422

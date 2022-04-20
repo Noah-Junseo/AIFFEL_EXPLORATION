@@ -1,18 +1,3 @@
-[
-  {
-    "review": "ㅋㅋㅋ존@나@ㅋㅋㅋㅋ",
-    "date": "15.03.31",
-    "rating": "1",
-    "author": "rorn****",
-    "review_id": "9818486",
-    "movie_id": "20120"
-  },
-  {
-    "review": "아무 것도 없어서 ;; ㅋ",
-    "date": "11.05.09",
-    "rating": "10",
-    "author": "chlw****",
-    "review_id": "5418206",
-    "movie_id": "20120"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:be88f93c6fe5bd8e30b9d1eb62dbabf5a3be53bc0eb40d54333063cff4950925
+size 375

@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9116786",
-    "movie_id": "123928",
-    "author": "ari1****",
-    "review": "인터뷰 방송 기준 볼만함",
-    "rating": "8",
-    "date": "14.08.21"
-  },
-  {
-    "review_id": "8750474",
-    "movie_id": "123928",
-    "author": "dbdb****",
-    "review": "발칙한  인터뷰  4가지쇼  아주  재미있게 잘 보고 있습니다!",
-    "rating": "10",
-    "date": "14.05.20"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a434ff0b08707f5dd25d0b6d7d655852ce53f4d191981647f9304561b4a7f51
+size 430

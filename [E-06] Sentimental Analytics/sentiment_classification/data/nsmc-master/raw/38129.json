@@ -1,26 +1,3 @@
-[
-  {
-    "review": "이덕화는 역시 어디에 출연하나 연기짱이다.그는 진정한 훈남이다.",
-    "date": "12.09.17",
-    "rating": "10",
-    "author": "odjs****",
-    "review_id": "6709011",
-    "movie_id": "38129"
-  },
-  {
-    "review": "제가 중1때 했었네요  이영애씨가 전에 술집에서 일한게 들통나서 난리난게 기억나요",
-    "date": "11.11.09",
-    "rating": "10",
-    "author": "sham****",
-    "review_id": "5837518",
-    "movie_id": "38129"
-  },
-  {
-    "review": "촬영장 방문도 했었는데",
-    "date": "06.09.02",
-    "rating": "9",
-    "author": "zeed****",
-    "review_id": "1095326",
-    "movie_id": "38129"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:7339659a9ea1969c5119e5977a8c0da86c6d98c18f946a4b9c03ff83866143a5
+size 707

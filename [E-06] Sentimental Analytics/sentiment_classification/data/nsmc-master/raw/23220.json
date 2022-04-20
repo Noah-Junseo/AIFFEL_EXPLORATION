@@ -1,18 +1,3 @@
-[
-  {
-    "review": "당대의 여배우 김유정을 보게된 작품",
-    "date": "15.05.22",
-    "rating": "10",
-    "author": "ccca****",
-    "review_id": "9939332",
-    "movie_id": "23220"
-  },
-  {
-    "review": "한국 고전영화는 눈으로 보는게 아니라 마음으로 보는 것이다!!",
-    "date": "15.05.18",
-    "rating": "10",
-    "author": "ske4****",
-    "review_id": "9928797",
-    "movie_id": "23220"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f0050f0c3d5fd448870be04234851a6639c0205b6e3e31e798d912cb58c5a7d
+size 450

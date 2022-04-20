@@ -1,18 +1,3 @@
-[
-  {
-    "review": "초반은 조금 지루하지만 오드리 헵번의 매력을 느낄 수 있는 작품이면서 마지막 엔딩이 기억에 남는 영화",
-    "date": "15.07.23",
-    "rating": "7",
-    "author": "nine****",
-    "review_id": "10134008",
-    "movie_id": "13598"
-  },
-  {
-    "review": "왜 평점이 없는거지...",
-    "date": "15.07.05",
-    "rating": "10",
-    "author": "dduk****",
-    "review_id": "10073993",
-    "movie_id": "13598"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:256a6cf92e6dbd44e80baa6141fb9fe2a97b26fdc107ab4f9da2ef02b2a05a72
+size 487

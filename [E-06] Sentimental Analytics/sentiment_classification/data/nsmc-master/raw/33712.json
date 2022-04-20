@@ -1,18 +1,3 @@
-[
-  {
-    "review": "재미있다..감동적이다...",
-    "date": "15.05.22",
-    "rating": "1",
-    "author": "bong****",
-    "review_id": "9937765",
-    "movie_id": "33712"
-  },
-  {
-    "review": "쏘우가 기억안나나서 게임오버 검색하다가 들어왔다 청불이라땡기네",
-    "date": "14.11.12",
-    "rating": "10",
-    "author": "cs79****",
-    "review_id": "9372965",
-    "movie_id": "33712"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:50dc7d4cd83c13f677efde50e3c613fe88308a1ba8f04b8272b0e2684e5adf3c
+size 440

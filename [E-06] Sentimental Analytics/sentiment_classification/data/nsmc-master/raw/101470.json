@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9274741",
-    "movie_id": "101470",
-    "author": "kuna****",
-    "review": "이때부터 성우가 약간 바꿔셔 좀 좋았지 아마..",
-    "rating": "3",
-    "date": "14.10.08"
-  },
-  {
-    "review_id": "7267737",
-    "movie_id": "101470",
-    "author": "2002****",
-    "review": "또봇 완전 재밌다!",
-    "rating": "10",
-    "date": "13.02.15"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:18b47b33e2fcb2a70aa52c1e166a813a5be3772b71257d8fe22f0e9da8d881f1
+size 404

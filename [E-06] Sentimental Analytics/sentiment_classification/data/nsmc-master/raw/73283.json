@@ -1,18 +1,3 @@
-[
-  {
-    "review": "별로인듯합니다 무의미한반복",
-    "date": "13.11.09",
-    "rating": "1",
-    "author": "gkgk****",
-    "review_id": "8125702",
-    "movie_id": "73283"
-  },
-  {
-    "review": "음악 베리굿",
-    "date": "11.08.24",
-    "rating": "10",
-    "author": "opus****",
-    "review_id": "5685364",
-    "movie_id": "73283"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e5403971656158104ad08de29d5b17cbc1f6abb02a345f5f425ab59204ff135
+size 372

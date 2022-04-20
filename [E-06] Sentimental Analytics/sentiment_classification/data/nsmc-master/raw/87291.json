@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "6846320",
-    "movie_id": "87291",
-    "author": "jifa****",
-    "review": "말그대로 액션이쩌는영화",
-    "rating": "10",
-    "date": "12.11.02"
-  },
-  {
-    "review_id": "6846306",
-    "movie_id": "87291",
-    "author": "mppq****",
-    "review": "와 대박재미있네 셰인멋지네 ㅋㅋ",
-    "rating": "10",
-    "date": "12.11.02"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:35da402be83fdefa9e205335cec20b6614d4a367dca197b7099bd2483cd8eb8d
+size 396

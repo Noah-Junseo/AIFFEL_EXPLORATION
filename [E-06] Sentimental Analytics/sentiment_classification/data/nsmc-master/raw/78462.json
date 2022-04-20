@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "8495025",
-    "movie_id": "78462",
-    "author": "7072****",
-    "review": "꿀잼! 시간가는 줄 몰랐다",
-    "rating": "9",
-    "date": "14.02.10"
-  },
-  {
-    "review_id": "8485210",
-    "movie_id": "78462",
-    "author": "ngsb****",
-    "review": "처음엔 좀 지루했지만...",
-    "rating": "9",
-    "date": "14.02.07"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f44b4474ebb8f425f3111b233818a0068f24cf27138c3afd17611f24d22075a
+size 381

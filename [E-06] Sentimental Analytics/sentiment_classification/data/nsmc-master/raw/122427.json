@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "8899111",
-    "movie_id": "122427",
-    "author": "c951****",
-    "review": "멍멍이성격이 저같아서 재밌네요~",
-    "rating": "10",
-    "date": "14.07.09"
-  },
-  {
-    "review_id": "8605443",
-    "movie_id": "122427",
-    "author": "8501****",
-    "review": "나름...괜찮음.ㅋ",
-    "rating": "8",
-    "date": "14.03.25"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:addc1821c4270febe4344e1b763bb52d936f089ac360b46f4accb6981b173328
+size 385

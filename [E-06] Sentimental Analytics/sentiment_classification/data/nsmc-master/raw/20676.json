@@ -1,18 +1,3 @@
-[
-  {
-    "review": "옷을 벗어라 ,,,아래도 모두,,,,손을 위로 올려라~~~무엇하느나...손을 위로 올리래두",
-    "date": "09.04.06",
-    "rating": "10",
-    "author": "span****",
-    "review_id": "3407036",
-    "movie_id": "20676"
-  },
-  {
-    "review": "80년대 영화인지 알았다.",
-    "date": "08.07.18",
-    "rating": "1",
-    "author": "evil****",
-    "review_id": "2774096",
-    "movie_id": "20676"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cf724c58c96cfc2b3631a7b50589f6045e31f0dcdfc97618d62073bd02b3480
+size 458

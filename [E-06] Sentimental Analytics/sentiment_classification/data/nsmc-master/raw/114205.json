@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "8385546",
-    "movie_id": "114205",
-    "author": "kais****",
-    "review": "다운받아서 보면 10점을 안 주실 듯 하네요. 그리고 보고 평점 남기세요.",
-    "rating": "1",
-    "date": "14.01.15"
-  },
-  {
-    "review_id": "7936937",
-    "movie_id": "114205",
-    "author": "plok****",
-    "review": "뭐지.. 영화나왔으면 한번은 보고싶은대.. 왜 영화관 아무도 안걸....",
-    "rating": "10",
-    "date": "13.08.31"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:22de816825d0b297d34ed8371512fa137691db505b8a2d8dde79e0063c08ec41
+size 503

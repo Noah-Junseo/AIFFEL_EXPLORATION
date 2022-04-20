@@ -1,18 +1,3 @@
-[
-  {
-    "review": "재민네.ㅋ",
-    "date": "10.08.02",
-    "rating": "10",
-    "author": "boun****",
-    "review_id": "4698294",
-    "movie_id": "17190"
-  },
-  {
-    "review": "그나마 영화가 길지 않다는게 위안..",
-    "date": "10.03.30",
-    "rating": "1",
-    "author": "evil****",
-    "review_id": "4397497",
-    "movie_id": "17190"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fe29a170178a29bb3070eb259928a2092380abc1c2ffea49fa4a8c1866da9e7
+size 377

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "10점은 너무 높아;;;",
-    "date": "09.06.06",
-    "rating": "1",
-    "author": "ooqo****",
-    "review_id": "3547231",
-    "movie_id": "39220"
-  },
-  {
-    "review": "내가 이걸 주면 10점이 되는건가 ?",
-    "date": "09.06.01",
-    "rating": "10",
-    "author": "kjho****",
-    "review_id": "3538095",
-    "movie_id": "39220"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf4c7c1e2b87d3a533696958207506f2d8d8a46aa3c95aaa85006674372d13f4
+size 385

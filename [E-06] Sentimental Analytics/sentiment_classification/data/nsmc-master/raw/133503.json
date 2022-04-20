@@ -1,26 +1,3 @@
-[
-  {
-    "review_id": "9821947",
-    "movie_id": "133503",
-    "author": "choi****",
-    "review": "보성형님 보는 맛에 봤지만 차마 10점은 못 드리겠음",
-    "rating": "9",
-    "date": "15.04.02"
-  },
-  {
-    "review_id": "9684190",
-    "movie_id": "133503",
-    "author": "ske4****",
-    "review": "보성형님 빼고 나머진 완전 미스캐스팅 너무 안타깝다!",
-    "rating": "1",
-    "date": "15.02.10"
-  },
-  {
-    "review_id": "9647707",
-    "movie_id": "133503",
-    "author": "dila****",
-    "review": "꿀잼꿀잼꿀잼꿀잼꿀잼꿀잼꿀잼꿀잼꿀잼꿀잼",
-    "rating": "10",
-    "date": "15.01.29"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e2b6c91d86b842846abd2ccdbb0ef032b9b687d47617c9ccbb5fd9145a316e6
+size 677

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "너무 좋은 영화예용",
-    "date": "09.11.09",
-    "rating": "10",
-    "author": "jong****",
-    "review_id": "3949580",
-    "movie_id": "20708"
-  },
-  {
-    "review": "한기주아버지 화가아저씨로 나오다...일용이도 나오다",
-    "date": "04.09.10",
-    "rating": "4",
-    "author": "hanj****",
-    "review_id": "105596",
-    "movie_id": "20708"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:24bfa0e713c2af88c67998e93ede66793a35ab53a8a28bed6d9056d2cf2b4b1b
+size 413

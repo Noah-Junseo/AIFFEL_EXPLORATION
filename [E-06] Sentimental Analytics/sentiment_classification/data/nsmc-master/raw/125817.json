@@ -1,26 +1,3 @@
-[
-  {
-    "review_id": "9014726",
-    "movie_id": "125817",
-    "author": "jsh7****",
-    "review": "헐 이런것도 상영을 하는구나 봐도 내용이 뭔질 뭐르겠다.",
-    "rating": "1",
-    "date": "14.08.03"
-  },
-  {
-    "review_id": "9014305",
-    "movie_id": "125817",
-    "author": "rkdw****",
-    "review": "무의미한 자음/모음의 연속입력은 불가능합니다",
-    "rating": "10",
-    "date": "14.08.03"
-  },
-  {
-    "review_id": "9014298",
-    "movie_id": "125817",
-    "author": "kbb4****",
-    "review": "내가지금까지본 영화중 이영화는 최고였다",
-    "rating": "10",
-    "date": "14.08.03"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:c65456753b4a39a562e1e6172c411c922704be99e68170a8bf02c767fb2b5c46
+size 674

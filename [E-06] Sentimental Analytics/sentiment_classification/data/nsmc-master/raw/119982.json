@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "8918822",
-    "movie_id": "119982",
-    "author": "slun****",
-    "review": "서..유리?  지금 보러갑니다",
-    "rating": "10",
-    "date": "14.07.15"
-  },
-  {
-    "review_id": "8486889",
-    "movie_id": "119982",
-    "author": "jws7****",
-    "review": "유리누나때문에보는대예스잼",
-    "rating": "10",
-    "date": "14.02.08"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:73cdf9e8979bca4961c917c32177e6935c0926758ac71556c04ec2ea38ad4f8a
+size 394

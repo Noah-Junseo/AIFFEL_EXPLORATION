@@ -1,26 +1,3 @@
-[
-  {
-    "review_id": "9684188",
-    "movie_id": "128242",
-    "author": "gksm****",
-    "review": "위아원!!엑소가 짜세닷...♥",
-    "rating": "10",
-    "date": "15.02.10"
-  },
-  {
-    "review_id": "9261703",
-    "movie_id": "128242",
-    "author": "ysdo****",
-    "review": "역쉬 엑소.. 레이는 사랑이다",
-    "rating": "10",
-    "date": "14.10.04"
-  },
-  {
-    "review_id": "9249134",
-    "movie_id": "128242",
-    "author": "pupp****",
-    "review": "재미있어요~!!ㅎㅎ",
-    "rating": "10",
-    "date": "14.09.29"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f195763b2eefbea74c6564d8b0434652a94f74245182fe66fbf9d3e2ff4c371
+size 575

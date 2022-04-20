@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9360273",
-    "movie_id": "129345",
-    "author": "pros****",
-    "review": "연기는 변함없는것같아요♡",
-    "rating": "10",
-    "date": "14.11.09"
-  },
-  {
-    "review_id": "9332502",
-    "movie_id": "129345",
-    "author": "milk****",
-    "review": "이거 왜 만든 거냐....",
-    "rating": "2",
-    "date": "14.10.31"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:f323eccbf6abb0b836b1b2986d2d08c33488dc940a21033bc0b033086346941d
+size 383

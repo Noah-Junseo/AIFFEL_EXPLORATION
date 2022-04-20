@@ -1,18 +1,3 @@
-[
-  {
-    "review": "우리나라문화에대한영화도있네요",
-    "date": "10.04.01",
-    "rating": "10",
-    "author": "whgu****",
-    "review_id": "4402853",
-    "movie_id": "22127"
-  },
-  {
-    "review": "우리나라 문화 찾다 가 나와서 평점 ㅋㅋㅋㅋ 이런 영화도 있네",
-    "date": "09.11.18",
-    "rating": "10",
-    "author": "seok****",
-    "review_id": "3974358",
-    "movie_id": "22127"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c8b5d74a593c48dc78f2760ce08bc6af5f7cccc07710573bf05e9196b1412f5
+size 446

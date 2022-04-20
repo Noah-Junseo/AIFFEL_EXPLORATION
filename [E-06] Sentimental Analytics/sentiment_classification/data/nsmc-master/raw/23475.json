@@ -1,18 +1,3 @@
-[
-  {
-    "review": "ㅋㅋ나더ㅋㅋ나더ㅋㅋ",
-    "date": "14.08.13",
-    "rating": "2",
-    "author": "khwt****",
-    "review_id": "9079666",
-    "movie_id": "23475"
-  },
-  {
-    "review": "ㅋㅋ나밖에없엌ㅋㅋ",
-    "date": "13.01.12",
-    "rating": "1",
-    "author": "dnjs****",
-    "review_id": "7106446",
-    "movie_id": "23475"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:9097fde45cce8ae408ed89888c780523ac9be16d1a22fdf5737632920a82268e
+size 372

@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9446348",
-    "movie_id": "121125",
-    "author": "ange****",
-    "review": "노답 똥덩어리영화 보지마세요",
-    "rating": "1",
-    "date": "14.12.04"
-  },
-  {
-    "review_id": "9405111",
-    "movie_id": "121125",
-    "author": "534k****",
-    "review": "1빠인데 포스터보니 걍 8점",
-    "rating": "8",
-    "date": "14.11.20"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:6873a49376446688d58f1c4a8758d811edff17e6f6e5b06667ccd6c15aa8da73
+size 393

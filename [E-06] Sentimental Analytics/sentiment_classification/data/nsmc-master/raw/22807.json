@@ -1,26 +1,3 @@
-[
-  {
-    "review": "이영화를 보는대.. 내 옷들의 쟉크가 저절로 올라가는 기적을 보았습니다...",
-    "date": "13.10.25",
-    "rating": "10",
-    "author": "ssps****",
-    "review_id": "8086319",
-    "movie_id": "22807"
-  },
-  {
-    "review": "포스터만으로도 명작 ㅇㅇ",
-    "date": "08.06.08",
-    "rating": "10",
-    "author": "fool****",
-    "review_id": "2687065",
-    "movie_id": "22807"
-  },
-  {
-    "review": "자료화면으로 봤는데..",
-    "date": "06.08.02",
-    "rating": "9",
-    "author": "zeed****",
-    "review_id": "955091",
-    "movie_id": "22807"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e9285617aa367343008e34f7fd2af7430f6d8773fc44fdc7fe0e4c243c3de70
+size 637

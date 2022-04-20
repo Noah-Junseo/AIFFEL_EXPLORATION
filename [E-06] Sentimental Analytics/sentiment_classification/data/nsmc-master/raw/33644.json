@@ -1,18 +1,3 @@
-[
-  {
-    "review": "후하게 점수 드립니다 .. 후우",
-    "date": "14.02.02",
-    "rating": "9",
-    "author": "jyna****",
-    "review_id": "8465983",
-    "movie_id": "33644"
-  },
-  {
-    "review": "이런 씨발 졸작영화 ㅗㅗㅗㅗ",
-    "date": "10.06.27",
-    "rating": "1",
-    "author": "kiss****",
-    "review_id": "4594059",
-    "movie_id": "33644"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:74e95c23f3aa6a50d820153d93e007b49a427dcb7f79d0065c392d75a47acbd9
+size 393

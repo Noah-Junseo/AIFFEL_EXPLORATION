@@ -1,18 +1,3 @@
-[
-  {
-    "review": "\"\"\"\"''''\"'",
-    "date": "13.10.20",
-    "rating": "10",
-    "author": "9511****",
-    "review_id": "8073588",
-    "movie_id": "23083"
-  },
-  {
-    "review": "좀 보여줘바 네이버 나뻐!!",
-    "date": "08.06.07",
-    "rating": "1",
-    "author": "kock****",
-    "review_id": "2685999",
-    "movie_id": "23083"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec196ba9f20115cdf082f5ec93e856c85a8326b2a261f01484c87cc4c3b04a2a
+size 366

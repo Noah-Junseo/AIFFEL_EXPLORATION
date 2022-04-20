@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "6158326",
-    "movie_id": "90556",
-    "author": "shsh****",
-    "review": "와 아이돌이다",
-    "rating": "10",
-    "date": "12.03.21"
-  },
-  {
-    "review_id": "6156358",
-    "movie_id": "90556",
-    "author": "iiii****",
-    "review": "보통",
-    "rating": "8",
-    "date": "12.03.20"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:8467980b22d37850d183da1b38c9d5cf2ca7dcbfe5cfe7ca43d79c1b022c8d10
+size 341

@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9336822",
-    "movie_id": "121100",
-    "author": "date****",
-    "review": "짱재미.ㅜ 철우 오빠 승수오빠 다 열심히 햇아요..황기쁨언니 축하하고 ㅠ 진짜 안보면 후회 ㅠ ♥철우오빠 짱잘생",
-    "rating": "10",
-    "date": "14.11.02"
-  },
-  {
-    "review_id": "9301476",
-    "movie_id": "121100",
-    "author": "thak****",
-    "review": "꿀재미 왕재미 굿구ㅡㅅ굿ㄳ",
-    "rating": "10",
-    "date": "14.10.19"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:c31d042a379c064393cfb490c58e1e2773e4a669df9594f9171455a525b80d82
+size 509

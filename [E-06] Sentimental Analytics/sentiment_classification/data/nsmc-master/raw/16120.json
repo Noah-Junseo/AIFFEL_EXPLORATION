@@ -1,26 +1,3 @@
-[
-  {
-    "review": "10점은 있을 수 없다 헤헤",
-    "date": "15.02.26",
-    "rating": "1",
-    "author": "tmdg****",
-    "review_id": "9739109",
-    "movie_id": "16120"
-  },
-  {
-    "review": "크레이트랑 아드레노랑 몸을 섞어서 스냅드래곤됨",
-    "date": "15.01.14",
-    "rating": "10",
-    "author": "ferr****",
-    "review_id": "9594204",
-    "movie_id": "16120"
-  },
-  {
-    "review": "엑시노스에게 영혼까지 털림",
-    "date": "15.01.09",
-    "rating": "10",
-    "author": "wsd3****",
-    "review_id": "9577775",
-    "movie_id": "16120"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d98991b5ba85599e965ce2a2fe470dffa765f823b85970bf66d62f6614883073
+size 611

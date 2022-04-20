@@ -1,18 +1,3 @@
-[
-  {
-    "review": "오래된 영화,....",
-    "date": "15.01.28",
-    "rating": "10",
-    "author": "dkss****",
-    "review_id": "9644118",
-    "movie_id": "13089"
-  },
-  {
-    "review": "별로 ... 주인공들이 조금 아까운..",
-    "date": "04.07.04",
-    "rating": "4",
-    "author": "stil****",
-    "review_id": "64738",
-    "movie_id": "13089"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:3659312f996692a00857fdf58c9e5cfebed8272a596f5d9142d81b8e97c5ef7a
+size 380

@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "8075671",
-    "movie_id": "100372",
-    "author": "miah****",
-    "review": "멤버좀바꾸면나을것같음",
-    "rating": "7",
-    "date": "13.10.20"
-  },
-  {
-    "review_id": "7118637",
-    "movie_id": "100372",
-    "author": "dfg4****",
-    "review": "그냥 ㅎ ㅎ",
-    "rating": "10",
-    "date": "13.01.15"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:acbfb99452dded048742429c96298a875d02cffba11d6a62522d7964c79bcb08
+size 365

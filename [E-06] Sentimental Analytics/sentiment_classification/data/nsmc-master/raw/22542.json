@@ -1,18 +1,3 @@
-[
-  {
-    "review": "잘은 모르겠다만, 본적은 없지만 쥬디게임에서 월하의 쥬디라고/..",
-    "date": "10.10.03",
-    "rating": "10",
-    "author": "khih****",
-    "review_id": "4882253",
-    "movie_id": "22542"
-  },
-  {
-    "review": "재밋어요",
-    "date": "08.04.20",
-    "rating": "10",
-    "author": "omlm****",
-    "review_id": "2590194",
-    "movie_id": "22542"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e6cc51b2fddbe038d7e8230e41a9ada29238ef8f7d59b02e933222ca973c4cd
+size 417

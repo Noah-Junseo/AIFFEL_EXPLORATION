@@ -1,18 +1,3 @@
-[
-  {
-    "review": "드럽게재미없네",
-    "date": "11.09.29",
-    "rating": "1",
-    "author": "kame****",
-    "review_id": "5759583",
-    "movie_id": "21465"
-  },
-  {
-    "review": "어렷을때 재미잇고 감동적이엇던 추억의 영화",
-    "date": "11.03.14",
-    "rating": "10",
-    "author": "jinf****",
-    "review_id": "5312441",
-    "movie_id": "21465"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa25bdce836ebd969ab098b5c879360444d82821d1bc0b19157589f6b22dc491
+size 398

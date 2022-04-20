@@ -1,26 +1,3 @@
-[
-  {
-    "review": "80년대 잘만킹의 시대는 여기서 끝이다 삼류로.............",
-    "date": "08.08.18",
-    "rating": "1",
-    "author": "si2p****",
-    "review_id": "2883559",
-    "movie_id": "24344"
-  },
-  {
-    "review": "뭐를 이야기하는건지",
-    "date": "06.07.28",
-    "rating": "6",
-    "author": "zeed****",
-    "review_id": "931805",
-    "movie_id": "24344"
-  },
-  {
-    "review": "\"나를 포함해 둘이예요.\"",
-    "date": "06.04.17",
-    "rating": "5",
-    "author": "stag****",
-    "review_id": "765312",
-    "movie_id": "24344"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5edcddb0ebb93c67fc1eb8a45bf3ff749b4df35446a827039c4b380685dacc4
+size 605

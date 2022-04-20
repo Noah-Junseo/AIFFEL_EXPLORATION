@@ -1,18 +1,3 @@
-[
-  {
-    "review": "예지원 안나오는거 같은데요 지금보니깐 재미있네요.",
-    "date": "14.08.15",
-    "rating": "10",
-    "author": "9999****",
-    "review_id": "9087998",
-    "movie_id": "13365"
-  },
-  {
-    "review": "예지원이 나왔는지 몰랐네요",
-    "date": "09.04.07",
-    "rating": "1",
-    "author": "evil****",
-    "review_id": "3410158",
-    "movie_id": "13365"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cbc8f1eb0be58a8f3d5c975ebdb13f0b6c1aae5a3a6d72b9cb0e8b465f78579
+size 425

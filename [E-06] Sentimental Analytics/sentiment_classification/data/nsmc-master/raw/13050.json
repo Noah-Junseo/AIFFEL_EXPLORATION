@@ -1,26 +1,3 @@
-[
-  {
-    "review": "내 눈을 바라봐 너 시험 합격해ㅋㅋ",
-    "date": "09.10.18",
-    "rating": "10",
-    "author": "toqu****",
-    "review_id": "3900331",
-    "movie_id": "13050"
-  },
-  {
-    "review": "허경영 - 콜미",
-    "date": "09.08.16",
-    "rating": "10",
-    "author": "blue****",
-    "review_id": "3754774",
-    "movie_id": "13050"
-  },
-  {
-    "review": "와우",
-    "date": "09.08.14",
-    "rating": "10",
-    "author": "alst****",
-    "review_id": "3748881",
-    "movie_id": "13050"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:41f63aecf626df9c74350d82be08d01e28674c038977f0785d7dea69f039735c
+size 545

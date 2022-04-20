@@ -1,18 +1,3 @@
-[
-  {
-    "review": "원작이랑은 너무 다른것같네요",
-    "date": "14.10.09",
-    "rating": "5",
-    "author": "alla****",
-    "review_id": "9277456",
-    "movie_id": "12565"
-  },
-  {
-    "review": "비극의 전쟁사 위로 애끊는 비극의 애정사",
-    "date": "06.09.20",
-    "rating": "7",
-    "author": "izzo****",
-    "review_id": "1134069",
-    "movie_id": "12565"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:378235fa92f7770951353aee3f731e41ebc6997f9a4569e3c241f961eaba38d8
+size 412

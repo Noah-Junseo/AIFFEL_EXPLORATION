@@ -1,34 +1,3 @@
-[
-  {
-    "review": "ㅋㅋ 뭐냐?",
-    "date": "12.07.08",
-    "rating": "1",
-    "author": "tn99****",
-    "review_id": "6462514",
-    "movie_id": "16880"
-  },
-  {
-    "review": "비디오물도 아니고, 독립영화도 아니고, 작가주의라고 해야 하나?",
-    "date": "07.10.04",
-    "rating": "1",
-    "author": "cmh4****",
-    "review_id": "2069848",
-    "movie_id": "16880"
-  },
-  {
-    "review": "낚였다... 물랑주르 라는 제목만 보고...",
-    "date": "07.10.04",
-    "rating": "2",
-    "author": "evil****",
-    "review_id": "2069824",
-    "movie_id": "16880"
-  },
-  {
-    "review": "음..케이블에서 우연히 봤어요~ 여자주인공겨털안짜르셨더라고요~^^",
-    "date": "07.09.05",
-    "rating": "1",
-    "author": "dalk****",
-    "review_id": "2001872",
-    "movie_id": "16880"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d51e9aa52b06c4bc0ef915936b4b4ad580ac668231e214bd94e729546c619a7c
+size 870

@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "10225650",
-    "movie_id": "137694",
-    "author": "kmsl****",
-    "review": "짱재밋ㅋㅋㅋㅋ급복아 다밝혀...ㅜㅜ답답!!",
-    "rating": "10",
-    "date": "15.08.13"
-  },
-  {
-    "review_id": "10000861",
-    "movie_id": "137694",
-    "author": "tjal****",
-    "review": "재미있었습니다ㅋㅋㅋ",
-    "rating": "10",
-    "date": "15.06.14"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:58ecdf098cfbba40245b369aaa8e695b1334074bb2269026cf47ebcf5690b34d
+size 408

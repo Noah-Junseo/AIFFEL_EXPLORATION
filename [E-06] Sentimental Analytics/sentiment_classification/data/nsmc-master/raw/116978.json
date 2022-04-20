@@ -1,26 +1,3 @@
-[
-  {
-    "review_id": "10219159",
-    "movie_id": "116978",
-    "author": "ske4****",
-    "review": "과감한 폐지에 박수를 보낸다!!",
-    "rating": "1",
-    "date": "15.08.12"
-  },
-  {
-    "review_id": "8375999",
-    "movie_id": "116978",
-    "author": "popc****",
-    "review": "풋.. 치아라!...",
-    "rating": "1",
-    "date": "14.01.12"
-  },
-  {
-    "review_id": "8171977",
-    "movie_id": "116978",
-    "author": "a457****",
-    "review": "어서와 처음이지? 한국어학당은..",
-    "rating": "10",
-    "date": "13.11.27"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a248883466f47a2528a4394e55ca773739da8b22089ab8e40999f591b76d581
+size 580

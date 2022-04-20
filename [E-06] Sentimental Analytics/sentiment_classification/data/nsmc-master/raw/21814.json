@@ -1,18 +1,3 @@
-[
-  {
-    "review": "잘 봤어요ㅎ",
-    "date": "13.04.19",
-    "rating": "10",
-    "author": "gmac****",
-    "review_id": "7469354",
-    "movie_id": "21814"
-  },
-  {
-    "review": "반공과 인간애와 기가 막힌 전투신을 오락가락. 중반까지 연극적 요소",
-    "date": "09.12.04",
-    "rating": "2",
-    "author": "pria****",
-    "review_id": "4015544",
-    "movie_id": "21814"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:6340e3270039a4a136806d1032ff3dcf35b11ef0aa979b56ed973aee5795411b
+size 425

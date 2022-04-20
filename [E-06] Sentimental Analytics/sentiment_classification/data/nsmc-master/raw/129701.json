@@ -1,26 +1,3 @@
-[
-  {
-    "review_id": "9367397",
-    "movie_id": "129701",
-    "author": "sele****",
-    "review": "내용 좋던뎁....;;",
-    "rating": "8",
-    "date": "14.11.10"
-  },
-  {
-    "review_id": "9347585",
-    "movie_id": "129701",
-    "author": "534k****",
-    "review": "포스터가 너무 촌스럽다",
-    "rating": "7",
-    "date": "14.11.06"
-  },
-  {
-    "review_id": "9343624",
-    "movie_id": "129701",
-    "author": "sahy****",
-    "review": "포스터만 보면 1980년대 영화라 해도 믿을 듯",
-    "rating": "5",
-    "date": "14.11.06"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3fae42fcd27903331fe50503dabd97586da049a0684b06bac557ff1a3151407
+size 586

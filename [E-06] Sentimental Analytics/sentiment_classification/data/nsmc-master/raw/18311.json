@@ -1,26 +1,3 @@
-[
-  {
-    "review": "모야..이 영화 얼마나 괜찮은데.. 남자들한텐 재미없고 여자들한텐 매력적인 영화.",
-    "date": "10.07.09",
-    "rating": "9",
-    "author": "jain****",
-    "review_id": "4623246",
-    "movie_id": "18311"
-  },
-  {
-    "review": "보면서 아주 깊이 잘 잤습니다... 수면제용...",
-    "date": "08.02.23",
-    "rating": "2",
-    "author": "evil****",
-    "review_id": "2475636",
-    "movie_id": "18311"
-  },
-  {
-    "review": "-평점 반으로 낮추기 위원회-",
-    "date": "07.07.07",
-    "rating": "2",
-    "author": "balt****",
-    "review_id": "1754657",
-    "movie_id": "18311"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d0edf168f2a3c24bf0be74f8d10bafe9949054cf02e005c2cabd334fa877fd0
+size 677

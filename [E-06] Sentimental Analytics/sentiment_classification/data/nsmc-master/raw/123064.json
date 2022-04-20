@@ -1,26 +1,3 @@
-[
-  {
-    "review_id": "9388963",
-    "movie_id": "123064",
-    "author": "logo****",
-    "review": "조 사다오, 하타노 유이 짱!",
-    "rating": "8",
-    "date": "14.11.16"
-  },
-  {
-    "review_id": "9351487",
-    "movie_id": "123064",
-    "author": "almo****",
-    "review": "물체가 움직이거나 어떤 일이 진행되는 빠르기.",
-    "rating": "2",
-    "date": "14.11.07"
-  },
-  {
-    "review_id": "8914839",
-    "movie_id": "123064",
-    "author": "plok****",
-    "review": "한국에서 개봉했으면좋겠는대 쩝.. 끝이군,.",
-    "rating": "10",
-    "date": "14.07.14"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:a35a144c467649694503c08479b4aaaf61bd0656c657a87cb7058300f06006e6
+size 632

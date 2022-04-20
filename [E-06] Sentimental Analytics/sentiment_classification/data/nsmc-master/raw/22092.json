@@ -1,18 +1,3 @@
-[
-  {
-    "review": "영화 인생 첫대사 \"아버님, 안녕히 주무셨습니까?(성우더빙)\" 가 폐부를 찌른다 !",
-    "date": "11.10.17",
-    "rating": "8",
-    "author": "digi****",
-    "review_id": "5794478",
-    "movie_id": "22092"
-  },
-  {
-    "review": "오~ 쇼킹한데?",
-    "date": "08.02.01",
-    "rating": "2",
-    "author": "evil****",
-    "review_id": "2393701",
-    "movie_id": "22092"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ee59090e282e072deb514831d2d9f240e64a539cb722762d5fd0af49b0c430c
+size 441

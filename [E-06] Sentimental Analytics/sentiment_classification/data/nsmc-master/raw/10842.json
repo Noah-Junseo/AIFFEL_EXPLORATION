@@ -1,18 +1,3 @@
-[
-  {
-    "review": "이대근 못지않은 김진태의 변강쇠도 괜찮긴 한데, 1편과 차별성이 너무 없다",
-    "date": "10.05.23",
-    "rating": "6",
-    "author": "mygr****",
-    "review_id": "4517491",
-    "movie_id": "10842"
-  },
-  {
-    "review": "와 제1착.이렇게 재미있는 영화에 왜 평점이 없지?ㅋㅋ",
-    "date": "09.07.13",
-    "rating": "7",
-    "author": "baks****",
-    "review_id": "3628627",
-    "movie_id": "10842"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbcdcf3359db42b02b183e8623835e001cfe2d73866615da0602a5926cc20d2f
+size 488

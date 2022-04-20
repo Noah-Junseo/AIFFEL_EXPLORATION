@@ -1,26 +1,3 @@
-[
-  {
-    "review": "으헝 이건 아닌...ㅠ",
-    "date": "15.06.22",
-    "rating": "1",
-    "author": "dnjs****",
-    "review_id": "10022518",
-    "movie_id": "25855"
-  },
-  {
-    "review": "이건 아닌데",
-    "date": "06.08.02",
-    "rating": "6",
-    "author": "zeed****",
-    "review_id": "957102",
-    "movie_id": "25855"
-  },
-  {
-    "review": "장난하냐? 장난해?",
-    "date": "05.05.04",
-    "rating": "3",
-    "author": "jcr3****",
-    "review_id": "270804",
-    "movie_id": "25855"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:74ad709567ced4c481e29be17361d2448b4094ea471dfaa53be8bef3cf8c14e4
+size 536

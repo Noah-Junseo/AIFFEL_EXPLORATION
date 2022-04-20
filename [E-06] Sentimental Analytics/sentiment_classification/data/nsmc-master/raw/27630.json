@@ -1,18 +1,3 @@
-[
-  {
-    "review": "별로임..",
-    "date": "07.01.25",
-    "rating": "6",
-    "author": "zeed****",
-    "review_id": "1413819",
-    "movie_id": "27630"
-  },
-  {
-    "review": "마크해밀이 망가져서 돌아왔군",
-    "date": "05.12.26",
-    "rating": "5",
-    "author": "kws7****",
-    "review_id": "531698",
-    "movie_id": "27630"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:99de3cfbbe0b96afe6e9ab053ea1a762891f61baad0fb7040bf5989a703ccddd
+size 366

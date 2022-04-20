@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9470795",
-    "movie_id": "88246",
-    "author": "j63s****",
-    "review": "나쁜넘이네... 키윈즈",
-    "rating": "10",
-    "date": "14.12.13"
-  },
-  {
-    "review_id": "9165885",
-    "movie_id": "88246",
-    "author": "kiwi****",
-    "review": "이렇게 하는 건가?  1빠!!!!",
-    "rating": "1",
-    "date": "14.09.04"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac95ca05b5b05cd1166c8ef40353ec079fe9294271537814a9f563a30628f057
+size 378

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "이순정의 격렬한 러브스토리~",
-    "date": "06.05.02",
-    "rating": "10",
-    "author": "lhcg****",
-    "review_id": "783687",
-    "movie_id": "56585"
-  },
-  {
-    "review": "재밌습니다 으컁컁",
-    "date": "05.12.29",
-    "rating": "9",
-    "author": "mrkm****",
-    "review_id": "537149",
-    "movie_id": "56585"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc8c5eebba65df7554d804c00162943a329bb5607dd3a88dd3a8c702caaf03f9
+size 378

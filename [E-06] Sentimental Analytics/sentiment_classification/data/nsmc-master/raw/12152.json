@@ -1,10 +1,3 @@
-[
-  {
-    "review": "아무도 평점을 달지 않은 영화라니 정말 이상하지만 감히 최고라고 해주고 싶다",
-    "date": "07.12.17",
-    "rating": "10",
-    "author": "baks****",
-    "review_id": "2239028",
-    "movie_id": "12152"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a1a24f0da797c6baa8fcba00f76fc93393bb6e64a93acc92893d72969d729d9
+size 266

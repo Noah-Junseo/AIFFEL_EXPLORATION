@@ -1,18 +1,3 @@
-[
-  {
-    "review": "현실감없는 놀라운 쒸레기",
-    "date": "10.08.26",
-    "rating": "1",
-    "author": "cmh4****",
-    "review_id": "4792703",
-    "movie_id": "22554"
-  },
-  {
-    "review": "시도는 좋은데, 좀 3류스럽다.  쓰나미급 .",
-    "date": "09.09.15",
-    "rating": "1",
-    "author": "evil****",
-    "review_id": "3833746",
-    "movie_id": "22554"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c4c764a9e7ab332478e1446a0e0f179a51a44fe30971a54d522533288e98721
+size 405

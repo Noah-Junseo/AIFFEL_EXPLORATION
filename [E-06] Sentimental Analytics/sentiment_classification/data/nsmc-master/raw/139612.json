@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "10238840",
-    "movie_id": "139612",
-    "author": "prel****",
-    "review": "この作品はクリエ-ティだし、期待よりもすごく面白かった。",
-    "rating": "10",
-    "date": "15.08.16"
-  },
-  {
-    "review_id": "10154157",
-    "movie_id": "139612",
-    "author": "hipa****",
-    "review": "ㅎㅎㅎAV여배우의 귀농생활이라니 ㅋㅋ",
-    "rating": "10",
-    "date": "15.07.28"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3b00292bb5a25bf61f57e16a73fdc367da6ba95785596525f67cf598f5426e3
+size 455

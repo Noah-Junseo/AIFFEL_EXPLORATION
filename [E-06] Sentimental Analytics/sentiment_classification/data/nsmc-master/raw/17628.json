@@ -1,18 +1,3 @@
-[
-  {
-    "review": "알콜  중독의 끔직한 모습을 디테일하게 담았는데 그게 다다.",
-    "date": "15.07.18",
-    "rating": "7",
-    "author": "ykdi****",
-    "review_id": "10117293",
-    "movie_id": "17628"
-  },
-  {
-    "review": "레이 맬랜드의 금단현상연기가 인상깊다",
-    "date": "15.04.05",
-    "rating": "10",
-    "author": "mara****",
-    "review_id": "9829848",
-    "movie_id": "17628"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d48b6a3709f6afa0d0c8adad482abfc3054f7e4ee38324e34c17dc22e1ed7ed
+size 452

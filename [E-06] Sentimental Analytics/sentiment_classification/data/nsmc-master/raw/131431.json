@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9485306",
-    "movie_id": "131431",
-    "author": "ske4****",
-    "review": "믿고보는 드라마스페셜!!!",
-    "rating": "10",
-    "date": "14.12.18"
-  },
-  {
-    "review_id": "9479024",
-    "movie_id": "131431",
-    "author": "life****",
-    "review": "평타는 쳤어 그래도. 나름 고퀄",
-    "rating": "9",
-    "date": "14.12.16"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:acbc7a5ff68689a42eaeb3729168686882807ce50da886a1a9734ebf491c7c28
+size 393

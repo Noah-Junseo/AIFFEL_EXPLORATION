@@ -1,34 +1,3 @@
-[
-  {
-    "review": "응삼이의 슬픈 사랑이야기.. 세상만사 자기 뜻대로 되면 좋으련만..",
-    "date": "10.10.26",
-    "rating": "5",
-    "author": "imf0****",
-    "review_id": "4921852",
-    "movie_id": "37745"
-  },
-  {
-    "review": "재미있당.",
-    "date": "09.07.05",
-    "rating": "10",
-    "author": "iamj****",
-    "review_id": "3611832",
-    "movie_id": "37745"
-  },
-  {
-    "review": "황량한 이란의 시골 마을, 아프가니스탄 청년의 사랑 이야기.",
-    "date": "08.05.12",
-    "rating": "5",
-    "author": "caca****",
-    "review_id": "2634121",
-    "movie_id": "37745"
-  },
-  {
-    "review": "그러한도메를보면마음이좋아져요(기분좋은미소를줍니다..도메)",
-    "date": "06.07.08",
-    "rating": "9",
-    "author": "boso****",
-    "review_id": "877551",
-    "movie_id": "37745"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:2af259227e0ec0814d1a976b0da9c533559ccb8b14e8c6d7c87b3c7000f4a13b
+size 895

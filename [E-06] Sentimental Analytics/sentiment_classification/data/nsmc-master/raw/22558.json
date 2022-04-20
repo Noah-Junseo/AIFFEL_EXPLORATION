@@ -1,18 +1,3 @@
-[
-  {
-    "review": "나도 만세",
-    "date": "10.03.02",
-    "rating": "10",
-    "author": "ohys****",
-    "review_id": "4330895",
-    "movie_id": "22558"
-  },
-  {
-    "review": "대한독립만세",
-    "date": "08.03.15",
-    "rating": "10",
-    "author": "ksy0****",
-    "review_id": "2521758",
-    "movie_id": "22558"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:b79edb8abf1048dac4eb4aa9878955956400f84d8ce1d15debead288eb772a01
+size 348

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "시대를 타지 않는 명작...셰익스피어 원작 그자체",
-    "date": "15.06.22",
-    "rating": "10",
-    "author": "ysk5****",
-    "review_id": "10022612",
-    "movie_id": "29808"
-  },
-  {
-    "review": "읭????!????!??!????!????!??!????!????!??",
-    "date": "15.05.04",
-    "rating": "2",
-    "author": "hkan****",
-    "review_id": "9893157",
-    "movie_id": "29808"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e0e2f6dbd8edfa129151017a0b28677af422b7fc555b9add18a85ca6b653efd
+size 423

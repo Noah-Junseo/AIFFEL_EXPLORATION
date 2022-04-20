@@ -1,34 +1,3 @@
-[
-  {
-    "review": "정말 소름끼치는  작품이다!!",
-    "date": "15.08.24",
-    "rating": "10",
-    "author": "ske4****",
-    "review_id": "10270535",
-    "movie_id": "74533"
-  },
-  {
-    "review": "잇힝?",
-    "date": "13.01.29",
-    "rating": "1",
-    "author": "rudn****",
-    "review_id": "7194570",
-    "movie_id": "74533"
-  },
-  {
-    "review": "이영화 재미있지",
-    "date": "11.12.09",
-    "rating": "10",
-    "author": "puls****",
-    "review_id": "5895892",
-    "movie_id": "74533"
-  },
-  {
-    "review": "이영화 재미있다",
-    "date": "10.03.23",
-    "rating": "10",
-    "author": "sj2a****",
-    "review_id": "4381940",
-    "movie_id": "74533"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:880fc6344900a10c31467845b7fbb8bd268fa68aedb59aff42e7ac800ef1ae57
+size 720

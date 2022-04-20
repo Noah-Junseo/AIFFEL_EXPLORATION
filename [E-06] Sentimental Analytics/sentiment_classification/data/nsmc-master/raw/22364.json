@@ -1,18 +1,3 @@
-[
-  {
-    "review": "홍은원 여성감독은 누군지도 모르겠지만 영화를 볼수 있는 같음",
-    "date": "14.09.16",
-    "rating": "10",
-    "author": "rkdg****",
-    "review_id": "9218660",
-    "movie_id": "22364"
-  },
-  {
-    "review": "아 몰라 옛날 꺼니까",
-    "date": "13.05.15",
-    "rating": "1",
-    "author": "ik04****",
-    "review_id": "7528654",
-    "movie_id": "22364"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cb8814d588a23cfca2c4cf0bca86dbb86ebb9e700fe2a7b61e64acb3fb44d6e
+size 428

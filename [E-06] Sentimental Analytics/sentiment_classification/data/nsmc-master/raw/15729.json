@@ -1,18 +1,3 @@
-[
-  {
-    "review": "올리비아 핫세가 왜나옴? 이 영화 뭐지??",
-    "date": "14.10.23",
-    "rating": "10",
-    "author": "shep****",
-    "review_id": "9309713",
-    "movie_id": "15729"
-  },
-  {
-    "review": "나름대로 임영동 특유의 리얼한 액션은 괜찮다.",
-    "date": "03.12.03",
-    "rating": "7",
-    "author": "tdol****",
-    "review_id": "892",
-    "movie_id": "15729"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:35d294da2dce4216348dd5c67c1704867f38d027becb289fd0b99b5815c8c11c
+size 428

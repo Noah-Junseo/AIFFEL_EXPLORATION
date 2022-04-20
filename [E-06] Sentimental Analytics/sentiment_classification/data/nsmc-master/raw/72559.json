@@ -1,18 +1,3 @@
-[
-  {
-    "review": "보다가 잤습니다. 정말 재미없네요.",
-    "date": "13.10.04",
-    "rating": "1",
-    "author": "thd6****",
-    "review_id": "8035488",
-    "movie_id": "72559"
-  },
-  {
-    "review": "이딴게 왜?",
-    "date": "12.06.04",
-    "rating": "10",
-    "author": "with****",
-    "review_id": "7014863",
-    "movie_id": "72559"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:231c8853e2ca51cb3e141b76b940106853aab0111adc04f07c5293f59ed5200a
+size 377

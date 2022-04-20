@@ -1,18 +1,3 @@
-[
-  {
-    "review": "오리지날리티는 눈을 씻고 찾아볼래도 찾아볼수 없는 상품.주제가만 나름 훌륭하다.",
-    "date": "09.12.02",
-    "rating": "2",
-    "author": "baks****",
-    "review_id": "4008411",
-    "movie_id": "33776"
-  },
-  {
-    "review": "상당히 볼만한 애니메이션. 스토리도 새롭다.",
-    "date": "05.05.17",
-    "rating": "8",
-    "author": "jcr3****",
-    "review_id": "279598",
-    "movie_id": "33776"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a20ffed9d51e5c527dd2c37d0bef1d16796975058e29334b515cbc7279d5e58
+size 486

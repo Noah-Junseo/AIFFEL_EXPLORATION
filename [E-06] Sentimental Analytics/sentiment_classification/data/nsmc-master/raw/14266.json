@@ -1,18 +1,3 @@
-[
-  {
-    "review": "1위 영화를 끌어 내리는 점수",
-    "date": "14.12.02",
-    "rating": "7",
-    "author": "dann****",
-    "review_id": "9440622",
-    "movie_id": "14266"
-  },
-  {
-    "review": "그냥 10점 드려요 투척",
-    "date": "14.12.02",
-    "rating": "10",
-    "author": "534k****",
-    "review_id": "9439866",
-    "movie_id": "14266"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7f0f3c6666ef1135c56e865617df6a83453f437c023c33e6685824880c741d4
+size 383

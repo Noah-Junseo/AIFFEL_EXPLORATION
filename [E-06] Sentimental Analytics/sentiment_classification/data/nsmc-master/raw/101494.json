@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9588484",
-    "movie_id": "101494",
-    "author": "jyj2****",
-    "review": "진짜 좋죠ㅎㅎㅎ.. 미묘한 감정선을 정말 잘살린ㅠㅠㅠ",
-    "rating": "10",
-    "date": "15.01.12"
-  },
-  {
-    "review_id": "7666223",
-    "movie_id": "101494",
-    "author": "iiii****",
-    "review": "1빠다",
-    "rating": "10",
-    "date": "13.06.22"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f2bbba1185cb024c5613a4a9de59522136ff2d4b2783124b271fbd80e152c20
+size 399

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "매혹이 나니라.. 가혹 일쎄 ...",
-    "date": "10.03.26",
-    "rating": "1",
-    "author": "evil****",
-    "review_id": "4389828",
-    "movie_id": "20750"
-  },
-  {
-    "review": "아.유의 회장역할을 맡은분이 주연",
-    "date": "09.02.27",
-    "rating": "2",
-    "author": "wood****",
-    "review_id": "3336274",
-    "movie_id": "20750"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2ed462a232c40d0ff9f92e2d91c51edb954d0d892c2d698a0feb88da8680e9e
+size 400

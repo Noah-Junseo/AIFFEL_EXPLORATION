@@ -1,18 +1,3 @@
-[
-  {
-    "review": "김기영의 이전작보다 못한 건 없지만 더 나아간 것도 없다",
-    "date": "09.07.22",
-    "rating": "7",
-    "author": "tmdg****",
-    "review_id": "3656131",
-    "movie_id": "22794"
-  },
-  {
-    "review": "신성일 영화 뭐... 그렇지.",
-    "date": "07.02.04",
-    "rating": "3",
-    "author": "cmh4****",
-    "review_id": "1443935",
-    "movie_id": "22794"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:de1ad2de850f50f20cc84cb334be122f128bb0edb33ca23c74eb4846f67fa6bb
+size 426

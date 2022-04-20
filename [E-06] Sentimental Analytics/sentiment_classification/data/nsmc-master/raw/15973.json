@@ -1,18 +1,3 @@
-[
-  {
-    "review": "대박이네;;;",
-    "date": "09.06.30",
-    "rating": "1",
-    "author": "2873****",
-    "review_id": "3602432",
-    "movie_id": "15973"
-  },
-  {
-    "review": "보면 알게 되리다",
-    "date": "05.12.30",
-    "rating": "10",
-    "author": "sogu****",
-    "review_id": "540841",
-    "movie_id": "15973"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:262d7c2300a0aafe09c1eca3f3e858cbbcf5c1d67435d07cd743a5d86de9515c
+size 353

@@ -1,26 +1,3 @@
-[
-  {
-    "review": "찌질한 오빠가 못 마땅한 주희의 시니컬한 여동생 연기는 정말 최고!!",
-    "date": "13.04.08",
-    "rating": "9",
-    "author": "raun****",
-    "review_id": "7443420",
-    "movie_id": "16330"
-  },
-  {
-    "review": "잊을 수 없는 영화  또 한번 보고싶다.",
-    "date": "06.10.02",
-    "rating": "9",
-    "author": "ssuj****",
-    "review_id": "1155580",
-    "movie_id": "16330"
-  },
-  {
-    "review": "영화 내내 난 웃었다.",
-    "date": "04.06.25",
-    "rating": "10",
-    "author": "dhmk****",
-    "review_id": "60000",
-    "movie_id": "16330"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:a85dc88928b928f6c59c6792bd55f6e46ea8012a918210ca662b1db7775ac3a1
+size 640

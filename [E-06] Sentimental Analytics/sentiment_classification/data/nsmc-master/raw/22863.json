@@ -1,18 +1,3 @@
-[
-  {
-    "review": "아들역할했던 김천만이 ㅋㅋ 커서 똑같이 아비역할하네",
-    "date": "11.03.15",
-    "rating": "10",
-    "author": "tjdd****",
-    "review_id": "5314423",
-    "movie_id": "22863"
-  },
-  {
-    "review": "그 당시 멜로물이 유행했었는데  저 영화를 보고 눈물을 흘리지 않은 사람이 없었다",
-    "date": "09.09.20",
-    "rating": "10",
-    "author": "rock****",
-    "review_id": "3840483",
-    "movie_id": "22863"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d714af57038d975feccffc31962f869eaf10a0f4f52ff59a7fdc3024f1e156c
+size 502

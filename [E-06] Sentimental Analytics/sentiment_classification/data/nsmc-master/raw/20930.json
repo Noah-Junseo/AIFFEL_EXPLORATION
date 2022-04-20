@@ -1,26 +1,3 @@
-[
-  {
-    "review": "르엉",
-    "date": "10.11.30",
-    "rating": "10",
-    "author": "canc****",
-    "review_id": "5009158",
-    "movie_id": "20930"
-  },
-  {
-    "review": "재밌어요~",
-    "date": "10.03.07",
-    "rating": "10",
-    "author": "sk__****",
-    "review_id": "4340966",
-    "movie_id": "20930"
-  },
-  {
-    "review": "ㅋ영화임?",
-    "date": "09.12.09",
-    "rating": "1",
-    "author": "lt00****",
-    "review_id": "4030373",
-    "movie_id": "20930"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:214482028eaa880706e9bd3f571eefdc1a46cfb2df6b3a9c0da099e51e8391f2
+size 505

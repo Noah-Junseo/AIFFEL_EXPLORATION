@@ -1,26 +1,3 @@
-[
-  {
-    "review": "좋습니다.",
-    "date": "11.11.04",
-    "rating": "10",
-    "author": "nimb****",
-    "review_id": "5828155",
-    "movie_id": "19211"
-  },
-  {
-    "review": "재미 있습니다.",
-    "date": "09.07.11",
-    "rating": "10",
-    "author": "dong****",
-    "review_id": "3623650",
-    "movie_id": "19211"
-  },
-  {
-    "review": "마음에 듭니다.",
-    "date": "09.07.11",
-    "rating": "10",
-    "author": "0527****",
-    "review_id": "3623638",
-    "movie_id": "19211"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:2815aaabdb26b7753469187353528281ec114c6d51419db311f8dd01871137cf
+size 527

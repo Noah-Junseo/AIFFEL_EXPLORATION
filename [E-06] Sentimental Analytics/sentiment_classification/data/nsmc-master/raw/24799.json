@@ -1,18 +1,3 @@
-[
-  {
-    "review": "평점 테스트 중..끝!",
-    "date": "14.08.08",
-    "rating": "1",
-    "author": "miri****",
-    "review_id": "9049628",
-    "movie_id": "24799"
-  },
-  {
-    "review": "11",
-    "date": "04.07.17",
-    "rating": "10",
-    "author": "ibel****",
-    "review_id": "72375",
-    "movie_id": "24799"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6d7366bbcfe3c4caa3a30ced470ec1ad7ed2b1885f3d98422fc072ced454cf3
+size 342

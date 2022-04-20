@@ -1,18 +1,3 @@
-[
-  {
-    "review": "미백의 캔버스에 피와 안료의 조합으로 아로새기는 에로티시즘. 화법은 점묘법...",
-    "date": "09.06.14",
-    "rating": "8",
-    "author": "heod****",
-    "review_id": "3564286",
-    "movie_id": "65428"
-  },
-  {
-    "review": "'에로틱' 이란 단어를 빼고 그냥 '스릴러' 라고 했으면 좋았을 것을..",
-    "date": "08.05.23",
-    "rating": "4",
-    "author": "evil****",
-    "review_id": "2656911",
-    "movie_id": "65428"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:680f5e96b1654d3651518b0541280b475bad52ef9fc353dd454deef0a7cd916b
+size 513

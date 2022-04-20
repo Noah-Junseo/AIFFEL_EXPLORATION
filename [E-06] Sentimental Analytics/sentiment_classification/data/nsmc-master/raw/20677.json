@@ -1,26 +1,3 @@
-[
-  {
-    "review": "내가 너 좋아하면  안되냐",
-    "date": "14.07.05",
-    "rating": "1",
-    "author": "02pa****",
-    "review_id": "8886064",
-    "movie_id": "20677"
-  },
-  {
-    "review": "짱",
-    "date": "12.01.30",
-    "rating": "10",
-    "author": "s315****",
-    "review_id": "6036573",
-    "movie_id": "20677"
-  },
-  {
-    "review": "아.. 진짜 박노식이 아깝다.. 어디서 이런 OOO기 영화를 만들어..",
-    "date": "12.01.24",
-    "rating": "1",
-    "author": "fb5y****",
-    "review_id": "6017301",
-    "movie_id": "20677"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:f94bb65da9faf3518a55c900ddccd93b0ad625f5258edd209904ff4184132ddc
+size 592

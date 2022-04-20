@@ -1,18 +1,3 @@
-[
-  {
-    "review": "몰라요시청률너무언온다",
-    "date": "14.02.23",
-    "rating": "10",
-    "author": "vg12****",
-    "review_id": "8530630",
-    "movie_id": "19681"
-  },
-  {
-    "review": "재밋네요. 장동건 짱!!",
-    "date": "11.11.30",
-    "rating": "10",
-    "author": "sky0****",
-    "review_id": "5879690",
-    "movie_id": "19681"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cf5b293df4d14f7cd89872e1d752c763408824fa9181b52b41facf45644184e
+size 379

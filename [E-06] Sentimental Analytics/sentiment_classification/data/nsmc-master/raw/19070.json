@@ -1,18 +1,3 @@
-[
-  {
-    "review": "이런영화보기 힘들지..",
-    "date": "12.12.11",
-    "rating": "9",
-    "author": "goot****",
-    "review_id": "6994238",
-    "movie_id": "19070"
-  },
-  {
-    "review": "너무너무 좋아했던 영화..",
-    "date": "07.07.06",
-    "rating": "10",
-    "author": "wate****",
-    "review_id": "1750074",
-    "movie_id": "19070"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e9846bb677fd96c9c0237a7c72765b59956d3c4b5fdd82a3ff3c5dcad6da6c6
+size 380

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "별로다,,,진심 재미없네요.",
-    "date": "14.07.25",
-    "rating": "1",
-    "author": "tmdd****",
-    "review_id": "8957420",
-    "movie_id": "22598"
-  },
-  {
-    "review": "그저그렇지만 괜찮은 영화",
-    "date": "10.11.30",
-    "rating": "10",
-    "author": "sant****",
-    "review_id": "5010910",
-    "movie_id": "22598"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cb0f7c6a0d13da48ec0731c18929f6a08e20f4b799f9b0bdbfa8202444f36d7
+size 386

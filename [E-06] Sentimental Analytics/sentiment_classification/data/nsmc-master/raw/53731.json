@@ -1,34 +1,3 @@
-[
-  {
-    "review": "차라리 이시간에 미드를 보여주는게  시청률 더 잘나올듯",
-    "date": "15.02.28",
-    "rating": "1",
-    "author": "ske4****",
-    "review_id": "9746121",
-    "movie_id": "53731"
-  },
-  {
-    "review": "뮤뱅보다 전반적으로 낫다",
-    "date": "14.09.07",
-    "rating": "7",
-    "author": "ari1****",
-    "review_id": "9177536",
-    "movie_id": "53731"
-  },
-  {
-    "review": "정말최고최고!!! 음악과 이야기가 있는!",
-    "date": "14.04.09",
-    "rating": "10",
-    "author": "youy****",
-    "review_id": "8637346",
-    "movie_id": "53731"
-  },
-  {
-    "review": "그냥좋다.말이 필요없다.",
-    "date": "13.11.18",
-    "rating": "10",
-    "author": "thdw****",
-    "review_id": "8151475",
-    "movie_id": "53731"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c792a5b9ee9eab8010a3db7a6398f3737d2d11d40809c63880b0d809fa63fca
+size 825

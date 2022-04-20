@@ -1,34 +1,3 @@
-[
-  {
-    "review": "명작이지 그야말로 명작",
-    "date": "15.05.31",
-    "rating": "10",
-    "author": "edga****",
-    "review_id": "9965330",
-    "movie_id": "11724"
-  },
-  {
-    "review": "해저 십만리... 캬하!~",
-    "date": "15.05.10",
-    "rating": "1",
-    "author": "jomi****",
-    "review_id": "9909307",
-    "movie_id": "11724"
-  },
-  {
-    "review": "해저 2만리.. 캬하!",
-    "date": "15.04.05",
-    "rating": "10",
-    "author": "limj****",
-    "review_id": "9829651",
-    "movie_id": "11724"
-  },
-  {
-    "review": "말이 필요있나? ㅐㅐㅐㅐ",
-    "date": "15.03.28",
-    "rating": "10",
-    "author": "hoon****",
-    "review_id": "9812258",
-    "movie_id": "11724"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:27d4c9bdd53cb8e9625ec41d21e23f2c1cceedde4a99ff406f6cf5f9c01da50c
+size 747

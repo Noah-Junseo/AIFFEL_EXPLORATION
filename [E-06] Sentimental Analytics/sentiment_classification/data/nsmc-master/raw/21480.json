@@ -1,18 +1,3 @@
-[
-  {
-    "review": "good",
-    "date": "07.10.18",
-    "rating": "7",
-    "author": "cles****",
-    "review_id": "2096965",
-    "movie_id": "21480"
-  },
-  {
-    "review": "재밋었다",
-    "date": "06.12.01",
-    "rating": "8",
-    "author": "ysuh****",
-    "review_id": "1260925",
-    "movie_id": "21480"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f1a44002e34f8c104c75a44f8c2d3013bb0354e67a3ed2d09697e0feeffe386
+size 331

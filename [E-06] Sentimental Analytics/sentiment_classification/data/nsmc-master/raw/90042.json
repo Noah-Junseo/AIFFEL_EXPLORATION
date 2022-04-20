@@ -1,10 +1,3 @@
-[
-  {
-    "review_id": "6649774",
-    "movie_id": "90042",
-    "author": "jjim****",
-    "review": "평은 최대 한글 140자까지 가능합니다.",
-    "rating": "10",
-    "date": "12.08.28"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d97a634397ac91f8278cac7a501abb68edfe72624039c0ed68b0d09d444d514
+size 210

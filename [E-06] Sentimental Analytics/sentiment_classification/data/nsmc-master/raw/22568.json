@@ -1,18 +1,3 @@
-[
-  {
-    "review": "평점10으로남기를ㅋㅋ",
-    "date": "14.08.18",
-    "rating": "10",
-    "author": "aktn****",
-    "review_id": "9108401",
-    "movie_id": "22568"
-  },
-  {
-    "review": "와 이거 엄청 재미잇던데 ㅋ",
-    "date": "09.01.17",
-    "rating": "10",
-    "author": "fss3****",
-    "review_id": "3227401",
-    "movie_id": "22568"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:567f020caa349c7d1ff4a1097ef976ee07e6afa27efa6660340b3399e65bdf75
+size 383

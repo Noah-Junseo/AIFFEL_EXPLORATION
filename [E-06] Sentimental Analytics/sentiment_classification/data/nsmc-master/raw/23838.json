@@ -1,18 +1,3 @@
-[
-  {
-    "review": "곶?니이지만 좋다",
-    "date": "13.03.28",
-    "rating": "10",
-    "author": "syda****",
-    "review_id": "7416043",
-    "movie_id": "23838"
-  },
-  {
-    "review": "꾀 재밌네요",
-    "date": "09.01.17",
-    "rating": "10",
-    "author": "kor9****",
-    "review_id": "3227904",
-    "movie_id": "23838"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b87e85c71c68416f0c957895a3e51eee526f4859387a347ce55192d15ce6f76
+size 356

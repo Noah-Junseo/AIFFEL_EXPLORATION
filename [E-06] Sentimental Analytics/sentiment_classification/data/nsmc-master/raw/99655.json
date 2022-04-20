@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "6802557",
-    "movie_id": "99655",
-    "author": "sjoo****",
-    "review": "너무좋아요...",
-    "rating": "10",
-    "date": "12.10.15"
-  },
-  {
-    "review_id": "6802392",
-    "movie_id": "99655",
-    "author": "pjs1****",
-    "review": "감동입니다",
-    "rating": "10",
-    "date": "12.10.15"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9cfcc0691335b6744a2d4955ad5c91444ac18b7d1e6ec3c0791c9479db28d8e
+size 350

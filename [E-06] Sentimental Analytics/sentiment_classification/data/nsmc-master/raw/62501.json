@@ -1,18 +1,3 @@
-[
-  {
-    "review": "멋지다!",
-    "date": "07.03.17",
-    "rating": "10",
-    "author": "duds****",
-    "review_id": "1538093",
-    "movie_id": "62501"
-  },
-  {
-    "review": "한국판CSI가 나오길",
-    "date": "06.08.03",
-    "rating": "10",
-    "author": "zeed****",
-    "review_id": "960271",
-    "movie_id": "62501"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ccf8d022a221b1ef5d475cb6a6df65058c3bf15e20adea8b01e827a25331beb
+size 351

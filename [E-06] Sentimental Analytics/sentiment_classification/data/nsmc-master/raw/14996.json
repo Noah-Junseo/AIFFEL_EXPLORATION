@@ -1,18 +1,3 @@
-[
-  {
-    "review": "무엇인가 던져주고자 했던...",
-    "date": "11.01.04",
-    "rating": "8",
-    "author": "iamj****",
-    "review_id": "5128988",
-    "movie_id": "14996"
-  },
-  {
-    "review": "이상형을 납치하여 길들이는 행태가 한때 유행했단다.",
-    "date": "06.04.19",
-    "rating": "5",
-    "author": "stag****",
-    "review_id": "768164",
-    "movie_id": "14996"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:6da2eb8a01c3a80f91fe1d0989ed7af85c04661b1869a8cd5712e05bf7fa6847
+size 424

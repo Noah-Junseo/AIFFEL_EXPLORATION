@@ -1,26 +1,3 @@
-[
-  {
-    "review": "그럭저럭",
-    "date": "12.07.19",
-    "rating": "5",
-    "author": "fodo****",
-    "review_id": "6496437",
-    "movie_id": "21700"
-  },
-  {
-    "review": "그럭저럭",
-    "date": "10.11.12",
-    "rating": "1",
-    "author": "ods1****",
-    "review_id": "4953295",
-    "movie_id": "21700"
-  },
-  {
-    "review": "그럭저럭",
-    "date": "09.04.10",
-    "rating": "9",
-    "author": "chlc****",
-    "review_id": "3414297",
-    "movie_id": "21700"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2485c6ec1983ba360428fc854c7f75bfce77b48f37e2958fdbf7397d6b2097e
+size 507

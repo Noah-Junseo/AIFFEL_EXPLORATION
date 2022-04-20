@@ -1,18 +1,3 @@
-[
-  {
-    "review": "김사겸 감독의 옛적 각본이라니!",
-    "date": "12.09.29",
-    "rating": "10",
-    "author": "cspb****",
-    "review_id": "6742201",
-    "movie_id": "38014"
-  },
-  {
-    "review": "저목소리를 듣는순간 우린 수면해버린다!",
-    "date": "08.06.15",
-    "rating": "1",
-    "author": "dbsr****",
-    "review_id": "2701314",
-    "movie_id": "38014"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b0c7eea5e38a7cde07a681b25905dbd92fd931b843268c44b2313a1eb58f1db
+size 414

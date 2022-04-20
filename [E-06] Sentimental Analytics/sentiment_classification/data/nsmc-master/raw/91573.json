@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "10105083",
-    "movie_id": "91573",
-    "author": "tkto****",
-    "review": "쉣뜨쉣뜨쉐엣뜨쒯쉣쉣x10",
-    "rating": "1",
-    "date": "15.07.14"
-  },
-  {
-    "review_id": "8333121",
-    "movie_id": "91573",
-    "author": "rokm****",
-    "review": "쉣뜨쉣뜨쉐엣뜨쒯쉣쉣x10",
-    "rating": "1",
-    "date": "14.01.01"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ec3102b6ae5b8ed263efeca163815315120f5b341eddc664810e2f3af469342
+size 382

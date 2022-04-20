@@ -1,18 +1,3 @@
-[
-  {
-    "review": "!! 에프학점의 천재들.",
-    "date": "14.07.27",
-    "rating": "10",
-    "author": "dlft****",
-    "review_id": "8968242",
-    "movie_id": "23837"
-  },
-  {
-    "review": "아무리 개봉년도를 감안하더래도 손발오그라드는 연기에 몸둘바를 모르겟다",
-    "date": "12.03.16",
-    "rating": "2",
-    "author": "kimb****",
-    "review_id": "6147997",
-    "movie_id": "23837"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e9a617dd28dac85c7a4eed402415d0bd73b5b1ffc670cdd7f708b36dbcb30c0
+size 447

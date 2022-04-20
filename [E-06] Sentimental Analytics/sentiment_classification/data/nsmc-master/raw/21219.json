@@ -1,18 +1,3 @@
-[
-  {
-    "review": "감추어진 수작 더이상 말이 필요없다",
-    "date": "12.05.09",
-    "rating": "10",
-    "author": "yoon****",
-    "review_id": "6284004",
-    "movie_id": "21219"
-  },
-  {
-    "review": "77년 제작 영화,  필자가 본건 91년.. 그 세월의 갭을 극복하지 못했다",
-    "date": "09.08.13",
-    "rating": "5",
-    "author": "gall****",
-    "review_id": "3745208",
-    "movie_id": "21219"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a0fa5b37f9b7f282b5daf51627433c15ed925150b21123237e93c88229dafcd
+size 455

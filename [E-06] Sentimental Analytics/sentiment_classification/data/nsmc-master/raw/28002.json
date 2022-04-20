@@ -1,18 +1,3 @@
-[
-  {
-    "review": "신난다",
-    "date": "12.12.29",
-    "rating": "10",
-    "author": "tjrl****",
-    "review_id": "7061049",
-    "movie_id": "28002"
-  },
-  {
-    "review": "완성도 떨어지는 성인 대상의 홈비디오용 스릴러. 물론 흥미도 떨어진다.",
-    "date": "10.11.14",
-    "rating": "4",
-    "author": "gall****",
-    "review_id": "4961879",
-    "movie_id": "28002"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:72b62554c0efa711021e62becb94db3ec4b5c84d03ecede48032b1012c7f755e
+size 422

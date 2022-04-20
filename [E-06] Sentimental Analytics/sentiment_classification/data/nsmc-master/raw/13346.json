@@ -1,18 +1,3 @@
-[
-  {
-    "review": "스님과 수녀의 낮고 조용한 사랑",
-    "date": "06.02.18",
-    "rating": "7",
-    "author": "goma****",
-    "review_id": "679228",
-    "movie_id": "13346"
-  },
-  {
-    "review": "오래전에 봤는데도 아직까지 잊혀지지 않는....",
-    "date": "04.07.24",
-    "rating": "8",
-    "author": "klux****",
-    "review_id": "76290",
-    "movie_id": "13346"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:e25f2f894406aae38c5615c2ba8aa44578e65096f7a486a8205995df47fdff7f
+size 417

@@ -1,26 +1,3 @@
-[
-  {
-    "review": "볼려니까 종영해 버리대,",
-    "date": "08.02.01",
-    "rating": "6",
-    "author": "ekdn****",
-    "review_id": "2395723",
-    "movie_id": "42821"
-  },
-  {
-    "review": "괜찮았던 드라마",
-    "date": "07.03.02",
-    "rating": "10",
-    "author": "zeed****",
-    "review_id": "1513026",
-    "movie_id": "42821"
-  },
-  {
-    "review": "우리집 라면이 맛있었는데 말야",
-    "date": "06.02.24",
-    "rating": "3",
-    "author": "kws7****",
-    "review_id": "688193",
-    "movie_id": "42821"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:01c3622558aedc48b78fe788c63779a4488f905ae805eb06ced5b48b24837652
+size 568

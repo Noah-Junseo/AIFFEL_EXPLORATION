@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "6137522",
-    "movie_id": "90447",
-    "author": "b_pu****",
-    "review": "Wasted middle-aged girl becomes a caring mother figure. one of the best 갱생담!",
-    "rating": "10",
-    "date": "12.03.11"
-  },
-  {
-    "review_id": "5959665",
-    "movie_id": "90447",
-    "author": "dktm****",
-    "review": "재미없는 미드는 자막 안 만드는 줄 알았는데..",
-    "rating": "1",
-    "date": "12.01.04"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:4832b8372a4ceabe416c56ebd53c2572b734212d17b4024e46b6951c2212ec49
+size 460

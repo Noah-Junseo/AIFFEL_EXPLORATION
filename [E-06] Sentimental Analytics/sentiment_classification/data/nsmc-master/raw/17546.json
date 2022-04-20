@@ -1,18 +1,3 @@
-[
-  {
-    "review": "흥미롭다.",
-    "date": "12.05.11",
-    "rating": "10",
-    "author": "qnrd****",
-    "review_id": "6290017",
-    "movie_id": "17546"
-  },
-  {
-    "review": "그냥",
-    "date": "08.08.30",
-    "rating": "8",
-    "author": "mick****",
-    "review_id": "2911319",
-    "movie_id": "17546"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:16fbcac0cb0b2a213cdef96331fddd1cc4390f2db36a336890954a94d5b59120
+size 335

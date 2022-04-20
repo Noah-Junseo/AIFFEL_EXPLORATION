@@ -1,26 +1,3 @@
-[
-  {
-    "review_id": "10218859",
-    "movie_id": "135613",
-    "author": "daep****",
-    "review": "그저 그러네요. 긴장감 제로",
-    "rating": "4",
-    "date": "15.08.12"
-  },
-  {
-    "review_id": "9834233",
-    "movie_id": "135613",
-    "author": "flyi****",
-    "review": "뒤로 갈수록 재밌는걸요!~ 전 정말 재밌게 봤어요 시즌 3 기대되요 ㅎㅎ",
-    "rating": "8",
-    "date": "15.04.08"
-  },
-  {
-    "review_id": "9830251",
-    "movie_id": "135613",
-    "author": "easi****",
-    "review": "별로 뒤가 궁금하지 않은 미드, 특히 너무 나대는 여주인공 꼴뵈기 싫다.",
-    "rating": "4",
-    "date": "15.04.05"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c906893eaa16cad82bafaa2dfdfebc7b6b65f114992be30cd14f70db6e6f286
+size 702

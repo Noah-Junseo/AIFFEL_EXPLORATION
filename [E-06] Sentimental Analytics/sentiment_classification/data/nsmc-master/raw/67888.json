@@ -1,18 +1,3 @@
-[
-  {
-    "review": "최진영 그는 진정한 훈남이었다.",
-    "date": "12.07.10",
-    "rating": "10",
-    "author": "odjs****",
-    "review_id": "6468074",
-    "movie_id": "67888"
-  },
-  {
-    "review": "전진 아버지 찰리박이 은근히 코믹 연기를 잘한다",
-    "date": "10.03.03",
-    "rating": "5",
-    "author": "mygr****",
-    "review_id": "4331244",
-    "movie_id": "67888"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:251d0cac078e78c8decb8389190198496aa3ad0a00e7fc09445b56a0e67c89e6
+size 425

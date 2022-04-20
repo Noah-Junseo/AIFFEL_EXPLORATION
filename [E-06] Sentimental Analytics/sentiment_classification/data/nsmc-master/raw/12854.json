@@ -1,18 +1,3 @@
-[
-  {
-    "review": "다시보고싶은 영화",
-    "date": "11.11.12",
-    "rating": "9",
-    "author": "hoon****",
-    "review_id": "5845069",
-    "movie_id": "12854"
-  },
-  {
-    "review": "고등학교대 돌아온이탈자 재미있게봤는대 다시한번 꼭 보고싶습니다",
-    "date": "07.12.14",
-    "rating": "10",
-    "author": "dnwj****",
-    "review_id": "2230433",
-    "movie_id": "12854"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fb4d39de8e032424c96e15d7cee4bff01620b82476d8e018c443a8126de5d6f
+size 433

@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "8750954",
-    "movie_id": "118415",
-    "author": "waca****",
-    "review": "육중완씨 넘 좋아용 늘 그렇게 웃어주세용",
-    "rating": "10",
-    "date": "14.05.21"
-  },
-  {
-    "review_id": "8327429",
-    "movie_id": "118415",
-    "author": "cjg0****",
-    "review": "항상응원합니다 지석진씨",
-    "rating": "10",
-    "date": "13.12.31"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:47c0ea0f6742fad7ddd19378b4cdf93d10cde17a73e4c2ad3432587607708dde
+size 409

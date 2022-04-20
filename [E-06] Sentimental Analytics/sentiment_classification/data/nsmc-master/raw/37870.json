@@ -1,18 +1,3 @@
-[
-  {
-    "review": "잘된 영화",
-    "date": "11.11.28",
-    "rating": "9",
-    "author": "chha****",
-    "review_id": "5875776",
-    "movie_id": "37870"
-  },
-  {
-    "review": "내가 믿는건...(눈물흘리며)",
-    "date": "03.12.17",
-    "rating": "10",
-    "author": "cacg****",
-    "review_id": "3556",
-    "movie_id": "37870"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:eef772d2ce3ad881ae2c1302627a8d355631dc1490352b9da5091ad31d4b1284
+size 362

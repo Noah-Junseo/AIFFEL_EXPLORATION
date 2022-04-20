@@ -1,34 +1,3 @@
-[
-  {
-    "review": "그냥ㅋㅋㅋㅋㅋㅋㅋ",
-    "date": "10.01.19",
-    "rating": "1",
-    "author": "batt****",
-    "review_id": "4188152",
-    "movie_id": "21023"
-  },
-  {
-    "review": "ㅋㅋ ㅇㅇㅇ맞음 ㅋ",
-    "date": "10.01.19",
-    "rating": "10",
-    "author": "dhkd****",
-    "review_id": "4186492",
-    "movie_id": "21023"
-  },
-  {
-    "review": "단지 별점10을처음봣다고나할까",
-    "date": "09.08.07",
-    "rating": "10",
-    "author": "dowe****",
-    "review_id": "3719035",
-    "movie_id": "21023"
-  },
-  {
-    "review": "최고에요 최고",
-    "date": "08.04.23",
-    "rating": "10",
-    "author": "binb****",
-    "review_id": "2594577",
-    "movie_id": "21023"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3f16ccff20d9ebbfb564b395905b82e298e7bdadccef2c58a8787b42c3d42a9
+size 744

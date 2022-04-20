@@ -1,18 +1,3 @@
-[
-  {
-    "review": "시대를 앞서간 명작",
-    "date": "11.10.08",
-    "rating": "10",
-    "author": "qngh****",
-    "review_id": "5777748",
-    "movie_id": "68497"
-  },
-  {
-    "review": "패리스 힐튼의 치와와가 발가락으로 그려와도 이거보다는 잘 그리겠다.",
-    "date": "09.07.22",
-    "rating": "1",
-    "author": "baks****",
-    "review_id": "3655352",
-    "movie_id": "68497"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7f1bdd832a6d933ede0c1c9d6b463c7a12ced1a7778df1bd51c4f05d595786b
+size 437

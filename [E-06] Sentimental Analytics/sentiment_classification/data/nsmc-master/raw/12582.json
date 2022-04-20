@@ -1,34 +1,3 @@
-[
-  {
-    "review": "좋아요너무잘보았어요감사합니다",
-    "date": "14.04.22",
-    "rating": "9",
-    "author": "kbjj****",
-    "review_id": "8664875",
-    "movie_id": "12582"
-  },
-  {
-    "review": "옛날에 아주 재밌게 봤어요",
-    "date": "10.06.19",
-    "rating": "10",
-    "author": "chee****",
-    "review_id": "4575156",
-    "movie_id": "12582"
-  },
-  {
-    "review": "비디오 영화...그나마 볼만한 스토리와 내용...에로틱함..",
-    "date": "07.08.13",
-    "rating": "8",
-    "author": "sola****",
-    "review_id": "1931944",
-    "movie_id": "12582"
-  },
-  {
-    "review": "홍여진의 섹시미는 그나마 볼만...",
-    "date": "06.05.11",
-    "rating": "6",
-    "author": "0323****",
-    "review_id": "796050",
-    "movie_id": "12582"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5fe0d1604457349060479df01daa43eed8d6992c0959f32f843bccf740db119
+size 828

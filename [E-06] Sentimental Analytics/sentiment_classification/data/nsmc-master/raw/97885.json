@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9796001",
-    "movie_id": "97885",
-    "author": "inuy****",
-    "review": "킬링타임용 볼만합니다.",
-    "rating": "10",
-    "date": "15.03.21"
-  },
-  {
-    "review_id": "9681065",
-    "movie_id": "97885",
-    "author": "hana****",
-    "review": "1기 완결 했어야 ... 2기까지는 상당히 지루함",
-    "rating": "3",
-    "date": "15.02.08"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:575050dfa6179d960c663c9369b9ba7f027bddf647bb28aaa7b07cea6abab330
+size 407

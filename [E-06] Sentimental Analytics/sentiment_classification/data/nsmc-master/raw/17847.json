@@ -1,18 +1,3 @@
-[
-  {
-    "review": "너무 영상들이 역겨움;;",
-    "date": "13.05.22",
-    "rating": "1",
-    "author": "tjdn****",
-    "review_id": "7547412",
-    "movie_id": "17847"
-  },
-  {
-    "review": "이것도 잼슴 ㅎㅎ",
-    "date": "04.10.05",
-    "rating": "10",
-    "author": "musi****",
-    "review_id": "120877",
-    "movie_id": "17847"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:734b98b4602294d78625da6c7e442e9a6f130c8771734c0792c5e44674a94d8d
+size 369

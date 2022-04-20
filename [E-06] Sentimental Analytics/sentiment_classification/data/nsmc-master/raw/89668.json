@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "6377575",
-    "movie_id": "89668",
-    "author": "paul****",
-    "review": "이건 오페라다. 그냥 영화가 아니다..",
-    "rating": "10",
-    "date": "12.06.08"
-  },
-  {
-    "review_id": "6231383",
-    "movie_id": "89668",
-    "author": "clie****",
-    "review": "공부하는 기분으로.  무대장치는 압권",
-    "rating": "7",
-    "date": "12.04.18"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:99c60da7e80ea978d85c3fd3f2bb4e5a19d74323a25ca5c97706d2fdb2d38213
+size 415

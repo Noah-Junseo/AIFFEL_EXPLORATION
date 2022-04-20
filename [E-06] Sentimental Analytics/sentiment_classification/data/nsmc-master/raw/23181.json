@@ -1,18 +1,3 @@
-[
-  {
-    "review": "평점의 신뢰성의 의심됨.",
-    "date": "15.01.29",
-    "rating": "10",
-    "author": "unde****",
-    "review_id": "9647276",
-    "movie_id": "23181"
-  },
-  {
-    "review": "옜날 영화임",
-    "date": "08.08.19",
-    "rating": "1",
-    "author": "sc59****",
-    "review_id": "2887471",
-    "movie_id": "23181"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b11dde1ce84374a8daabadae52b7737d3591e24d47756bab378ae559eb50e3a
+size 365

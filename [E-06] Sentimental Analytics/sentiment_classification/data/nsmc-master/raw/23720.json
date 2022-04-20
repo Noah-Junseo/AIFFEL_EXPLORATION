@@ -1,18 +1,3 @@
-[
-  {
-    "review": "홧김에~~ 굿 !! 나름 꼴리는 영화..",
-    "date": "08.01.14",
-    "rating": "4",
-    "author": "evil****",
-    "review_id": "2331599",
-    "movie_id": "23720"
-  },
-  {
-    "review": "홧김에... 제목부터 튄다.",
-    "date": "07.04.23",
-    "rating": "6",
-    "author": "salm****",
-    "review_id": "1601796",
-    "movie_id": "23720"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:37531c023a6878848c8b01542ffcca603f6d96b5866ec71208d5d91c6987a55b
+size 392

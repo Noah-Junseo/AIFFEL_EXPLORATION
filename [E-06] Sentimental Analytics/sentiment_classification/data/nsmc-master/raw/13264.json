@@ -1,18 +1,3 @@
-[
-  {
-    "review": "완전 대박 스트리트 나이트 완전멋짐 액션영화 추천 하시기 바랍니다.",
-    "date": "11.11.18",
-    "rating": "10",
-    "author": "rla6****",
-    "review_id": "5856325",
-    "movie_id": "13264"
-  },
-  {
-    "review": "당시 재밋게 본 액션영화로 기억",
-    "date": "10.12.27",
-    "rating": "9",
-    "author": "zmfp****",
-    "review_id": "5091102",
-    "movie_id": "13264"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:e696c705b03f410d091df9afa75a2e7f24d1eafee0309cc84ae0d7430ee3c50d
+size 452

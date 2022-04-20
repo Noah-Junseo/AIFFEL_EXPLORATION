@@ -1,18 +1,3 @@
-[
-  {
-    "review": "88년도에 동네 비디오 숍에서 예약까지 해서 봤던 작품. 스타등용문 TVB의 대작.",
-    "date": "12.04.12",
-    "rating": "10",
-    "author": "rati****",
-    "review_id": "6213585",
-    "movie_id": "16023"
-  },
-  {
-    "review": "이거 비디오 테이프 3개 짜리로 나와서 아버지가 빌려오셔서 봤음...92년도에",
-    "date": "11.08.11",
-    "rating": "10",
-    "author": "ojkc****",
-    "review_id": "5635187",
-    "movie_id": "16023"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0355fc48f90973852164e9fef10d9f8af24809121c028cb18a39be4ab5bd1eb
+size 522

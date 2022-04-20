@@ -1,18 +1,3 @@
-[
-  {
-    "review": "이게 뭐에요?",
-    "date": "13.06.24",
-    "rating": "4",
-    "author": "wail****",
-    "review_id": "7677284",
-    "movie_id": "23142"
-  },
-  {
-    "review": "아 OOO 졸래 보고싶네..어디서볼수있을까요?제발 갈쳐주세요.",
-    "date": "10.11.25",
-    "rating": "10",
-    "author": "cap1****",
-    "review_id": "4987024",
-    "movie_id": "23142"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0f8f75925284be0f59b062f18a2cb2c2a970689498251c0d8b2757dd40fc7de
+size 413

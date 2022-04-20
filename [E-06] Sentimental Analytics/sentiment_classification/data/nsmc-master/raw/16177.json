@@ -1,18 +1,3 @@
-[
-  {
-    "review": "오오",
-    "date": "13.08.19",
-    "rating": "10",
-    "author": "exop****",
-    "review_id": "7903744",
-    "movie_id": "16177"
-  },
-  {
-    "review": "재밋어요!!",
-    "date": "11.02.11",
-    "rating": "10",
-    "author": "deux****",
-    "review_id": "5235541",
-    "movie_id": "16177"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:46813d68b1fc5e2250fa29e9de9f7331ca64e37b100aee64d86bc8daa58cfa53
+size 337

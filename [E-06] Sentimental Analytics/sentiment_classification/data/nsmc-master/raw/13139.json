@@ -1,18 +1,3 @@
-[
-  {
-    "review": "굳",
-    "date": "13.07.19",
-    "rating": "10",
-    "author": "gkal****",
-    "review_id": "7763432",
-    "movie_id": "13139"
-  },
-  {
-    "review": "초반만 잘 견디면 후반엔 볼만하다. 샤론 스톤은 보너스.",
-    "date": "11.07.11",
-    "rating": "8",
-    "author": "mjka****",
-    "review_id": "5535130",
-    "movie_id": "13139"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:64b3bd13adf0851beed9c648bcc6917b290e296f45591bc3c355fc6ad8b85deb
+size 394

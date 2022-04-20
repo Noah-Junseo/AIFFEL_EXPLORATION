@@ -1,18 +1,3 @@
-[
-  {
-    "review": "사랑과믿음에대함을 일깨워....",
-    "date": "14.06.01",
-    "rating": "10",
-    "author": "moh1****",
-    "review_id": "8782811",
-    "movie_id": "26805"
-  },
-  {
-    "review": "명작 !",
-    "date": "12.07.27",
-    "rating": "10",
-    "author": "p_s_****",
-    "review_id": "6542740",
-    "movie_id": "26805"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa8257a018362e3ef4c7796f65cf762ba68db9dcbe126d8c3ed7c599e797111b
+size 366

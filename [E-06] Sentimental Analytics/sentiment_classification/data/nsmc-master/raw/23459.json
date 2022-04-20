@@ -1,18 +1,3 @@
-[
-  {
-    "review": "피융양바악취이기이",
-    "date": "13.07.08",
-    "rating": "10",
-    "author": "joke****",
-    "review_id": "7716308",
-    "movie_id": "23459"
-  },
-  {
-    "review": "윤건탁ㅄ",
-    "date": "11.12.13",
-    "rating": "10",
-    "author": "spai****",
-    "review_id": "5904050",
-    "movie_id": "23459"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:8698ad98995a5c58584981c4ef4553f935c2005d150623c33b348ddf236018e6
+size 356

@@ -1,26 +1,3 @@
-[
-  {
-    "review_id": "8772087",
-    "movie_id": "117513",
-    "author": "gksr****",
-    "review": "왜 10점이야????",
-    "rating": "1",
-    "date": "14.05.28"
-  },
-  {
-    "review_id": "8492683",
-    "movie_id": "117513",
-    "author": "jyso****",
-    "review": "이기우 잘생겼다 화이팅",
-    "rating": "10",
-    "date": "14.02.09"
-  },
-  {
-    "review_id": "8402299",
-    "movie_id": "117513",
-    "author": "dbfk****",
-    "review": "화이팅   하세요 김지훈씨♥",
-    "rating": "10",
-    "date": "14.01.20"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:e095b5d150d6a00c49351247e237e6d418db12d73c12291b286c5b0e5cb5bbf1
+size 564

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "2빠당!!@!!!!@!!!",
-    "date": "14.09.16",
-    "rating": "10",
-    "author": "dltm****",
-    "review_id": "9219781",
-    "movie_id": "42630"
-  },
-  {
-    "review": "첫빠당",
-    "date": "13.04.08",
-    "rating": "10",
-    "author": "chla****",
-    "review_id": "7444134",
-    "movie_id": "42630"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d49b3070c22f8d582ca74e98bb1a8fb19ff310133be0f5fd7790baf8ccb6b9df
+size 344

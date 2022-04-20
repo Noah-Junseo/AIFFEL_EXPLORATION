@@ -1,18 +1,3 @@
-[
-  {
-    "review": "정말 재밌었던 추억의 드라마.송선미와 성현아 너무 이뻐.",
-    "date": "12.06.21",
-    "rating": "10",
-    "author": "odjs****",
-    "review_id": "6405549",
-    "movie_id": "44868"
-  },
-  {
-    "review": "괜찮게 봤어요",
-    "date": "07.01.02",
-    "rating": "7",
-    "author": "zeed****",
-    "review_id": "1350027",
-    "movie_id": "44868"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:375520587350800cab63aa0aa196a234661695abe80fa103c31bd01246823077
+size 412

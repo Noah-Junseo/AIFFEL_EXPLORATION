@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9753281",
-    "movie_id": "136027",
-    "author": "han1****",
-    "review": "아마 20대에 저러고 즐겁게 뛰어다니는 아이들 드물것같아요 ㅎㅎ",
-    "rating": "10",
-    "date": "15.03.02"
-  },
-  {
-    "review_id": "9682491",
-    "movie_id": "136027",
-    "author": "batm****",
-    "review": "너무 재밌게 잘 보고 있어요^^ 앞으로도 응원 많이 할게요~",
-    "rating": "10",
-    "date": "15.02.09"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:944685d7b34ebd758ca5b72e4d1761dcb22dadda5ea1011f411e41405f3d1bf8
+size 483

@@ -1,34 +1,3 @@
-[
-  {
-    "review": "아 대박...ㅠ 최고입니다!!",
-    "date": "13.09.17",
-    "rating": "9",
-    "author": "gest****",
-    "review_id": "7989269",
-    "movie_id": "22559"
-  },
-  {
-    "review": "유관순 짱",
-    "date": "10.03.02",
-    "rating": "10",
-    "author": "ohys****",
-    "review_id": "4330891",
-    "movie_id": "22559"
-  },
-  {
-    "review": "눈물이 난다",
-    "date": "10.03.02",
-    "rating": "10",
-    "author": "osh4****",
-    "review_id": "4330890",
-    "movie_id": "22559"
-  },
-  {
-    "review": "흑색영화라니???",
-    "date": "10.01.13",
-    "rating": "1",
-    "author": "dltl****",
-    "review_id": "4165291",
-    "movie_id": "22559"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ac74dc10a6b30ce3888e78397109fe817dd48bb646324eddfb37b7e7de6ba1d
+size 713

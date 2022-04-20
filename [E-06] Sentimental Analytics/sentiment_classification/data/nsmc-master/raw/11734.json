@@ -1,18 +1,3 @@
-[
-  {
-    "review": "훈훈한 영화네요^^",
-    "date": "09.11.29",
-    "rating": "10",
-    "author": "ashl****",
-    "review_id": "4000314",
-    "movie_id": "11734"
-  },
-  {
-    "review": "가끔 joey 의 속삭임이 들려오는 영화 \"형 나를 위해 3 텃치다운을 해줄수 있어?\"",
-    "date": "08.09.25",
-    "rating": "8",
-    "author": "wind****",
-    "review_id": "2967873",
-    "movie_id": "11734"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:65b4c5fb6ebfd8340faf9b9a4f4d6b4714a0c3b050cea8431a38ea0807c022be
+size 446

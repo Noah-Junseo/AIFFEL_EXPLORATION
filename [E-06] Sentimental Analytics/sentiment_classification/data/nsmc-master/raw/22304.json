@@ -1,18 +1,3 @@
-[
-  {
-    "review": "그저 야한게 아니라 예술이었지.",
-    "date": "09.11.01",
-    "rating": "10",
-    "author": "jang****",
-    "review_id": "3928503",
-    "movie_id": "22304"
-  },
-  {
-    "review": "내용은 기억이 안나지만..야했던 기억이...",
-    "date": "05.03.11",
-    "rating": "6",
-    "author": "hals****",
-    "review_id": "238745",
-    "movie_id": "22304"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1d817fe4a1c1cbc93189701ab0de41fedf741cdd81db5a0a833aefa9d7e9434
+size 414

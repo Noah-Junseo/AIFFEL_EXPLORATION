@@ -1,26 +1,3 @@
-[
-  {
-    "review": "기본점수",
-    "date": "12.07.01",
-    "rating": "1",
-    "author": "rkdg****",
-    "review_id": "6436165",
-    "movie_id": "23693"
-  },
-  {
-    "review": "나도",
-    "date": "06.08.07",
-    "rating": "10",
-    "author": "vlf4****",
-    "review_id": "980119",
-    "movie_id": "23693"
-  },
-  {
-    "review": "기본점수 부여",
-    "date": "06.07.30",
-    "rating": "7",
-    "author": "zeed****",
-    "review_id": "946309",
-    "movie_id": "23693"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:688c47a16828563cb8f4f7bb192119280cb9bf5ba9616264dd4bb5e6462c173a
+size 507

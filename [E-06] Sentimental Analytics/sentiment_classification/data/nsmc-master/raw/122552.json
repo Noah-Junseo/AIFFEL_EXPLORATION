@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9909614",
-    "movie_id": "122552",
-    "author": "siho****",
-    "review": "10점이길래 눌러봤음",
-    "rating": "1",
-    "date": "15.05.10"
-  },
-  {
-    "review_id": "8718712",
-    "movie_id": "122552",
-    "author": "apin****",
-    "review": "지금 보고있음 진짜 재밌다.",
-    "rating": "10",
-    "date": "14.05.09"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0fea050a195a52c924872b0e57a4b3bf6a974fd636dae09c382965e396cef89
+size 382

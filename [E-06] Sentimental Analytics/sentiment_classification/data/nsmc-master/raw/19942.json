@@ -1,18 +1,3 @@
-[
-  {
-    "review": "꽃 한송이 놓고 갑니다ㅋㅋ",
-    "date": "15.02.17",
-    "rating": "1",
-    "author": "1004****",
-    "review_id": "9704763",
-    "movie_id": "19942"
-  },
-  {
-    "review": "공포물로 만들었다면 강렬한 윤정희의 표정이 빛을 발했을텐데",
-    "date": "06.10.27",
-    "rating": "6",
-    "author": "goma****",
-    "review_id": "1200757",
-    "movie_id": "19942"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d59ab11d8632757f626bf06b6f94d42241776f855f9d54a58c06fab275a878b
+size 435

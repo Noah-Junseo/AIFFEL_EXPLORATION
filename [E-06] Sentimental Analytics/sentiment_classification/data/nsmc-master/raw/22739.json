@@ -1,18 +1,3 @@
-[
-  {
-    "review": "(10+1)/2=5.5",
-    "date": "14.04.29",
-    "rating": "1",
-    "author": "kbs2****",
-    "review_id": "8681283",
-    "movie_id": "22739"
-  },
-  {
-    "review": "10점",
-    "date": "10.10.03",
-    "rating": "10",
-    "author": "rldn****",
-    "review_id": "4882450",
-    "movie_id": "22739"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:18900303684a08df76b3677d862dcf36e3372733522a06334b901a3d73dd50d4
+size 333

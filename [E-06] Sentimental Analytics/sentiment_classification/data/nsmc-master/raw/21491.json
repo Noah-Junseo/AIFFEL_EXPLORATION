@@ -1,18 +1,3 @@
-[
-  {
-    "review": "10자 적기 존나귀찮다 .",
-    "date": "14.10.05",
-    "rating": "2",
-    "author": "wnsq****",
-    "review_id": "9267278",
-    "movie_id": "21491"
-  },
-  {
-    "review": "낚였다",
-    "date": "06.10.03",
-    "rating": "10",
-    "author": "tbvj****",
-    "review_id": "1156671",
-    "movie_id": "21491"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab16922d3e57700e209de783999a4f188062ebf36437341bf3b5c491b39d90dd
+size 355

@@ -1,18 +1,3 @@
-[
-  {
-    "review": "스릴러였구나.. 에로인 줄 알았는데;;",
-    "date": "06.02.05",
-    "rating": "6",
-    "author": "kyyz****",
-    "review_id": "648988",
-    "movie_id": "12195"
-  },
-  {
-    "review": "스릴러의 추락.",
-    "date": "04.03.22",
-    "rating": "1",
-    "author": "inst****",
-    "review_id": "30811",
-    "movie_id": "12195"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae9f48c6ebe404d379e7aff7acdb455c24f3f54f3931431325bee4ea727f575c
+size 381

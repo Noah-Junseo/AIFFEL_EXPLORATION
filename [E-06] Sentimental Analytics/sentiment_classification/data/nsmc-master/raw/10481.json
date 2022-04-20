@@ -1,18 +1,3 @@
-[
-  {
-    "review": "몇번을 더 돌려본영화 ㅋㅋ 솔까 대복성하고 비교하면 이영화가 더 재밌음!",
-    "date": "11.06.30",
-    "rating": "9",
-    "author": "sall****",
-    "review_id": "5508928",
-    "movie_id": "10481"
-  },
-  {
-    "review": "재미있다ㅋㅋ",
-    "date": "09.11.13",
-    "rating": "10",
-    "author": "dltj****",
-    "review_id": "3959364",
-    "movie_id": "10481"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a87a5aa654504b3a1529037e0b7e387827e7722e872ca46d8fff9ce1f7da7a8
+size 434

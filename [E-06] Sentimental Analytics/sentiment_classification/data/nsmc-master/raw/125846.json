@@ -1,26 +1,3 @@
-[
-  {
-    "review_id": "9464310",
-    "movie_id": "125846",
-    "author": "tlaw****",
-    "review": "편하고 좋앟ㅇ습니다..",
-    "rating": "10",
-    "date": "14.12.11"
-  },
-  {
-    "review_id": "9395737",
-    "movie_id": "125846",
-    "author": "sofr****",
-    "review": "괜츈케 봤습니다. ㅋ 다음에도 부탁드려요",
-    "rating": "8",
-    "date": "14.11.17"
-  },
-  {
-    "review_id": "8860929",
-    "movie_id": "125846",
-    "author": "1st_****",
-    "review": "비용이 부담 됐지만 좋았다",
-    "rating": "8",
-    "date": "14.06.27"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:eff4abcb1d9ac30e4862e9616745bb96912219075bb6ae9fb1b4a3f1abd6e99f
+size 597

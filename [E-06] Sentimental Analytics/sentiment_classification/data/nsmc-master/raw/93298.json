@@ -1,26 +1,3 @@
-[
-  {
-    "review_id": "10059769",
-    "movie_id": "93298",
-    "author": "ktpo****",
-    "review": "2011년 영화인데?",
-    "rating": "1",
-    "date": "15.07.02"
-  },
-  {
-    "review_id": "10059725",
-    "movie_id": "93298",
-    "author": "f2a3****",
-    "review": "기대되네영~빨리개봉햇음좋겟ㄴ여",
-    "rating": "10",
-    "date": "15.07.02"
-  },
-  {
-    "review_id": "10059172",
-    "movie_id": "93298",
-    "author": "534k****",
-    "review": "피그... 돼지 ㅋㅋㅋㅋ",
-    "rating": "10",
-    "date": "15.07.02"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d635dbff3101649dd8cbfd1f28449e139e0f6b17e3d0504a1c34a40e2a8cde7
+size 572

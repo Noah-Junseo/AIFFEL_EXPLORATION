@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9711317",
-    "movie_id": "116107",
-    "author": "phil****",
-    "review": "유명가수까지마라진짜 한국노답이다",
-    "rating": "1",
-    "date": "15.02.19"
-  },
-  {
-    "review_id": "8549380",
-    "movie_id": "116107",
-    "author": "jwmk****",
-    "review": "이유비씨가 짱이었다.",
-    "rating": "10",
-    "date": "14.03.01"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:1063e512384612b19fd85e5636b9e32135d163b62808b9eb9179119d14a40021
+size 396

@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9667988",
-    "movie_id": "118989",
-    "author": "heff****",
-    "review": "한 편의 아름다운 뮤직비디오를 보는 것 같았어요~ 연상연하지만 두 배우의 케미도 짱짱!",
-    "rating": "9",
-    "date": "15.02.05"
-  },
-  {
-    "review_id": "9667545",
-    "movie_id": "118989",
-    "author": "taku****",
-    "review": "재밌습니다. 책으로 먼저 접했었는데 이렇게 보게 되었네요 ㅎ",
-    "rating": "9",
-    "date": "15.02.05"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:bec6043dcd1c389b27f0b208b373b2f24e9ec887a2ea2eb568197c918357458f
+size 518

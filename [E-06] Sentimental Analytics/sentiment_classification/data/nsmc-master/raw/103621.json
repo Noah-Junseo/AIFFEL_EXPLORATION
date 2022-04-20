@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "8434983",
-    "movie_id": "103621",
-    "author": "blue****",
-    "review": "출연진들이 별루....ㅋㅋ",
-    "rating": "1",
-    "date": "14.01.27"
-  },
-  {
-    "review_id": "7438411",
-    "movie_id": "103621",
-    "author": "wkda****",
-    "review": "사회역할무지잘하는거같은데요ㅋㅋ갠적으로도좋아함ㅎ",
-    "rating": "10",
-    "date": "13.04.06"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8fb055bbdc9e571c32e262c2badafadd1e4f2ec270d7a40edf1b0b25db61d78
+size 425

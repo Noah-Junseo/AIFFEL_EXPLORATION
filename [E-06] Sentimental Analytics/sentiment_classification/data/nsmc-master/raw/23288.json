@@ -1,18 +1,3 @@
-[
-  {
-    "review": "보구시펑ㅜㅜ",
-    "date": "13.03.21",
-    "rating": "10",
-    "author": "revo****",
-    "review_id": "7386531",
-    "movie_id": "23288"
-  },
-  {
-    "review": "우리나라 최초의 발성영화!",
-    "date": "06.06.04",
-    "rating": "10",
-    "author": "asdf****",
-    "review_id": "830611",
-    "movie_id": "23288"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbfebbb1e25aeb99ee8a0efea2ff8ecfca365bf7f68c8c216a8cd99f63041f24
+size 370

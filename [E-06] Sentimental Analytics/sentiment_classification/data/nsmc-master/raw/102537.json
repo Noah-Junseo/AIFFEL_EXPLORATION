@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9209705",
-    "movie_id": "102537",
-    "author": "tumb****",
-    "review": "재미지다 아이칼리..",
-    "rating": "10",
-    "date": "14.09.13"
-  },
-  {
-    "review_id": "7885008",
-    "movie_id": "102537",
-    "author": "gkst****",
-    "review": "잘봤었다 아이칼리",
-    "rating": "10",
-    "date": "13.08.15"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ae98981398b2efc2461dd9d1c63d8c62f9272596c1a9e4caf4d61300559f39e
+size 371

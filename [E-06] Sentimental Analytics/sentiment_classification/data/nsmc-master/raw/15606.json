@@ -1,18 +1,3 @@
-[
-  {
-    "review": "초반까진 좋았지만 도박이 어설프게 등장하면서 망친 영화",
-    "date": "07.10.28",
-    "rating": "6",
-    "author": "kimy****",
-    "review_id": "2119079",
-    "movie_id": "15606"
-  },
-  {
-    "review": "정전자가 히트하고 나오기 시작한 카지노물 중 하나 왕조현은 조연에 불과함",
-    "date": "05.01.15",
-    "rating": "7",
-    "author": "joey****",
-    "review_id": "186624",
-    "movie_id": "15606"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6b35f824e2b29eb2edab21b63285bca55ee13b522f502d3d8eff93544759044
+size 494

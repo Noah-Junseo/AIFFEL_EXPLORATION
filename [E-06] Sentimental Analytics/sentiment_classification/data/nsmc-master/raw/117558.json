@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "8827217",
-    "movie_id": "117558",
-    "author": "sobi****",
-    "review": ",....흠;;이럴수가;??.();;흠흠흠흠",
-    "rating": "1",
-    "date": "14.06.13"
-  },
-  {
-    "review_id": "8665375",
-    "movie_id": "117558",
-    "author": "zaz5****",
-    "review": "어떻게 한명도없냐 ???",
-    "rating": "10",
-    "date": "14.04.22"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d0ea49e4c741072e1668bd7cb12459796ae048f9c846008bbb52b40bb34430a
+size 389

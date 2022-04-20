@@ -1,26 +1,3 @@
-[
-  {
-    "review_id": "9427010",
-    "movie_id": "125818",
-    "author": "gusa****",
-    "review": "10점이길래  봤는데  두명이 10점 준거였네  개인 취향이지만 그닥",
-    "rating": "1",
-    "date": "14.11.27"
-  },
-  {
-    "review_id": "9095808",
-    "movie_id": "125818",
-    "author": "0209****",
-    "review": "재미나요!  강추합니다",
-    "rating": "10",
-    "date": "14.08.16"
-  },
-  {
-    "review_id": "9086004",
-    "movie_id": "125818",
-    "author": "anou****",
-    "review": "안녕 킹콩아 안녕 원숭아 바이 킹콩아 바이 원숭아",
-    "rating": "10",
-    "date": "14.08.14"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:adb2461d1b3c58eaae0a6e5e3136925689203ddb94307dd572f29c915ff19ee8
+size 659

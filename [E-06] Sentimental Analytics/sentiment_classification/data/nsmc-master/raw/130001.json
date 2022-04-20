@@ -1,18 +1,3 @@
-[
-  {
-    "review_id": "9238377",
-    "movie_id": "130001",
-    "author": "silv****",
-    "review": "오랫만에 감동적인 드라마ㅎ좋았습니다ㅎ",
-    "rating": "10",
-    "date": "14.09.24"
-  },
-  {
-    "review_id": "9238373",
-    "movie_id": "130001",
-    "author": "nhoa****",
-    "review": "넘 감동적이에요~~~ㅠㅠ",
-    "rating": "10",
-    "date": "14.09.24"
-  }
-]
+version https://git-lfs.github.com/spec/v1
+oid sha256:e470f103b1360301e5916c4baf73296615da1bdfda2983a907cb0443138d1e1d
+size 406
